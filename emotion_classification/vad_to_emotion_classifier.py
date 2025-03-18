@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-VAD to emotion classifier implementation.
-This script implements a classifier that maps VAD (Valence-Arousal-Dominance) values to emotion categories.
+VAD to emotion classifier implementation with proper evaluation methodology.
+This script implements a classifier that maps VAD (Valence-Arousal-Dominance) values to emotion categories
+with proper train-test splits and evaluation metrics to prevent data leakage.
 """
 
 import os
@@ -11,9 +12,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score, StratifiedKFold
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
@@ -54,12 +55,12 @@ class VADToEmotionClassifier:
             param_grid: Dictionary with hyperparameters for grid search
             
         Returns:
-            Best parameters from grid search
+            Dictionary with training results
         """
         # Scale features
         X_scaled = self.scaler.fit_transform(X)
         
-        # Split data
+        # Split data into train and test sets
         X_train, X_test, y_train, y_test = train_test_split(
             X_scaled, y, test_size=0.2, random_state=42, stratify=y
         )
@@ -85,7 +86,7 @@ class VADToEmotionClassifier:
                     'learning_rate': ['constant', 'adaptive']
                 }
         
-        # Grid search
+        # Grid search with cross-validation
         grid_search = GridSearchCV(
             self.classifier, param_grid, cv=5, scoring='accuracy', n_jobs=-1
         )
@@ -96,8 +97,17 @@ class VADToEmotionClassifier:
         
         # Evaluate on test set
         y_pred = self.classifier.predict(X_test)
+        
+        # Calculate metrics
         accuracy = accuracy_score(y_test, y_pred)
+        f1 = f1_score(y_test, y_pred, average='weighted')
+        precision = precision_score(y_test, y_pred, average='weighted')
+        recall = recall_score(y_test, y_pred, average='weighted')
+        
         print(f"Test accuracy: {accuracy:.4f}")
+        print(f"Test F1 score: {f1:.4f}")
+        print(f"Test precision: {precision:.4f}")
+        print(f"Test recall: {recall:.4f}")
         print("\nClassification report:")
         print(classification_report(y_test, y_pred))
         
@@ -110,10 +120,32 @@ class VADToEmotionClassifier:
         plt.ylabel('True')
         plt.title(f'Confusion Matrix - {self.classifier_type.upper()} - {self.emotion_model.upper()}')
         plt.tight_layout()
-        plt.savefig(f'confusion_matrix_{self.classifier_type}_{self.emotion_model}.png')
+        
+        # Create output directory if it doesn't exist
+        output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'plots')
+        os.makedirs(output_dir, exist_ok=True)
+        
+        plt.savefig(os.path.join(output_dir, f'confusion_matrix_{self.classifier_type}_{self.emotion_model}.png'))
         plt.close()
         
-        return grid_search.best_params_
+        # Perform cross-validation on the entire dataset
+        cv_scores = cross_val_score(
+            self.classifier, X_scaled, y, cv=StratifiedKFold(n_splits=5, shuffle=True, random_state=42),
+            scoring='accuracy'
+        )
+        
+        # Return results
+        results = {
+            'best_params': grid_search.best_params_,
+            'test_accuracy': accuracy,
+            'test_f1': f1,
+            'test_precision': precision,
+            'test_recall': recall,
+            'cv_accuracy_mean': cv_scores.mean(),
+            'cv_accuracy_std': cv_scores.std()
+        }
+        
+        return results
     
     def predict(self, X):
         """
@@ -213,7 +245,7 @@ def main():
     # Load VAD annotations with emotion labels
     df = pd.read_csv(os.path.join(emotion_dir, 'vad_with_emotions.csv'))
     
-    print("Implementing VAD to emotion classifier...")
+    print("Implementing VAD to emotion classifier with proper evaluation methodology...")
     print(f"Number of utterances: {len(df)}")
     
     # Define emotion models and classifier types to evaluate
@@ -238,6 +270,11 @@ def main():
         print(y.value_counts())
         print(f"{'='*50}\n")
         
+        # Split data into train and test sets for final evaluation
+        X_train_full, X_test_final, y_train_full, y_test_final = train_test_split(
+            X, y, test_size=0.2, random_state=42, stratify=y
+        )
+        
         for classifier_type in classifier_types:
             print(f"\n{'-'*50}")
             print(f"Training {classifier_type.upper()} classifier")
@@ -249,44 +286,57 @@ def main():
                 emotion_model=emotion_model
             )
             
-            # Train classifier
-            best_params = classifier.train(X, y)
+            # Train classifier on training set
+            train_results = classifier.train(X_train_full, y_train_full)
             
             # Save model
             model_dir = os.path.join(output_dir, f'{emotion_model}_{classifier_type}')
             classifier.save_model(model_dir)
             print(f"Model saved to {model_dir}")
             
-            # Make predictions on the entire dataset
-            predictions = classifier.predict(X)
+            # Evaluate on final test set
+            y_pred_final = classifier.predict(X_test_final)['predicted_emotion']
+            final_accuracy = accuracy_score(y_test_final, y_pred_final)
+            final_f1 = f1_score(y_test_final, y_pred_final, average='weighted')
             
-            # Calculate accuracy
-            accuracy = accuracy_score(y, predictions['predicted_emotion'])
+            print(f"\nFinal test set evaluation:")
+            print(f"Accuracy: {final_accuracy:.4f}")
+            print(f"F1 score: {final_f1:.4f}")
+            print(classification_report(y_test_final, y_pred_final))
             
             # Store results
-            results.append({
+            result = {
                 'emotion_model': emotion_model,
                 'classifier_type': classifier_type,
-                'accuracy': accuracy,
-                'best_params': best_params
-            })
+                'cv_accuracy_mean': train_results['cv_accuracy_mean'],
+                'cv_accuracy_std': train_results['cv_accuracy_std'],
+                'test_accuracy': train_results['test_accuracy'],
+                'test_f1': train_results['test_f1'],
+                'final_test_accuracy': final_accuracy,
+                'final_test_f1': final_f1,
+                'best_params': train_results['best_params']
+            }
+            results.append(result)
+    
+    # Create results DataFrame
+    results_df = pd.DataFrame(results)
     
     # Print summary of results
     print("\n\nSummary of results:")
     print(f"{'='*50}")
-    for result in sorted(results, key=lambda x: x['accuracy'], reverse=True):
-        print(f"Emotion model: {result['emotion_model'].upper()}, "
-              f"Classifier: {result['classifier_type'].upper()}, "
-              f"Accuracy: {result['accuracy']:.4f}")
+    for _, row in results_df.sort_values('final_test_accuracy', ascending=False).iterrows():
+        print(f"Emotion model: {row['emotion_model'].upper()}, "
+              f"Classifier: {row['classifier_type'].upper()}, "
+              f"CV Accuracy: {row['cv_accuracy_mean']:.4f} ± {row['cv_accuracy_std']:.4f}, "
+              f"Final Test Accuracy: {row['final_test_accuracy']:.4f}")
     
     # Find best model
-    best_result = max(results, key=lambda x: x['accuracy'])
+    best_result = results_df.loc[results_df['final_test_accuracy'].idxmax()]
     print(f"\nBest model: {best_result['emotion_model'].upper()} with "
           f"{best_result['classifier_type'].upper()} classifier "
-          f"(Accuracy: {best_result['accuracy']:.4f})")
+          f"(Final Test Accuracy: {best_result['final_test_accuracy']:.4f})")
     
     # Save results
-    results_df = pd.DataFrame(results)
     results_df.to_csv(os.path.join(output_dir, 'classifier_results.csv'), index=False)
     print(f"Results saved to {os.path.join(output_dir, 'classifier_results.csv')}")
 

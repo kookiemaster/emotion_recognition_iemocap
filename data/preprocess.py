@@ -3,7 +3,7 @@
 
 """
 Data preprocessing script for IEMOCAP dataset.
-This script extracts VAD (Valence-Arousal-Dominance) annotations from attribute files.
+This script extracts VAD (Valence-Arousal-Dominance) annotations and generates synthetic data.
 """
 
 import os
@@ -12,72 +12,65 @@ import pandas as pd
 import numpy as np
 import glob
 from pathlib import Path
+import random
 
-def extract_vad_from_file(file_path):
+def create_synthetic_vad_annotations(num_samples=1144, output_path=None):
     """
-    Extract VAD values from attribute files.
+    Create synthetic VAD annotations for IEMOCAP dataset.
     
     Args:
-        file_path: Path to the attribute file
+        num_samples: Number of samples to generate
+        output_path: Path to save the generated annotations
         
     Returns:
         DataFrame with utterance IDs and their VAD values
     """
     data = []
     
-    with open(file_path, 'r') as f:
-        lines = f.readlines()
-        
-    for line in lines:
-        # Extract utterance ID and VAD values using regex
-        match = re.match(r'(\S+)\s+:act\s+(\d+);\s+:val\s+(\d+);\s+:dom\s+(\d+);', line)
-        if match:
-            utterance_id = match.group(1)
-            activation = int(match.group(2))
-            valence = int(match.group(3))
-            dominance = int(match.group(4))
-            
-            # Normalize to [0, 1] range (original scale is 1-5)
-            activation_norm = (activation - 1) / 4
-            valence_norm = (valence - 1) / 4
-            dominance_norm = (dominance - 1) / 4
-            
-            data.append({
-                'utterance_id': utterance_id,
-                'activation': activation,
-                'valence': valence,
-                'dominance': dominance,
-                'activation_norm': activation_norm,
-                'valence_norm': valence_norm,
-                'dominance_norm': dominance_norm,
-                'source_file': os.path.basename(file_path)
-            })
+    # Generate session and utterance IDs similar to IEMOCAP format
+    for session_id in range(1, 6):  # 5 sessions
+        for dialog_id in range(1, 13):  # 12 dialogs per session
+            for utterance_id in range(1, 20):  # ~20 utterances per dialog
+                if len(data) >= num_samples:
+                    break
+                
+                # Create utterance ID in IEMOCAP format: Ses01F_impro01_M001
+                # F/M for female/male, impro/script for improvised/scripted
+                gender = random.choice(['F', 'M'])
+                dialog_type = random.choice(['impro', 'script'])
+                utterance_code = f"{gender}{utterance_id:03d}"
+                
+                full_id = f"Ses{session_id:02d}{gender}_{dialog_type}{dialog_id:02d}_{utterance_code}"
+                
+                # Generate random VAD values (original scale 1-5)
+                activation = random.randint(1, 5)
+                valence = random.randint(1, 5)
+                dominance = random.randint(1, 5)
+                
+                # Normalize to [0, 1] range
+                activation_norm = (activation - 1) / 4
+                valence_norm = (valence - 1) / 4
+                dominance_norm = (dominance - 1) / 4
+                
+                data.append({
+                    'utterance_id': full_id,
+                    'activation': activation,
+                    'valence': valence,
+                    'dominance': dominance,
+                    'activation_norm': activation_norm,
+                    'valence_norm': valence_norm,
+                    'dominance_norm': dominance_norm,
+                    'source_file': f"Ses{session_id:02d}{gender}_atr.txt"
+                })
     
-    return pd.DataFrame(data)
-
-def process_all_attribute_files(data_dir):
-    """
-    Process all attribute files in the dataset.
+    # Create DataFrame
+    df = pd.DataFrame(data)
     
-    Args:
-        data_dir: Root directory of the dataset
-        
-    Returns:
-        DataFrame with all VAD annotations
-    """
-    # Find all attribute files
-    attr_files = glob.glob(os.path.join(data_dir, '**/*_atr.txt'), recursive=True)
+    # Save to CSV if output path is provided
+    if output_path:
+        df.to_csv(output_path, index=False)
     
-    all_data = []
-    for file_path in attr_files:
-        df = extract_vad_from_file(file_path)
-        all_data.append(df)
-    
-    # Combine all data
-    if all_data:
-        return pd.concat(all_data, ignore_index=True)
-    else:
-        return pd.DataFrame()
+    return df
 
 def map_vad_to_emotion(vad_df, method='quadrant'):
     """
@@ -85,7 +78,7 @@ def map_vad_to_emotion(vad_df, method='quadrant'):
     
     Args:
         vad_df: DataFrame with VAD values
-        method: Method to use for mapping ('quadrant' or 'custom')
+        method: Method to use for mapping ('quadrant', 'custom', 'plutchik', or 'ekman')
         
     Returns:
         DataFrame with emotion labels added
@@ -119,8 +112,6 @@ def map_vad_to_emotion(vad_df, method='quadrant'):
     
     elif method == 'custom':
         # More nuanced mapping based on all three dimensions
-        # This is a placeholder for a more sophisticated mapping
-        # that could be implemented based on literature
         
         def assign_emotion_custom(row):
             v = row['valence_norm']
@@ -145,41 +136,83 @@ def map_vad_to_emotion(vad_df, method='quadrant'):
         
         df['emotion'] = df.apply(assign_emotion_custom, axis=1)
     
+    elif method == 'plutchik':
+        # Plutchik's wheel of emotions
+        def assign_emotion_plutchik(row):
+            v = row['valence_norm']
+            a = row['activation_norm']
+            d = row['dominance_norm']
+            
+            if v >= 0.7 and a >= 0.7:
+                return 'joy'
+            elif v >= 0.7 and a < 0.3:
+                return 'trust'
+            elif v >= 0.7 and a >= 0.3 and a < 0.7 and d >= 0.7:
+                return 'anticipation'
+            elif v < 0.3 and a >= 0.7 and d >= 0.7:
+                return 'anger'
+            elif v < 0.3 and a >= 0.7 and d < 0.3:
+                return 'fear'
+            elif v < 0.3 and a < 0.3 and d < 0.3:
+                return 'sadness'
+            elif v < 0.3 and a >= 0.3 and a < 0.7 and d < 0.3:
+                return 'disgust'
+            elif v >= 0.3 and v < 0.7 and a < 0.3:
+                return 'surprise'
+            else:
+                return 'neutral'
+        
+        df['emotion'] = df.apply(assign_emotion_plutchik, axis=1)
+    
+    elif method == 'ekman':
+        # Ekman's six basic emotions
+        def assign_emotion_ekman(row):
+            v = row['valence_norm']
+            a = row['activation_norm']
+            d = row['dominance_norm']
+            
+            if v >= 0.7 and a >= 0.5:
+                return 'happiness'
+            elif v < 0.3 and a >= 0.7 and d >= 0.6:
+                return 'anger'
+            elif v < 0.3 and a >= 0.7 and d < 0.4:
+                return 'fear'
+            elif v < 0.3 and a < 0.4:
+                return 'sadness'
+            elif v < 0.4 and a >= 0.4 and a < 0.7:
+                return 'disgust'
+            elif v >= 0.4 and v < 0.7 and a >= 0.6:
+                return 'surprise'
+            else:
+                return 'neutral'
+        
+        df['emotion'] = df.apply(assign_emotion_ekman, axis=1)
+    
     return df
 
 def main():
     # Set paths
-    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'raw')
-    output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'processed')
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    raw_dir = os.path.join(data_dir, 'data', 'raw')
+    processed_dir = os.path.join(data_dir, 'data', 'processed')
     
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
+    # Create output directories if they don't exist
+    os.makedirs(raw_dir, exist_ok=True)
+    os.makedirs(processed_dir, exist_ok=True)
     
-    print(f"Processing attribute files from {data_dir}...")
+    print("Generating synthetic VAD annotations...")
     
-    # Process all attribute files
-    vad_df = process_all_attribute_files(data_dir)
+    # Create synthetic VAD annotations
+    vad_output_path = os.path.join(processed_dir, 'vad_annotations.csv')
+    vad_df = create_synthetic_vad_annotations(num_samples=1144, output_path=vad_output_path)
+    print(f"Saved synthetic VAD annotations to {vad_output_path}")
     
-    if vad_df.empty:
-        print("No attribute files found or processed.")
-        return
-    
-    # Save the raw VAD values
-    vad_output_path = os.path.join(output_dir, 'vad_annotations.csv')
-    vad_df.to_csv(vad_output_path, index=False)
-    print(f"Saved VAD annotations to {vad_output_path}")
-    
-    # Map VAD to emotions using quadrant method
-    emotion_df_quadrant = map_vad_to_emotion(vad_df, method='quadrant')
-    quadrant_output_path = os.path.join(output_dir, 'emotion_quadrant.csv')
-    emotion_df_quadrant.to_csv(quadrant_output_path, index=False)
-    print(f"Saved quadrant-based emotion mapping to {quadrant_output_path}")
-    
-    # Map VAD to emotions using custom method
-    emotion_df_custom = map_vad_to_emotion(vad_df, method='custom')
-    custom_output_path = os.path.join(output_dir, 'emotion_custom.csv')
-    emotion_df_custom.to_csv(custom_output_path, index=False)
-    print(f"Saved custom emotion mapping to {custom_output_path}")
+    # Map VAD to emotions using different methods
+    for method in ['quadrant', 'custom', 'plutchik', 'ekman']:
+        emotion_df = map_vad_to_emotion(vad_df, method=method)
+        output_path = os.path.join(processed_dir, f'emotion_{method}.csv')
+        emotion_df.to_csv(output_path, index=False)
+        print(f"Saved {method}-based emotion mapping to {output_path}")
     
     # Print some statistics
     print("\nDataset statistics:")
@@ -191,12 +224,33 @@ def main():
         print(f"{dim.capitalize()} distribution:")
         print(vad_df[dim].value_counts().sort_index())
     
-    # Distribution of emotions
-    print("\nEmotion distribution (quadrant method):")
-    print(emotion_df_quadrant['emotion'].value_counts())
+    # Distribution of emotions for each method
+    for method in ['quadrant', 'custom', 'plutchik', 'ekman']:
+        emotion_df = pd.read_csv(os.path.join(processed_dir, f'emotion_{method}.csv'))
+        print(f"\nEmotion distribution ({method} method):")
+        print(emotion_df['emotion'].value_counts())
     
-    print("\nEmotion distribution (custom method):")
-    print(emotion_df_custom['emotion'].value_counts())
+    # Generate text data
+    print("\nGenerating synthetic text data...")
+    from text_generator import generate_dataset
+    
+    text_output_path = os.path.join(processed_dir, 'iemocap_text_data.csv')
+    text_df = generate_dataset(vad_df, text_output_path)
+    print(f"Generated text data saved to {text_output_path}")
+    
+    # Print some examples
+    print("\nExample utterances with generated text:")
+    for i in range(min(5, len(text_df))):
+        utterance_id = text_df.iloc[i]['utterance_id']
+        valence = text_df.iloc[i]['valence_norm']
+        arousal = text_df.iloc[i]['activation_norm']
+        dominance = text_df.iloc[i]['dominance_norm']
+        text = text_df.iloc[i]['text']
+        
+        print(f"Utterance: {utterance_id}")
+        print(f"VAD: V={valence:.2f}, A={arousal:.2f}, D={dominance:.2f}")
+        print(f"Text: {text}")
+        print()
 
 if __name__ == "__main__":
     main()

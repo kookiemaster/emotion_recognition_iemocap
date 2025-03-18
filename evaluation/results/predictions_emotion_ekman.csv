@@ -1,0 +1,229 @@
+text,valence,arousal,dominance,predicted_emotion,prob_anger,prob_fear,prob_happiness,prob_neutral,prob_sadness,prob_surprise
+I feel active today.,0.7575,0.770625,0.5240297619047619,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"Despite feeling happy about the challenge, I approached it with a masterful attitude.",0.5,0.6175,0.52,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all excited after hearing the news.,0.7874404761904762,0.32467857142857137,0.62825,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+The team is excited about the project.,0.8087023809523808,0.5176190476190475,0.6105833333333333,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The conversation left me feeling effective.,0.84,0.745,0.86875,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"I was amazing at first, but after thinking about it, I feel skilled.",0.59,0.5175,0.6153333333333334,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+Everything seems aroused at the moment.,0.7404166666666666,0.8497916666666666,0.29,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The meeting was beautiful and productive.,0.715,0.11595833333333333,0.5298333333333334,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I've been feeling beautiful all day, but now I'm starting to feel tranquil.",0.7,0.4325,0.4825,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The team is inactive about the project.,0.42467857142857146,0.338125,0.44375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+Everything seems wild at the moment.,0.4127619047619047,0.5223511904761904,0.6376875,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me frantic.,0.4942619047619048,0.61,0.47483333333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I've been feeling fearless lately.,0.815,0.285,0.72,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+"The team was active about the deadline, but happy about the quality of work.",0.78,0.7675,0.37625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The feedback was effective and helpful.,0.6854166666666666,0.5966666666666667,0.5966666666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The atmosphere feels distressed.,0.2735416666666666,0.5620833333333334,0.24354166666666668,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm in a depressed mood.,0.4715833333333333,0.7041666666666667,0.5576388888888889,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The conversation left me feeling helpless.,0.7520833333333333,0.375,0.47104166666666664,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I feel positive today.,0.84,0.588125,0.6084880952380952,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The situation is timid for all of us.,0.5871666666666665,0.8324702380952381,0.5151111111111111,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+The atmosphere feels gentle.,0.4347083333333333,0.5567916666666667,0.63875,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The feedback was detached and helpful.,0.43,0.1875,0.58625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I can't help but feel still right now.,0.5625,0.4825,0.6375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all peaceful after hearing the news.,0.50375,0.1852619047619048,0.5844702380952381,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"Despite feeling incompetent about the challenge, I approached it with a unfortunate attitude.",0.3425,0.5575,0.57,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone eager.,0.6013452380952381,0.5817916666666667,0.5002083333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone forceful.,0.5588452380952381,0.5605416666666667,0.4989583333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm in a bored mood.,0.5720833333333334,0.18958333333333335,0.6276388888888889,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was lovely, the audience response was positive.",0.8671428571428572,0.54625,0.5704166666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The situation is dreadful for all of us.,0.3364583333333333,0.8480535714285717,0.5962777777777778,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The feedback was weak and helpful.,0.585,0.620625,0.3475,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+What started as a forceful conversation quickly turned incapable.,0.8175,0.5400833333333334,0.637875,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+My day has been glad.,0.40225,0.4743452380952381,0.41535119047619046,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I've been feeling uncertain all day, but now I'm starting to feel bored.",0.49,0.1925,0.2425,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I feel decisive today.,0.5875,0.7262916666666667,0.7336666666666667,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+That experience was ecstatic.,0.5575,0.40625,0.375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me thrilled.,0.6474166666666666,0.5625,0.342125,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+Everything seems dependent at the moment.,0.3684910714285714,0.4846428571428571,0.6434375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"Although the situation seems electrified, I believe it will become capable soon.",0.39,0.6614166666666667,0.710125,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+The feedback was charged and helpful.,0.3825,0.6604166666666665,0.590625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is uninterested for all of us.,0.5116666666666666,0.7138035714285715,0.5862777777777778,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+The meeting was determined and productive.,0.40833333333333327,0.08970833333333332,0.5885833333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I've been feeling relaxed lately.,0.543625,0.45716666666666667,0.5602539682539682,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The conversation left me feeling uninterested.,0.7745833333333333,0.32375,0.7612499999999999,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+The conversation left me feeling capable.,0.69625,0.4275,0.7489583333333333,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The movie had a positive beginning but a subdued ending.,0.815,0.47875,0.61875,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The results made everyone tranquil.,0.6038452380952382,0.44116666666666676,0.44038690476190473,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The team was afraid about the deadline, but disappointed about the quality of work.",0.4525,0.545,0.3175,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+My day has been electrified.,0.21641666666666665,0.7101785714285714,0.45555952380952375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I am wonderful about what happened.,0.6,0.1675,0.7275,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The movie had a cheerful beginning but a bold ending.,0.8925,0.5325,0.6675,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I'm delighted because of the recent events.,0.7595416666666668,0.5583333333333332,0.8421666666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"I was doubtful at first, but after thinking about it, I feel mellow.",0.40875,0.20916666666666667,0.13541666666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I can't help but feel upset right now.,0.4563333333333333,0.62625,0.6075,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"Despite feeling good about the challenge, I approached it with a thrilled attitude.",0.4623958333333333,0.66375,0.545,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm in a ecstatic mood.,0.7464166666666668,0.5558333333333333,0.30430555555555555,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The conversation left me feeling vigorous.,0.628125,0.7575,0.7128333333333333,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+This outcome is gloomy for me.,0.2145,0.2975,0.205,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+The team is subdued about the project.,0.4334285714285715,0.4929166666666667,0.5297916666666667,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+Everything seems commanding at the moment.,0.3543244047619048,0.5054761904761904,0.6259375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I've been feeling commanding all day, but now I'm starting to feel mellow.",0.53625,0.161875,0.511,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I was joyful at first, but after thinking about it, I feel commanding.",0.485,0.6625,0.3175,surprise,0.0,0.0,0.0,0.0,0.0,1.0
+The movie had a serene beginning but a uninterested ending.,0.37,0.2625,0.6425,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"I've been feeling ecstatic all day, but now I'm starting to feel powerless.",0.6725,0.38,0.11416666666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I can't help but feel vulnerable right now.,0.6125,0.5875,0.4375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I feel animated today.,0.5475,0.8033750000000001,0.5255714285714286,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"I was vulnerable at first, but after thinking about it, I feel upset.",0.35,0.4875,0.3425,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all effective after hearing the news.,0.2425,0.735,0.6291666666666668,anger,1.0,0.0,0.0,0.0,0.0,0.0
+I feel miserable today.,0.56,0.7175416666666666,0.5109583333333333,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+This situation makes me feel gloomy.,0.3232083333333333,0.4999583333333334,0.35854761904761906,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+This situation makes me feel bad.,0.2950833333333333,0.590625,0.7064642857142858,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I can't help but feel inactive right now.,0.5775,0.315,0.525,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is depressed for all of us.,0.48791666666666655,0.846136904761905,0.5937777777777778,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I've been feeling mighty all day, but now I'm starting to feel great.",0.5475,0.595,0.56,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I feel potent today.,0.36,0.21583333333333335,0.8525,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+The results made everyone bored.,0.5819702380952382,0.179375,0.5062202380952381,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I feel exhilarated today.,0.2975,0.6258333333333334,0.7375,anger,1.0,0.0,0.0,0.0,0.0,0.0
+This situation makes me feel courageous.,0.3565416666666667,0.5591250000000001,0.5538392857142856,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"Although the situation seems frantic, I believe it will become animated soon.",0.4625,0.78,0.6725,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+The feedback was glad and helpful.,0.5625,0.49041666666666667,0.5166666666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is ineffective for all of us.,0.5346666666666665,0.833636904761905,0.23644444444444443,surprise,0.0,0.0,0.0,0.0,0.0,1.0
+"I was electrified at first, but after thinking about it, I feel excited.",0.8454999999999999,0.6575,0.53125,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The project started out delighted, but ended up being quite delighted.",0.8225,0.615,0.605,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"Despite feeling upset about the challenge, I approached it with a aroused attitude.",0.3051666666666667,0.668125,0.4775,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone miserable.,0.5507202380952382,0.5605416666666667,0.4187202380952381,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone uncertain.,0.717595238095238,0.5797916666666666,0.2530952380952381,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The movie had a still beginning but a fearless ending.,0.4625,0.3675,0.8025,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The team is uninterested about the project.,0.4284285714285715,0.4644940476190477,0.5835,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The team is subdued about the project.,0.4334285714285715,0.4929166666666667,0.5297916666666667,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was tragic, the audience response was uncertain.",0.7925,0.665,0.3475,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I am energetic about what happened.,0.36579166666666657,0.29,0.5665,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"Despite feeling apathetic about the challenge, I approached it with a miserable attitude.",0.4241249999999999,0.49,0.42,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is decisive for all of us.,0.5521666666666666,0.821136904761905,0.6757777777777778,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+The meeting was horrible and productive.,0.3529166666666667,0.12158333333333333,0.5567083333333334,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"The team was apathetic about the deadline, but terrible about the quality of work.",0.41100000000000003,0.565,0.39625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I can't help but feel brave right now.,0.5975,0.5435972222222223,0.7208333333333334,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+My day has been sluggish.,0.19724999999999998,0.46642857142857147,0.47701785714285705,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+That experience was apathetic.,0.721625,0.4460833333333334,0.533875,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The atmosphere feels authoritative.,0.3164583333333333,0.7587916666666666,0.72375,anger,1.0,0.0,0.0,0.0,0.0,0.0
+The situation is enthusiastic for all of us.,0.63,0.73125,0.65,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+We were all assertive after hearing the news.,0.35125,0.3448869047619047,0.6782202380952381,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+This outcome is influential for me.,0.305625,0.4764583333333334,0.6092916666666668,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is aroused for all of us.,0.5463333333333332,0.852386904761905,0.5512777777777778,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+What started as a stimulated conversation quickly turned bold.,0.8475,0.5175833333333335,0.6414166666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The project started out hesitant, but ended up being quite thrilled.",0.635,0.6925,0.25,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The feedback was mostly inadequate, with some hesitant comments mixed in.",0.5525,0.345,0.2225,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I feel strong today.,0.498125,0.6619166666666666,0.665779761904762,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+I'm in a positive mood.,0.8410000000000001,0.6111666666666666,0.5838888888888889,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"While the presentation was shy, the audience response was bored.",0.8325,0.175,0.1825,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The feedback was awesome and helpful.,0.5675,0.655,0.5908333333333333,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"Although the situation seems excellent, I believe it will become frenzied soon.",0.7,0.6775,0.6875,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"While the presentation was assertive, the audience response was influential.",0.7075,0.5575,0.88,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The atmosphere feels dominant.,0.4242916666666667,0.7005416666666667,0.695625,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+I've been feeling potent lately.,0.5287916666666667,0.4878888888888889,0.8307916666666665,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The feedback was mostly excellent, with some alert comments mixed in.",0.7675,0.46,0.5625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+We were all bold after hearing the news.,0.33375,0.31738690476190473,0.5992619047619048,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+The feedback was thrilled and helpful.,0.58,0.6554166666666665,0.44875,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"I've been feeling satisfied all day, but now I'm starting to feel beautiful.",0.8175,0.58,0.51,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The results made everyone content.,0.8467619047619048,0.406797619047619,0.17217857142857138,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The feedback was content and helpful.,0.7525,0.6985416666666666,0.4212916666666666,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+That experience was elated.,0.7812500000000001,0.452,0.623625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The team was assertive about the deadline, but alert about the quality of work.",0.50375,0.7375,0.44375,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"The team was positive about the deadline, but excellent about the quality of work.",0.765,0.8125,0.445,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+Everything seems awesome at the moment.,0.4227619047619047,0.49860119047619045,0.6770625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The team was depressed about the deadline, but peaceful about the quality of work.",0.48125,0.3875,0.43625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The team was competent about the deadline, but mellow about the quality of work.",0.47,0.3725,0.51125,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone stimulated.,0.23875,0.6625,0.27875,fear,0.0,1.0,0.0,0.0,0.0,0.0
+"Despite feeling fearful about the challenge, I approached it with a afraid attitude.",0.4625,0.5675,0.0975,neutral,0.0,0.0,0.0,0.98,0.0,0.02
+What started as a wild conversation quickly turned amazing.,0.875,0.5934166666666667,0.6878750000000001,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I'm brave because of the recent events.,0.37416666666666665,0.5199305555555556,0.8538333333333332,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I was ecstatic at first, but after thinking about it, I feel anxious.",0.675,0.465,0.0775,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I am satisfied about what happened.,0.5824999999999999,0.215,0.5019166666666667,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was delighted, the audience response was doubtful.",0.8425,0.5075,0.39541666666666664,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+Everything seems stimulated at the moment.,0.34299999999999997,0.5436011904761905,0.5063541666666667,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The conversation left me feeling alert.,0.7970833333333333,0.42375,0.7504166666666666,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The project started out thrilled, but ended up being quite competent.",0.6525,0.73,0.5825,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The situation is unhappy for all of us.,0.31416666666666665,0.7830535714285715,0.5810694444444444,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The movie had a heartbroken beginning but a unfortunate ending.,0.325,0.3525,0.505,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+I've been feeling good lately.,0.5353660714285714,0.5750347222222222,0.5814206349206349,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The team was influential about the deadline, but hyper about the quality of work.",0.41208333333333336,0.685,0.56125,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I was efficient at first, but after thinking about it, I feel gentle.",0.6275,0.3175,0.4875,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+The meeting was frantic and productive.,0.4175,0.15470833333333334,0.5885833333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The team was joyful about the deadline, but happy about the quality of work.",0.68,0.6975,0.35625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+My day has been amazing.,0.6125,0.42791666666666656,0.74625,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I am active about what happened.,0.693125,0.31625,0.48408333333333337,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"Although the situation seems subordinate, I believe it will become spirited soon.",0.4925,0.645,0.405,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm dull because of the recent events.,0.2866250000000001,0.33625,0.6821666666666666,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+The situation is lively for all of us.,0.5784166666666666,0.8648452380952384,0.5937777777777778,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"I've been feeling strong all day, but now I'm starting to feel ecstatic.",0.718125,0.46649999999999997,0.5029166666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I've been feeling strong lately.,0.4519583333333334,0.5425763888888888,0.6273373015873016,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I can't help but feel excellent right now.,0.81,0.63,0.6025,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+This situation makes me feel ecstatic.,0.6047916666666666,0.44704166666666667,0.23491666666666663,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me upset.,0.4100535714285714,0.52125,0.4581666666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me thrilled.,0.6474166666666666,0.5625,0.342125,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I am excellent about what happened.,0.6956666666666668,0.275,0.549,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+"Despite feeling fearless about the challenge, I approached it with a cheerful attitude.",0.8825,0.6125,0.685,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"Despite feeling terrific about the challenge, I approached it with a animated attitude.",0.3325,0.7575,0.52,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+That experience was weak.,0.5925,0.6175,0.39,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The atmosphere feels fantastic.,0.3456249999999999,0.7505416666666668,0.65125,anger,1.0,0.0,0.0,0.0,0.0,0.0
+The atmosphere feels indifferent.,0.398875,0.49637499999999996,0.64375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was still, the audience response was competent.",0.835,0.585,0.7225,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The feedback was mostly mighty, with some masterful comments mixed in.",0.7375,0.375,0.625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+This situation makes me feel decisive.,0.3919583333333334,0.535375,0.5845892857142857,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The feedback was amazing and helpful.,0.51875,0.575,0.5845833333333333,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The feedback was mostly passionate, with some stimulated comments mixed in.",0.545,0.505,0.59875,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The situation is calm for all of us.,0.5434166666666665,0.7753035714285716,0.5696111111111112,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+What started as a fantastic conversation quickly turned powerful.,0.84,0.6109166666666667,0.7462083333333334,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The atmosphere feels mighty.,0.577625,0.7367916666666667,0.66625,neutral,0.0,0.0,0.04,0.96,0.0,0.0
+We were all inactive after hearing the news.,0.30625,0.26155357142857144,0.5326785714285714,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+That experience was amazing.,0.475,0.5,0.7025,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I am sad about what happened.,0.20145833333333335,0.225,0.5827500000000001,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"While the presentation was placid, the audience response was excellent.",0.8325,0.23875,0.64125,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I've been feeling confident lately.,0.4057083333333334,0.6737430555555555,0.6357539682539683,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+What started as a effective conversation quickly turned bold.,0.8725,0.5050833333333334,0.76625,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The team was uninterested about the deadline, but bored about the quality of work.",0.50625,0.2775,0.42875,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The meeting was dependent and productive.,0.43,0.11095833333333333,0.5515,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me serene.,0.5242619047619048,0.2925,0.463375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm active because of the recent events.,0.805,0.89,0.3275,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The situation is joyful for all of us.,0.7402916666666666,0.7965119047619049,0.5121111111111111,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I've been feeling dreadful lately.,0.24875,0.5339999999999999,0.5004285714285714,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+That experience was authoritative.,0.3418333333333334,0.5520833333333335,0.8,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The conversation left me feeling uncertain.,0.82875,0.45375,0.40541666666666665,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"The feedback was mostly helpless, with some negative comments mixed in.",0.53,0.3675,0.3475,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all insecure after hearing the news.,0.405,0.3225,0.2125,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The feedback was mostly depressed, with some thrilled comments mixed in.",0.59,0.44,0.575,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+That experience was miserable.,0.2525,0.6325,0.635,anger,1.0,0.0,0.0,0.0,0.0,0.0
+I am shy about what happened.,0.39899999999999997,0.2325,0.16441666666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"I was mellow at first, but after thinking about it, I feel great.",0.475,0.24416666666666667,0.37,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+This outcome is cheerful for me.,0.81375,0.5414583333333334,0.5834583333333334,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+We were all still after hearing the news.,0.34125,0.3019702380952381,0.6117619047619047,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+The team is unhappy about the project.,0.23530357142857142,0.5414523809523809,0.594375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The meeting was wild and productive.,0.5025,0.5025,0.5,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was unpleasant, the audience response was hyper.",0.46,0.6575,0.6559999999999999,neutral,0.02,0.0,0.02,0.96,0.0,0.0
+I'm in a unsure mood.,0.665,0.9025,0.085,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The meeting was effective and productive.,0.49625,0.13595833333333332,0.6419166666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+This situation makes me feel uninterested.,0.1885,0.4535,0.5857142857142857,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone mellow.,0.6188452380952382,0.2230357142857143,0.49388690476190467,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+My day has been tranquil.,0.24016666666666667,0.45625,0.45285119047619043,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all beautiful after hearing the news.,0.6575,0.33845833333333325,0.5730952380952381,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+The conversation left me feeling excellent.,0.765,0.8279047619047617,0.6439285714285714,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I've been feeling powerful lately.,0.43654166666666677,0.641888888888889,0.5890039682539683,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+This outcome is vulnerable for me.,0.5425,0.57,0.345,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"While the presentation was sad, the audience response was bored.",0.705,0.1825,0.7,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I've been feeling still lately.,0.4552916666666667,0.45463888888888887,0.5790039682539683,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+We were all lovely after hearing the news.,0.4713928571428571,0.3107202380952381,0.47317857142857134,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I've been feeling gloomy lately.,0.43279166666666674,0.542201388888889,0.5448789682539682,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"Although the situation seems active, I believe it will become hyper soon.",0.725,0.73,0.535,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"Although the situation seems dismal, I believe it will become inferior soon.",0.625,0.495,0.32,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+"I've been feeling active all day, but now I'm starting to feel powerless.",0.6625,0.5575,0.17666666666666667,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+Everything seems unfortunate at the moment.,0.348,0.3547916666666667,0.6520625,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"Despite feeling cheerful about the challenge, I approached it with a unskilled attitude.",0.885,0.695,0.2175,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+This situation makes me feel anxious.,0.5895833333333333,0.5557916666666667,0.06583333333333333,neutral,0.0,0.0,0.0,0.98,0.0,0.02
+"The team was ecstatic about the deadline, but sorrowful about the quality of work.",0.5058333333333334,0.66,0.41875,neutral,0.0,0.0,0.02,0.98,0.0,0.0
+The meeting was inferior and productive.,0.615,0.12595833333333334,0.29,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The news made me bold.,0.4884285714285715,0.483125,0.4606666666666666,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The team is stimulated about the project.,0.40217857142857144,0.582202380952381,0.5091666666666668,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+"The project started out stimulated, but ended up being quite dreadful.",0.31375,0.6825,0.55375,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The atmosphere feels frantic.,0.27125,0.9025,0.9104166666666668,anger,1.0,0.0,0.0,0.0,0.0,0.0
+I feel delighted today.,0.85,0.6592083333333334,0.687154761904762,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The situation is insecure for all of us.,0.6571666666666666,0.814886904761905,0.11991666666666666,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+I am masterful about what happened.,0.3665,0.1775,0.5710833333333334,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"I've been feeling courageous all day, but now I'm starting to feel awesome.",0.4575,0.545,0.7175,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The team is bold about the project.,0.4534285714285715,0.5228273809523809,0.596,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+The results made everyone unfortunate.,0.255,0.2125,0.7175,sadness,0.0,0.0,0.0,0.0,1.0,0.0
+"While the presentation was wonderful, the audience response was doubtful.",0.88,0.49,0.29791666666666666,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+Everything seems cheerful at the moment.,0.96,0.5625,0.5675,happiness,0.0,0.0,1.0,0.0,0.0,0.0
+The news made me controlling.,0.4609285714285714,0.535,0.45691666666666664,neutral,0.0,0.0,0.0,1.0,0.0,0.0
+I'm lively because of the recent events.,0.357875,0.6596666666666665,0.7596666666666665,anger,1.0,0.0,0.0,0.0,0.0,0.0

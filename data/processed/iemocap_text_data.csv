@@ -1,0 +1,1141 @@
+utterance_id,activation,valence,dominance,activation_norm,valence_norm,dominance_norm,source_file,text
+Ses01F_impro01_F001,1,4,2,0.0,0.75,0.25,Ses01F_atr.txt,I've been feeling doubtful lately.
+Ses01M_script01_M002,4,3,2,0.75,0.5,0.25,Ses01M_atr.txt,The atmosphere feels eager.
+Ses01M_script01_M003,5,3,4,1.0,0.5,0.75,Ses01M_atr.txt,I feel dynamic today.
+Ses01M_impro01_M004,3,2,4,0.5,0.25,0.75,Ses01M_atr.txt,"While the presentation was unpleasant, the audience response was hyper."
+Ses01F_impro01_F005,4,3,3,0.75,0.5,0.5,Ses01F_atr.txt,I can't help but feel great right now.
+Ses01M_script01_M006,4,5,2,0.75,1.0,0.25,Ses01M_atr.txt,The team is fearful about the project.
+Ses01M_impro01_M007,3,3,4,0.5,0.5,0.75,Ses01M_atr.txt,The atmosphere feels wild.
+Ses01F_script01_F008,2,1,1,0.25,0.0,0.0,Ses01F_atr.txt,We were all helpless after hearing the news.
+Ses01M_impro01_M009,5,2,4,1.0,0.25,0.75,Ses01M_atr.txt,I can't help but feel downcast right now.
+Ses01M_impro01_M010,1,5,1,0.0,1.0,0.0,Ses01M_atr.txt,"Although the situation seems insecure, I believe it will become insecure soon."
+Ses01F_script01_F011,5,3,4,1.0,0.5,0.75,Ses01F_atr.txt,This outcome is influential for me.
+Ses01M_script01_M012,3,2,1,0.5,0.25,0.0,Ses01M_atr.txt,What started as a bad conversation quickly turned terrible.
+Ses01F_script01_F013,3,1,5,0.5,0.0,1.0,Ses01F_atr.txt,I feel exhilarated today.
+Ses01M_impro01_M014,3,1,5,0.5,0.0,1.0,Ses01M_atr.txt,"While the presentation was influential, the audience response was disheartening."
+Ses01F_script01_F015,3,2,1,0.5,0.25,0.0,Ses01F_atr.txt,I'm vulnerable because of the recent events.
+Ses01F_impro01_F016,4,2,2,0.75,0.25,0.25,Ses01F_atr.txt,"Although the situation seems inadequate, I believe it will become agitated soon."
+Ses01F_impro01_F017,3,3,2,0.5,0.5,0.25,Ses01F_atr.txt,"The team was afraid about the deadline, but negative about the quality of work."
+Ses01F_impro01_F018,2,3,2,0.25,0.5,0.25,Ses01F_atr.txt,The atmosphere feels fearful.
+Ses01M_script01_M019,2,1,4,0.25,0.0,0.75,Ses01M_atr.txt,That experience was negative.
+Ses01M_script02_M001,4,2,1,0.75,0.25,0.0,Ses01M_atr.txt,"Although the situation seems weak, I believe it will become energetic soon."
+Ses01F_script02_F002,3,1,3,0.5,0.0,0.5,Ses01F_atr.txt,That experience was unfortunate.
+Ses01F_script02_F003,4,4,2,0.75,0.75,0.25,Ses01F_atr.txt,The movie had a energetic beginning but a glad ending.
+Ses01F_script02_F004,4,4,5,0.75,0.75,1.0,Ses01F_atr.txt,This outcome is potent for me.
+Ses01F_script02_F005,4,4,4,0.75,0.75,0.75,Ses01F_atr.txt,That experience was ecstatic.
+Ses01M_script02_M006,2,3,5,0.25,0.5,1.0,Ses01M_atr.txt,The atmosphere feels bold.
+Ses01M_script02_M007,4,1,5,0.75,0.0,1.0,Ses01M_atr.txt,"I was upset at first, but after thinking about it, I feel assertive."
+Ses01F_impro02_F008,2,5,1,0.25,1.0,0.0,Ses01F_atr.txt,I am anxious about what happened.
+Ses01M_impro02_M009,2,2,3,0.25,0.25,0.5,Ses01M_atr.txt,"The feedback was mostly apathetic, with some determined comments mixed in."
+Ses01M_script02_M010,3,1,1,0.5,0.0,0.0,Ses01M_atr.txt,This outcome is fearful for me.
+Ses01M_script02_M011,2,4,2,0.25,0.75,0.25,Ses01M_atr.txt,The news made me sleepy.
+Ses01M_script02_M012,2,3,2,0.25,0.5,0.25,Ses01M_atr.txt,The conversation left me feeling uncertain.
+Ses01M_impro02_M013,5,2,3,1.0,0.25,0.5,Ses01M_atr.txt,"I was electrified at first, but after thinking about it, I feel excited."
+Ses01F_impro02_F014,4,1,5,0.75,0.0,1.0,Ses01F_atr.txt,I can't help but feel capable right now.
+Ses01F_script02_F015,4,1,3,0.75,0.0,0.5,Ses01F_atr.txt,The meeting was capable and productive.
+Ses01F_impro02_F016,1,5,4,0.0,1.0,0.75,Ses01F_atr.txt,Everything seems tired at the moment.
+Ses01M_script02_M017,2,2,4,0.25,0.25,0.75,Ses01M_atr.txt,I'm tragic because of the recent events.
+Ses01M_impro02_M018,5,2,3,1.0,0.25,0.5,Ses01M_atr.txt,The results made everyone dynamic.
+Ses01F_script02_F019,3,4,4,0.5,0.75,0.75,Ses01F_atr.txt,I feel intense today.
+Ses01M_script03_M001,2,3,4,0.25,0.5,0.75,Ses01M_atr.txt,I can't help but feel awesome right now.
+Ses01F_impro03_F002,5,3,4,1.0,0.5,0.75,Ses01F_atr.txt,That experience was authoritative.
+Ses01M_impro03_M003,2,4,3,0.25,0.75,0.5,Ses01M_atr.txt,"I was amazing at first, but after thinking about it, I feel positive."
+Ses01F_script03_F004,3,3,3,0.5,0.5,0.5,Ses01F_atr.txt,The team is electrified about the project.
+Ses01F_impro03_F005,5,4,4,1.0,0.75,0.75,Ses01F_atr.txt,I feel intense today.
+Ses01F_impro03_F006,3,4,3,0.5,0.75,0.5,Ses01F_atr.txt,"While the presentation was charged, the audience response was glad."
+Ses01F_script03_F007,5,2,3,1.0,0.25,0.5,Ses01F_atr.txt,The results made everyone eager.
+Ses01F_script03_F008,1,4,3,0.0,0.75,0.5,Ses01F_atr.txt,The feedback was satisfied and helpful.
+Ses01F_script03_F009,5,2,5,1.0,0.25,1.0,Ses01F_atr.txt,"The project started out passionate, but ended up being quite masterful."
+Ses01M_impro03_M010,1,4,4,0.0,0.75,0.75,Ses01M_atr.txt,Everything seems dominant at the moment.
+Ses01F_impro03_F011,4,3,3,0.75,0.5,0.5,Ses01F_atr.txt,The news made me amazing.
+Ses01F_script03_F012,4,5,2,0.75,1.0,0.25,Ses01F_atr.txt,The results made everyone content.
+Ses01M_script03_M013,2,3,2,0.25,0.5,0.25,Ses01M_atr.txt,I'm in a detached mood.
+Ses01F_impro03_F014,1,2,1,0.0,0.25,0.0,Ses01F_atr.txt,The movie had a serene beginning but a uninterested ending.
+Ses01M_script03_M015,2,5,2,0.25,1.0,0.25,Ses01M_atr.txt,"Although the situation seems relaxed, I believe it will become bored soon."
+Ses01M_impro03_M016,3,2,2,0.5,0.25,0.25,Ses01M_atr.txt,"Although the situation seems negative, I believe it will become miserable soon."
+Ses01F_impro03_F017,5,2,3,1.0,0.25,0.5,Ses01F_atr.txt,"The feedback was mostly depressed, with some thrilled comments mixed in."
+Ses01F_impro03_F018,1,2,5,0.0,0.25,1.0,Ses01F_atr.txt,"The feedback was mostly unpleasant, with some efficient comments mixed in."
+Ses01M_impro03_M019,3,4,2,0.5,0.75,0.25,Ses01M_atr.txt,The meeting was beautiful and productive.
+Ses01F_script04_F001,5,2,5,1.0,0.25,1.0,Ses01F_atr.txt,"I was eager at first, but after thinking about it, I feel alert."
+Ses01M_impro04_M002,3,1,2,0.5,0.0,0.25,Ses01M_atr.txt,"While the presentation was sad, the audience response was bored."
+Ses01M_script04_M003,4,4,2,0.75,0.75,0.25,Ses01M_atr.txt,That experience was elated.
+Ses01F_script04_F004,5,2,4,1.0,0.25,0.75,Ses01F_atr.txt,"Despite feeling agitated about the challenge, I approached it with a skilled attitude."
+Ses01M_impro04_M005,4,5,2,0.75,1.0,0.25,Ses01M_atr.txt,This situation makes me feel good.
+Ses01M_impro04_M006,2,3,1,0.25,0.5,0.0,Ses01M_atr.txt,The feedback was subdued and helpful.
+Ses01F_impro04_F007,5,1,1,1.0,0.0,0.0,Ses01F_atr.txt,I've been feeling gloomy lately.
+Ses01M_impro04_M008,4,5,3,0.75,1.0,0.5,Ses01M_atr.txt,The situation is capable for all of us.
+Ses01M_impro04_M009,4,5,5,0.75,1.0,1.0,Ses01M_atr.txt,The conversation left me feeling effective.
+Ses01M_impro04_M010,4,1,1,0.75,0.0,0.0,Ses01M_atr.txt,The results made everyone unfortunate.
+Ses01M_script04_M011,4,4,3,0.75,0.75,0.5,Ses01M_atr.txt,Everything seems cheerful at the moment.
+Ses01F_script04_F012,1,5,3,0.0,1.0,0.5,Ses01F_atr.txt,"The team was delighted about the deadline, but efficient about the quality of work."
+Ses01M_impro04_M013,2,5,4,0.25,1.0,0.75,Ses01M_atr.txt,"Although the situation seems dull, I believe it will become subdued soon."
+Ses01F_impro04_F014,4,5,2,0.75,1.0,0.25,Ses01F_atr.txt,I'm in a ecstatic mood.
+Ses01F_impro04_F015,3,5,5,0.5,1.0,1.0,Ses01F_atr.txt,The conversation left me feeling effective.
+Ses01M_impro04_M016,3,2,1,0.5,0.25,0.0,Ses01M_atr.txt,The atmosphere feels distressed.
+Ses01F_impro04_F017,3,2,4,0.5,0.25,0.75,Ses01F_atr.txt,I'm in a dismal mood.
+Ses01F_impro04_F018,5,2,3,1.0,0.25,0.5,Ses01F_atr.txt,The conversation left me feeling bold.
+Ses01M_script04_M019,3,1,2,0.5,0.0,0.25,Ses01M_atr.txt,The meeting was incapable and productive.
+Ses01M_script05_M001,5,2,4,1.0,0.25,0.75,Ses01M_atr.txt,I am active about what happened.
+Ses01M_script05_M002,1,2,4,0.0,0.25,0.75,Ses01M_atr.txt,That experience was placid.
+Ses01M_script05_M003,1,5,3,0.0,1.0,0.5,Ses01M_atr.txt,What started as a effective conversation quickly turned bold.
+Ses01F_script05_F004,5,4,1,1.0,0.75,0.0,Ses01F_atr.txt,I can't help but feel passionate right now.
+Ses01F_impro05_F005,5,2,4,1.0,0.25,0.75,Ses01F_atr.txt,"The team was excited about the deadline, but commanding about the quality of work."
+Ses01F_impro05_F006,4,1,5,0.75,0.0,1.0,Ses01F_atr.txt,I'm distressed because of the recent events.
+Ses01F_impro05_F007,4,2,1,0.75,0.25,0.0,Ses01F_atr.txt,"While the presentation was unpleasant, the audience response was subordinate."
+Ses01F_impro05_F008,4,2,3,0.75,0.25,0.5,Ses01F_atr.txt,"The project started out thrilled, but ended up being quite competent."
+Ses01M_script05_M009,1,2,2,0.0,0.25,0.25,Ses01M_atr.txt,I feel powerless today.
+Ses01F_script05_F010,2,1,4,0.25,0.0,0.75,Ses01F_atr.txt,My day has been lethargic.
+Ses01M_script05_M011,5,4,2,1.0,0.75,0.25,Ses01M_atr.txt,The news made me frantic.
+Ses01F_script05_F012,4,4,1,0.75,0.75,0.0,Ses01F_atr.txt,I am inferior about what happened.
+Ses01M_script05_M013,1,2,5,0.0,0.25,1.0,Ses01M_atr.txt,The results made everyone tranquil.
+Ses01F_script05_F014,4,5,3,0.75,1.0,0.5,Ses01F_atr.txt,"While the presentation was happy, the audience response was frantic."
+Ses01M_impro05_M015,3,3,4,0.5,0.5,0.75,Ses01M_atr.txt,My day has been cheerful.
+Ses01F_script05_F016,1,1,2,0.0,0.0,0.25,Ses01F_atr.txt,My day has been mellow.
+Ses01F_impro05_F017,3,3,5,0.5,0.5,1.0,Ses01F_atr.txt,The situation is competent for all of us.
+Ses01F_impro05_F018,1,3,4,0.0,0.5,0.75,Ses01F_atr.txt,Everything seems influential at the moment.
+Ses01M_script05_M019,1,3,5,0.0,0.5,1.0,Ses01M_atr.txt,I am wonderful about what happened.
+Ses01M_script06_M001,4,2,4,0.75,0.25,0.75,Ses01M_atr.txt,The team is negative about the project.
+Ses01F_script06_F002,2,1,5,0.25,0.0,1.0,Ses01F_atr.txt,The situation is dreadful for all of us.
+Ses01M_script06_M003,3,1,4,0.5,0.0,0.75,Ses01M_atr.txt,Everything seems downcast at the moment.
+Ses01F_impro06_F004,3,3,2,0.5,0.5,0.25,Ses01F_atr.txt,"The team was exhilarated about the deadline, but lively about the quality of work."
+Ses01M_impro06_M005,2,2,2,0.25,0.25,0.25,Ses01M_atr.txt,"I was bad at first, but after thinking about it, I feel upset."
+Ses01F_script06_F006,3,2,1,0.5,0.25,0.0,Ses01F_atr.txt,Everything seems unfortunate at the moment.
+Ses01M_impro06_M007,2,3,1,0.25,0.5,0.0,Ses01M_atr.txt,The atmosphere feels gentle.
+Ses01M_script06_M008,5,2,2,1.0,0.25,0.25,Ses01M_atr.txt,The situation is dejected for all of us.
+Ses01F_impro06_F009,3,5,5,0.5,1.0,1.0,Ses01F_atr.txt,I am cheerful about what happened.
+Ses01M_script06_M010,4,4,5,0.75,0.75,1.0,Ses01M_atr.txt,"While the presentation was great, the audience response was thrilled."
+Ses01F_impro06_F011,2,5,4,0.25,1.0,0.75,Ses01F_atr.txt,"Despite feeling excellent about the challenge, I approached it with a authoritative attitude."
+Ses01M_impro06_M012,5,1,5,1.0,0.0,1.0,Ses01M_atr.txt,The movie had a dominant beginning but a miserable ending.
+Ses01M_impro06_M013,5,4,4,1.0,0.75,0.75,Ses01M_atr.txt,The feedback was content and helpful.
+Ses01M_impro06_M014,1,3,4,0.0,0.5,0.75,Ses01M_atr.txt,My day has been strong.
+Ses01F_impro06_F015,5,5,3,1.0,1.0,0.5,Ses01F_atr.txt,"I was amazing at first, but after thinking about it, I feel skilled."
+Ses01M_impro06_M016,4,5,1,0.75,1.0,0.0,Ses01M_atr.txt,I can't help but feel anxious right now.
+Ses01F_impro06_F017,5,5,3,1.0,1.0,0.5,Ses01F_atr.txt,I've been feeling grateful lately.
+Ses01F_impro06_F018,3,2,1,0.5,0.25,0.0,Ses01F_atr.txt,I've been feeling dreadful lately.
+Ses01F_impro06_F019,3,3,1,0.5,0.5,0.0,Ses01F_atr.txt,The feedback was weak and helpful.
+Ses01F_impro07_F001,4,3,2,0.75,0.5,0.25,Ses01F_atr.txt,The feedback was alert and helpful.
+Ses01F_impro07_F002,4,4,3,0.75,0.75,0.5,Ses01F_atr.txt,The conversation left me feeling hyper.
+Ses01F_script07_F003,5,1,4,1.0,0.0,0.75,Ses01F_atr.txt,"The team was brave about the deadline, but dreadful about the quality of work."
+Ses01F_impro07_F004,5,1,3,1.0,0.0,0.5,Ses01F_atr.txt,I am lively about what happened.
+Ses01M_script07_M005,4,2,3,0.75,0.25,0.5,Ses01M_atr.txt,The movie had a brave beginning but a frantic ending.
+Ses01F_impro07_F006,1,1,2,0.0,0.0,0.25,Ses01F_atr.txt,Everything seems upset at the moment.
+Ses01F_script07_F007,2,4,3,0.25,0.75,0.5,Ses01F_atr.txt,Everything seems excited at the moment.
+Ses01M_impro07_M008,4,2,1,0.75,0.25,0.0,Ses01M_atr.txt,My day has been helpless.
+Ses01F_script07_F009,3,5,4,0.5,1.0,0.75,Ses01F_atr.txt,What started as a commanding conversation quickly turned excited.
+Ses01F_impro07_F010,1,1,3,0.0,0.0,0.5,Ses01F_atr.txt,"I was subdued at first, but after thinking about it, I feel dreadful."
+Ses01M_script07_M011,3,1,2,0.5,0.0,0.25,Ses01M_atr.txt,The feedback was depressed and helpful.
+Ses01M_impro07_M012,2,1,3,0.25,0.0,0.5,Ses01M_atr.txt,"While the presentation was bad, the audience response was indifferent."
+Ses01M_impro07_M013,2,5,2,0.25,1.0,0.25,Ses01M_atr.txt,This outcome is apathetic for me.
+Ses01M_impro07_M014,3,3,3,0.5,0.5,0.5,Ses01M_atr.txt,The atmosphere feels capable.
+Ses01M_impro07_M015,2,3,2,0.25,0.5,0.25,Ses01M_atr.txt,The feedback was glad and helpful.
+Ses01F_impro07_F016,3,5,4,0.5,1.0,0.75,Ses01F_atr.txt,I am positive about what happened.
+Ses01M_impro07_M017,4,1,1,0.75,0.0,0.0,Ses01M_atr.txt,The conversation left me feeling subordinate.
+Ses01M_script07_M018,5,4,2,1.0,0.75,0.25,Ses01M_atr.txt,The meeting was cheerful and productive.
+Ses01F_impro07_F019,1,5,5,0.0,1.0,1.0,Ses01F_atr.txt,The atmosphere feels elated.
+Ses01F_script08_F001,5,4,5,1.0,0.75,1.0,Ses01F_atr.txt,What started as a positive conversation quickly turned fearless.
+Ses01M_script08_M002,1,5,5,0.0,1.0,1.0,Ses01M_atr.txt,Everything seems wonderful at the moment.
+Ses01M_script08_M003,2,2,2,0.25,0.25,0.25,Ses01M_atr.txt,I am disappointed about what happened.
+Ses01F_impro08_F004,2,2,1,0.25,0.25,0.0,Ses01F_atr.txt,We were all insecure after hearing the news.
+Ses01M_script08_M005,5,4,1,1.0,0.75,0.0,Ses01M_atr.txt,"Although the situation seems fearful, I believe it will become frantic soon."
+Ses01F_script08_F006,2,3,4,0.25,0.5,0.75,Ses01F_atr.txt,I'm dull because of the recent events.
+Ses01M_script08_M007,5,3,3,1.0,0.5,0.5,Ses01M_atr.txt,"Despite feeling fearless about the challenge, I approached it with a cheerful attitude."
+Ses01F_script08_F008,4,1,1,0.75,0.0,0.0,Ses01F_atr.txt,The meeting was horrible and productive.
+Ses01M_script08_M009,5,5,3,1.0,1.0,0.5,Ses01M_atr.txt,This situation makes me feel ecstatic.
+Ses01F_script08_F010,1,3,3,0.0,0.5,0.5,Ses01F_atr.txt,"The feedback was mostly detached, with some detached comments mixed in."
+Ses01F_script08_F011,4,3,2,0.75,0.5,0.25,Ses01F_atr.txt,"I've been feeling ineffective all day, but now I'm starting to feel hyper."
+Ses01M_impro08_M012,2,3,4,0.25,0.5,0.75,Ses01M_atr.txt,We were all terrific after hearing the news.
+Ses01M_script08_M013,4,5,2,0.75,1.0,0.25,Ses01M_atr.txt,Everything seems unskilled at the moment.
+Ses01F_impro08_F014,4,5,3,0.75,1.0,0.5,Ses01F_atr.txt,What started as a wonderful conversation quickly turned confident.
+Ses01F_impro08_F015,2,3,3,0.25,0.5,0.5,Ses01F_atr.txt,I'm in a lovely mood.
+Ses01F_impro08_F016,4,5,2,0.75,1.0,0.25,Ses01F_atr.txt,This situation makes me feel weak.
+Ses01M_script08_M017,1,1,5,0.0,0.0,1.0,Ses01M_atr.txt,"I've been feeling awful all day, but now I'm starting to feel gloomy."
+Ses01F_impro08_F018,4,3,3,0.75,0.5,0.5,Ses01F_atr.txt,I'm in a wonderful mood.
+Ses01M_script08_M019,3,4,3,0.5,0.75,0.5,Ses01M_atr.txt,This outcome is excited for me.
+Ses01F_script09_F001,4,4,1,0.75,0.75,0.0,Ses01F_atr.txt,The feedback was content and helpful.
+Ses01F_impro09_F002,1,1,5,0.0,0.0,1.0,Ses01F_atr.txt,The atmosphere feels bored.
+Ses01M_script09_M003,4,3,3,0.75,0.5,0.5,Ses01M_atr.txt,I feel electrified today.
+Ses01M_impro09_M004,1,5,5,0.0,1.0,1.0,Ses01M_atr.txt,"The team was positive about the deadline, but delighted about the quality of work."
+Ses01F_impro09_F005,2,4,1,0.25,0.75,0.0,Ses01F_atr.txt,We were all peaceful after hearing the news.
+Ses01M_script09_M006,2,1,1,0.25,0.0,0.0,Ses01M_atr.txt,The situation is shy for all of us.
+Ses01M_impro09_M007,3,2,2,0.5,0.25,0.25,Ses01M_atr.txt,"Despite feeling incompetent about the challenge, I approached it with a unfortunate attitude."
+Ses01M_impro09_M008,4,5,2,0.75,1.0,0.25,Ses01M_atr.txt,Everything seems aroused at the moment.
+Ses01M_impro09_M009,1,4,2,0.0,0.75,0.25,Ses01M_atr.txt,This outcome is peaceful for me.
+Ses01F_impro09_F010,2,2,5,0.25,0.25,1.0,Ses01F_atr.txt,We were all serene after hearing the news.
+Ses01F_script09_F011,4,5,4,0.75,1.0,0.75,Ses01F_atr.txt,I feel forceful today.
+Ses01M_impro09_M012,2,4,1,0.25,0.75,0.0,Ses01M_atr.txt,The conversation left me feeling peaceful.
+Ses01F_script09_F013,1,2,4,0.0,0.25,0.75,Ses01F_atr.txt,The team is unfortunate about the project.
+Ses01M_impro09_M014,3,5,4,0.5,1.0,0.75,Ses01M_atr.txt,The situation is assertive for all of us.
+Ses01F_impro09_F015,3,2,1,0.5,0.25,0.0,Ses01F_atr.txt,"The team was agitated about the deadline, but miserable about the quality of work."
+Ses01F_script09_F016,2,4,1,0.25,0.75,0.0,Ses01F_atr.txt,That experience was drowsy.
+Ses01M_script09_M017,3,5,1,0.5,1.0,0.0,Ses01M_atr.txt,"Despite feeling cheerful about the challenge, I approached it with a unskilled attitude."
+Ses01F_script09_F018,1,2,3,0.0,0.25,0.5,Ses01F_atr.txt,"I was controlling at first, but after thinking about it, I feel uninterested."
+Ses01F_script09_F019,4,1,4,0.75,0.0,0.75,Ses01F_atr.txt,Everything seems capable at the moment.
+Ses01M_script10_M001,5,2,5,1.0,0.25,1.0,Ses01M_atr.txt,The conversation left me feeling frenzied.
+Ses01M_impro10_M002,3,4,4,0.5,0.75,0.75,Ses01M_atr.txt,My day has been content.
+Ses01M_impro10_M003,5,4,1,1.0,0.75,0.0,Ses01M_atr.txt,We were all beautiful after hearing the news.
+Ses01F_script10_F004,1,5,2,0.0,1.0,0.25,Ses01F_atr.txt,The team is subdued about the project.
+Ses01F_impro10_F005,1,2,1,0.0,0.25,0.0,Ses01F_atr.txt,This outcome is still for me.
+Ses01F_script10_F006,5,5,4,1.0,1.0,0.75,Ses01F_atr.txt,The situation is frantic for all of us.
+Ses01F_impro10_F007,2,1,5,0.25,0.0,1.0,Ses01F_atr.txt,"Although the situation seems sorrowful, I believe it will become mighty soon."
+Ses01M_script10_M008,1,3,2,0.0,0.5,0.25,Ses01M_atr.txt,The conversation left me feeling uninterested.
+Ses01M_impro10_M009,4,4,5,0.75,0.75,1.0,Ses01M_atr.txt,The feedback was eager and helpful.
+Ses01F_impro10_F010,3,3,3,0.5,0.5,0.5,Ses01F_atr.txt,That experience was satisfied.
+Ses01F_script10_F011,3,3,1,0.5,0.5,0.0,Ses01F_atr.txt,Everything seems doubtful at the moment.
+Ses01M_impro10_M012,2,1,2,0.25,0.0,0.25,Ses01M_atr.txt,I feel sorrowful today.
+Ses01M_script10_M013,2,3,4,0.25,0.5,0.75,Ses01M_atr.txt,The results made everyone assertive.
+Ses01F_impro10_F014,3,1,5,0.5,0.0,1.0,Ses01F_atr.txt,The atmosphere feels enthusiastic.
+Ses01F_impro10_F015,2,3,3,0.25,0.5,0.5,Ses01F_atr.txt,The situation is glad for all of us.
+Ses01M_impro10_M016,5,1,5,1.0,0.0,1.0,Ses01M_atr.txt,My day has been downcast.
+Ses01F_impro10_F017,2,3,3,0.25,0.5,0.5,Ses01F_atr.txt,My day has been satisfied.
+Ses01M_script10_M018,2,2,5,0.25,0.25,1.0,Ses01M_atr.txt,My day has been mellow.
+Ses01F_impro10_F019,2,2,3,0.25,0.25,0.5,Ses01F_atr.txt,I'm in a peaceful mood.
+Ses01F_script11_F001,3,5,5,0.5,1.0,1.0,Ses01F_atr.txt,The news made me lively.
+Ses01F_script11_F002,4,2,2,0.75,0.25,0.25,Ses01F_atr.txt,"I've been feeling charged all day, but now I'm starting to feel doubtful."
+Ses01F_impro11_F003,1,5,1,0.0,1.0,0.0,Ses01F_atr.txt,"The team was uninterested about the deadline, but bored about the quality of work."
+Ses01F_script11_F004,4,5,2,0.75,1.0,0.25,Ses01F_atr.txt,I am wild about what happened.
+Ses01M_impro11_M005,3,2,2,0.5,0.25,0.25,Ses01M_atr.txt,"I was inferior at first, but after thinking about it, I feel peaceful."
+Ses01F_impro11_F006,2,4,5,0.25,0.75,1.0,Ses01F_atr.txt,The news made me decisive.
+Ses01F_impro11_F007,4,5,1,0.75,1.0,0.0,Ses01F_atr.txt,The meeting was joyful and productive.
+Ses01F_script11_F008,2,4,2,0.25,0.75,0.25,Ses01F_atr.txt,The conversation left me feeling beautiful.
+Ses01F_impro11_F009,1,5,2,0.0,1.0,0.25,Ses01F_atr.txt,The team is subdued about the project.
+Ses01F_script11_F010,4,3,1,0.75,0.5,0.0,Ses01F_atr.txt,"The feedback was mostly inadequate, with some hesitant comments mixed in."
+Ses01M_script11_M011,3,5,5,0.5,1.0,1.0,Ses01M_atr.txt,"The feedback was mostly excited, with some pleased comments mixed in."
+Ses01M_script11_M012,3,3,5,0.5,0.5,1.0,Ses01M_atr.txt,"The team was stimulated about the deadline, but commanding about the quality of work."
+Ses01F_script11_F013,4,1,2,0.75,0.0,0.25,Ses01F_atr.txt,The atmosphere feels tragic.
+Ses01M_impro11_M014,5,4,1,1.0,0.75,0.0,Ses01M_atr.txt,"Although the situation seems shy, I believe it will become shy soon."
+Ses01M_impro11_M015,3,4,5,0.5,0.75,1.0,Ses01M_atr.txt,"I was beautiful at first, but after thinking about it, I feel beautiful."
+Ses01F_script11_F016,5,1,3,1.0,0.0,0.5,Ses01F_atr.txt,I'm in a awful mood.
+Ses01M_impro11_M017,1,1,2,0.0,0.0,0.25,Ses01M_atr.txt,I am serene about what happened.
+Ses01F_script11_F018,3,5,2,0.5,1.0,0.25,Ses01F_atr.txt,"While the presentation was fantastic, the audience response was vigorous."
+Ses01M_impro11_M019,4,5,5,0.75,1.0,1.0,Ses01M_atr.txt,I'm active because of the recent events.
+Ses01M_impro12_M001,3,5,2,0.5,1.0,0.25,Ses01M_atr.txt,"While the presentation was delighted, the audience response was doubtful."
+Ses01M_script12_M002,5,2,3,1.0,0.25,0.5,Ses01M_atr.txt,"The team was assertive about the deadline, but alert about the quality of work."
+Ses01F_impro12_F003,4,2,3,0.75,0.25,0.5,Ses01F_atr.txt,I am efficient about what happened.
+Ses01F_script12_F004,4,2,5,0.75,0.25,1.0,Ses01F_atr.txt,"Despite feeling fearless about the challenge, I approached it with a passionate attitude."
+Ses01M_impro12_M005,4,5,2,0.75,1.0,0.25,Ses01M_atr.txt,This outcome is excellent for me.
+Ses01M_script12_M006,2,1,3,0.25,0.0,0.5,Ses01M_atr.txt,The results made everyone controlling.
+Ses01F_impro12_F007,4,5,3,0.75,1.0,0.5,Ses01F_atr.txt,I've been feeling energetic lately.
+Ses01M_script12_M008,2,5,4,0.25,1.0,0.75,Ses01M_atr.txt,"The feedback was mostly lovely, with some skilled comments mixed in."
+Ses01M_impro12_M009,5,3,2,1.0,0.5,0.25,Ses01M_atr.txt,The feedback was insecure and helpful.
+Ses01M_impro12_M010,3,1,4,0.5,0.0,0.75,Ses01M_atr.txt,I am sad about what happened.
+Ses01M_script12_M011,3,4,4,0.5,0.75,0.75,Ses01M_atr.txt,This situation makes me feel efficient.
+Ses01F_impro12_F012,5,3,1,1.0,0.5,0.0,Ses01F_atr.txt,The situation is insecure for all of us.
+Ses01F_impro12_F013,1,5,4,0.0,1.0,0.75,Ses01F_atr.txt,The situation is positive for all of us.
+Ses01M_script12_M014,4,3,2,0.75,0.5,0.25,Ses01M_atr.txt,My day has been agitated.
+Ses01F_script12_F015,2,2,1,0.25,0.25,0.0,Ses01F_atr.txt,I can't help but feel powerless right now.
+Ses01F_impro12_F016,3,5,4,0.5,1.0,0.75,Ses01F_atr.txt,The results made everyone frenzied.
+Ses01F_impro12_F017,5,2,2,1.0,0.25,0.25,Ses01F_atr.txt,I am ineffective about what happened.
+Ses01M_impro12_M018,2,3,3,0.25,0.5,0.5,Ses01M_atr.txt,I've been feeling excited lately.
+Ses01F_impro12_F019,2,1,2,0.25,0.0,0.25,Ses01F_atr.txt,That experience was terrible.
+Ses02M_script01_M001,5,3,5,1.0,0.5,1.0,Ses02M_atr.txt,I am competent about what happened.
+Ses02F_impro01_F002,1,3,1,0.0,0.5,0.0,Ses02F_atr.txt,I feel inactive today.
+Ses02M_script01_M003,2,2,5,0.25,0.25,1.0,Ses02M_atr.txt,The situation is indifferent for all of us.
+Ses02M_impro01_M004,5,2,3,1.0,0.25,0.5,Ses02M_atr.txt,"The feedback was mostly passionate, with some stimulated comments mixed in."
+Ses02F_impro01_F005,5,2,5,1.0,0.25,1.0,Ses02F_atr.txt,Everything seems bad at the moment.
+Ses02M_script01_M006,4,1,4,0.75,0.0,0.75,Ses02M_atr.txt,That experience was tragic.
+Ses02F_impro01_F007,1,3,1,0.0,0.5,0.0,Ses02F_atr.txt,"The project started out detached, but ended up being quite weak."
+Ses02M_impro01_M008,2,4,1,0.25,0.75,0.0,Ses02M_atr.txt,"The team was placid about the deadline, but fearful about the quality of work."
+Ses02F_script01_F009,3,2,3,0.5,0.25,0.5,Ses02F_atr.txt,"The feedback was mostly upset, with some upset comments mixed in."
+Ses02M_script01_M010,5,2,5,1.0,0.25,1.0,Ses02M_atr.txt,The feedback was negative and helpful.
+Ses02F_script01_F011,3,2,3,0.5,0.25,0.5,Ses02F_atr.txt,"I was gloomy at first, but after thinking about it, I feel inactive."
+Ses02F_script01_F012,3,1,5,0.5,0.0,1.0,Ses02F_atr.txt,I'm gloomy because of the recent events.
+Ses02M_script01_M013,2,5,3,0.25,1.0,0.5,Ses02M_atr.txt,The team is inactive about the project.
+Ses02M_impro01_M014,5,2,2,1.0,0.25,0.25,Ses02M_atr.txt,"The team was inferior about the deadline, but dynamic about the quality of work."
+Ses02M_impro01_M015,4,1,1,0.75,0.0,0.0,Ses02M_atr.txt,The results made everyone stimulated.
+Ses02M_script01_M016,2,3,3,0.25,0.5,0.5,Ses02M_atr.txt,My day has been sluggish.
+Ses02F_script01_F017,1,4,3,0.0,0.75,0.5,Ses02F_atr.txt,"I was mellow at first, but after thinking about it, I feel great."
+Ses02M_script01_M018,5,5,1,1.0,1.0,0.0,Ses02M_atr.txt,"I was joyful at first, but after thinking about it, I feel positive."
+Ses02F_script01_F019,4,3,1,0.75,0.5,0.0,Ses02F_atr.txt,The news made me terrific.
+Ses02F_script02_F001,1,2,3,0.0,0.25,0.5,Ses02F_atr.txt,The results made everyone bored.
+Ses02F_impro02_F002,4,2,4,0.75,0.25,0.75,Ses02F_atr.txt,The conversation left me feeling terrible.
+Ses02F_impro02_F003,5,2,4,1.0,0.25,0.75,Ses02F_atr.txt,The atmosphere feels energetic.
+Ses02F_script02_F004,1,2,4,0.0,0.25,0.75,Ses02F_atr.txt,I am serene about what happened.
+Ses02F_script02_F005,1,2,5,0.0,0.25,1.0,Ses02F_atr.txt,"The project started out unfortunate, but ended up being quite strong."
+Ses02F_impro02_F006,4,2,5,0.75,0.25,1.0,Ses02F_atr.txt,This situation makes me feel intense.
+Ses02M_impro02_M007,1,2,1,0.0,0.25,0.0,Ses02M_atr.txt,"I was doubtful at first, but after thinking about it, I feel indifferent."
+Ses02F_impro02_F008,3,2,5,0.5,0.25,1.0,Ses02F_atr.txt,"The project started out brave, but ended up being quite mellow."
+Ses02F_impro02_F009,3,3,3,0.5,0.5,0.5,Ses02F_atr.txt,The news made me great.
+Ses02F_impro02_F010,4,4,4,0.75,0.75,0.75,Ses02F_atr.txt,That experience was pleased.
+Ses02F_script02_F011,5,2,1,1.0,0.25,0.0,Ses02F_atr.txt,My day has been hesitant.
+Ses02M_script02_M012,1,5,2,0.0,1.0,0.25,Ses02M_atr.txt,The meeting was content and productive.
+Ses02M_script02_M013,1,3,1,0.0,0.5,0.0,Ses02M_atr.txt,I can't help but feel serene right now.
+Ses02M_impro02_M014,3,1,5,0.5,0.0,1.0,Ses02M_atr.txt,"The feedback was mostly mighty, with some masterful comments mixed in."
+Ses02M_impro02_M015,4,2,2,0.75,0.25,0.25,Ses02M_atr.txt,"The team was incompetent about the deadline, but powerless about the quality of work."
+Ses02F_script02_F016,4,2,2,0.75,0.25,0.25,Ses02F_atr.txt,I feel terrible today.
+Ses02F_impro02_F017,5,5,4,1.0,1.0,0.75,Ses02F_atr.txt,"Despite feeling confident about the challenge, I approached it with a glad attitude."
+Ses02F_impro02_F018,1,3,2,0.0,0.5,0.25,Ses02F_atr.txt,I'm bored because of the recent events.
+Ses02F_script02_F019,4,4,2,0.75,0.75,0.25,Ses02F_atr.txt,I feel delighted today.
+Ses02M_impro03_M001,1,5,1,0.0,1.0,0.0,Ses02M_atr.txt,My day has been lethargic.
+Ses02F_impro03_F002,3,5,5,0.5,1.0,1.0,Ses02F_atr.txt,"I was commanding at first, but after thinking about it, I feel excited."
+Ses02F_script03_F003,4,3,4,0.75,0.5,0.75,Ses02F_atr.txt,I'm in a dominant mood.
+Ses02F_script03_F004,2,2,3,0.25,0.25,0.5,Ses02F_atr.txt,The results made everyone unhappy.
+Ses02F_script03_F005,3,4,4,0.5,0.75,0.75,Ses02F_atr.txt,The movie had a positive beginning but a subdued ending.
+Ses02F_impro03_F006,1,5,2,0.0,1.0,0.25,Ses02F_atr.txt,My day has been excited.
+Ses02M_script03_M007,2,3,1,0.25,0.5,0.0,Ses02M_atr.txt,"The team was excited about the deadline, but gloomy about the quality of work."
+Ses02M_impro03_M008,4,5,4,0.75,1.0,0.75,Ses02M_atr.txt,My day has been amazing.
+Ses02F_impro03_F009,5,4,2,1.0,0.75,0.25,Ses02F_atr.txt,"Although the situation seems active, I believe it will become hyper soon."
+Ses02M_impro03_M010,3,5,3,0.5,1.0,0.5,Ses02M_atr.txt,"While the presentation was lovely, the audience response was positive."
+Ses02M_script03_M011,1,2,5,0.0,0.25,1.0,Ses02M_atr.txt,The meeting was skilled and productive.
+Ses02M_script03_M012,5,4,4,1.0,0.75,0.75,Ses02M_atr.txt,"Although the situation seems forceful, I believe it will become dominant soon."
+Ses02F_script03_F013,1,2,5,0.0,0.25,1.0,Ses02F_atr.txt,I'm gentle because of the recent events.
+Ses02F_script03_F014,3,3,4,0.5,0.5,0.75,Ses02F_atr.txt,Everything seems elated at the moment.
+Ses02F_impro03_F015,2,5,3,0.25,1.0,0.5,Ses02F_atr.txt,I feel glad today.
+Ses02M_script03_M016,4,1,4,0.75,0.0,0.75,Ses02M_atr.txt,"I was authoritative at first, but after thinking about it, I feel authoritative."
+Ses02M_impro03_M017,2,3,1,0.25,0.5,0.0,Ses02M_atr.txt,We were all wonderful after hearing the news.
+Ses02F_impro03_F018,1,5,4,0.0,1.0,0.75,Ses02F_atr.txt,The situation is detached for all of us.
+Ses02M_script03_M019,4,1,1,0.75,0.0,0.0,Ses02M_atr.txt,My day has been spirited.
+Ses02F_script04_F001,3,1,4,0.5,0.0,0.75,Ses02F_atr.txt,The situation is horrible for all of us.
+Ses02M_impro04_M002,1,1,3,0.0,0.0,0.5,Ses02M_atr.txt,I've been feeling drowsy lately.
+Ses02F_script04_F003,5,3,3,1.0,0.5,0.5,Ses02F_atr.txt,The movie had a exhilarated beginning but a hyper ending.
+Ses02F_impro04_F004,1,2,2,0.0,0.25,0.25,Ses02F_atr.txt,"I was subdued at first, but after thinking about it, I feel bad."
+Ses02M_impro04_M005,4,4,2,0.75,0.75,0.25,Ses02M_atr.txt,We were all excited after hearing the news.
+Ses02M_impro04_M006,1,1,1,0.0,0.0,0.0,Ses02M_atr.txt,I'm in a bored mood.
+Ses02F_impro04_F007,5,4,3,1.0,0.75,0.5,Ses02F_atr.txt,The situation is lively for all of us.
+Ses02M_script04_M008,2,5,1,0.25,1.0,0.0,Ses02M_atr.txt,The feedback was amazing and helpful.
+Ses02M_impro04_M009,3,2,3,0.5,0.25,0.5,Ses02M_atr.txt,"I was downcast at first, but after thinking about it, I feel wild."
+Ses02M_script04_M010,5,2,5,1.0,0.25,1.0,Ses02M_atr.txt,I feel strong today.
+Ses02M_script04_M011,3,5,2,0.5,1.0,0.25,Ses02M_atr.txt,"The team was anxious about the deadline, but ecstatic about the quality of work."
+Ses02M_script04_M012,3,2,3,0.5,0.25,0.5,Ses02M_atr.txt,This outcome is gloomy for me.
+Ses02M_impro04_M013,4,5,3,0.75,1.0,0.5,Ses02M_atr.txt,I've been feeling excited lately.
+Ses02M_script04_M014,2,2,5,0.25,0.25,1.0,Ses02M_atr.txt,The situation is uninterested for all of us.
+Ses02F_script04_F015,1,3,1,0.0,0.5,0.0,Ses02F_atr.txt,The situation is ineffective for all of us.
+Ses02M_script04_M016,5,5,1,1.0,1.0,0.0,Ses02M_atr.txt,"The team was energetic about the deadline, but ineffective about the quality of work."
+Ses02M_script04_M017,5,5,5,1.0,1.0,1.0,Ses02M_atr.txt,This situation makes me feel thrilled.
+Ses02M_script04_M018,4,1,4,0.75,0.0,0.75,Ses02M_atr.txt,The conversation left me feeling unhappy.
+Ses02M_script04_M019,5,1,3,1.0,0.0,0.5,Ses02M_atr.txt,I am capable about what happened.
+Ses02M_script05_M001,4,2,1,0.75,0.25,0.0,Ses02M_atr.txt,I've been feeling dejected lately.
+Ses02F_impro05_F002,4,1,2,0.75,0.0,0.25,Ses02F_atr.txt,The results made everyone heartbroken.
+Ses02F_script05_F003,3,3,2,0.5,0.5,0.25,Ses02F_atr.txt,"Despite feeling anxious about the challenge, I approached it with a terrible attitude."
+Ses02M_script05_M004,2,1,5,0.25,0.0,1.0,Ses02M_atr.txt,The movie had a effective beginning but a awful ending.
+Ses02M_script05_M005,1,2,4,0.0,0.25,0.75,Ses02M_atr.txt,I've been feeling still lately.
+Ses02M_impro05_M006,1,3,1,0.0,0.5,0.0,Ses02M_atr.txt,My day has been dependent.
+Ses02M_impro05_M007,3,3,2,0.5,0.5,0.25,Ses02M_atr.txt,That experience was excited.
+Ses02F_script05_F008,3,1,2,0.5,0.0,0.25,Ses02F_atr.txt,I am dreadful about what happened.
+Ses02M_impro05_M009,4,4,2,0.75,0.75,0.25,Ses02M_atr.txt,The situation is electrified for all of us.
+Ses02F_script05_F010,5,1,3,1.0,0.0,0.5,Ses02F_atr.txt,"The project started out decisive, but ended up being quite inferior."
+Ses02M_script05_M011,5,3,1,1.0,0.5,0.0,Ses02M_atr.txt,The atmosphere feels inadequate.
+Ses02F_script05_F012,5,5,4,1.0,1.0,0.75,Ses02F_atr.txt,"The feedback was mostly competent, with some efficient comments mixed in."
+Ses02F_script05_F013,4,4,3,0.75,0.75,0.5,Ses02F_atr.txt,I'm in a agitated mood.
+Ses02F_script05_F014,4,5,1,0.75,1.0,0.0,Ses02F_atr.txt,This outcome is anxious for me.
+Ses02F_script05_F015,2,4,5,0.25,0.75,1.0,Ses02F_atr.txt,Everything seems bored at the moment.
+Ses02M_script05_M016,1,1,1,0.0,0.0,0.0,Ses02M_atr.txt,"The team was depressed about the deadline, but peaceful about the quality of work."
+Ses02M_impro05_M017,1,2,5,0.0,0.25,1.0,Ses02M_atr.txt,The movie had a forceful beginning but a sleepy ending.
+Ses02F_impro05_F018,1,5,1,0.0,1.0,0.0,Ses02F_atr.txt,My day has been glad.
+Ses02F_impro05_F019,2,3,5,0.25,0.5,1.0,Ses02F_atr.txt,The movie had a influential beginning but a tranquil ending.
+Ses02F_impro06_F001,5,3,3,1.0,0.5,0.5,Ses02F_atr.txt,"The team was positive about the deadline, but excellent about the quality of work."
+Ses02F_impro06_F002,4,1,5,0.75,0.0,1.0,Ses02F_atr.txt,"Despite feeling courageous about the challenge, I approached it with a forceful attitude."
+Ses02F_impro06_F003,5,1,5,1.0,0.0,1.0,Ses02F_atr.txt,"Although the situation seems animated, I believe it will become spirited soon."
+Ses02F_script06_F004,4,4,2,0.75,0.75,0.25,Ses02F_atr.txt,I'm timid because of the recent events.
+Ses02F_impro06_F005,2,3,2,0.25,0.5,0.25,Ses02F_atr.txt,The conversation left me feeling excellent.
+Ses02M_impro06_M006,3,4,5,0.5,0.75,1.0,Ses02M_atr.txt,This situation makes me feel good.
+Ses02M_script06_M007,1,1,4,0.0,0.0,0.75,Ses02M_atr.txt,That experience was tired.
+Ses02M_impro06_M008,3,1,4,0.5,0.0,0.75,Ses02M_atr.txt,What started as a disheartening conversation quickly turned sad.
+Ses02F_impro06_F009,3,1,5,0.5,0.0,1.0,Ses02F_atr.txt,The atmosphere feels authoritative.
+Ses02M_impro06_M010,2,1,5,0.25,0.0,1.0,Ses02M_atr.txt,The conversation left me feeling effective.
+Ses02M_impro06_M011,1,2,5,0.0,0.25,1.0,Ses02M_atr.txt,That experience was apathetic.
+Ses02M_impro06_M012,2,4,3,0.25,0.75,0.5,Ses02M_atr.txt,The situation is indifferent for all of us.
+Ses02F_script06_F013,1,2,1,0.0,0.25,0.0,Ses02F_atr.txt,I'm in a dull mood.
+Ses02F_impro06_F014,2,5,2,0.25,1.0,0.25,Ses02F_atr.txt,What started as a hesitant conversation quickly turned tired.
+Ses02M_script06_M015,5,1,2,1.0,0.0,0.25,Ses02M_atr.txt,"Despite feeling unfortunate about the challenge, I approached it with a passionate attitude."
+Ses02F_script06_F016,4,3,5,0.75,0.5,1.0,Ses02F_atr.txt,This situation makes me feel efficient.
+Ses02M_impro06_M017,2,5,4,0.25,1.0,0.75,Ses02M_atr.txt,The situation is wonderful for all of us.
+Ses02M_script06_M018,2,3,4,0.25,0.5,0.75,Ses02M_atr.txt,The news made me drowsy.
+Ses02M_impro06_M019,1,5,2,0.0,1.0,0.25,Ses02M_atr.txt,My day has been joyful.
+Ses02M_script07_M001,5,2,4,1.0,0.25,0.75,Ses02M_atr.txt,This situation makes me feel decisive.
+Ses02M_impro07_M002,4,4,1,0.75,0.75,0.0,Ses02M_atr.txt,The results made everyone content.
+Ses02F_script07_F003,2,2,2,0.25,0.25,0.25,Ses02F_atr.txt,The atmosphere feels indifferent.
+Ses02M_script07_M004,2,3,5,0.25,0.5,1.0,Ses02M_atr.txt,The situation is serene for all of us.
+Ses02F_script07_F005,4,4,1,0.75,0.75,0.0,Ses02F_atr.txt,"The team was powerless about the deadline, but weak about the quality of work."
+Ses02F_script07_F006,4,5,1,0.75,1.0,0.0,Ses02F_atr.txt,This outcome is spirited for me.
+Ses02F_script07_F007,5,5,2,1.0,1.0,0.25,Ses02F_atr.txt,"The project started out beautiful, but ended up being quite good."
+Ses02M_script07_M008,4,5,4,0.75,1.0,0.75,Ses02M_atr.txt,"I was powerful at first, but after thinking about it, I feel skilled."
+Ses02F_impro07_F009,3,2,4,0.5,0.25,0.75,Ses02F_atr.txt,That experience was capable.
+Ses02F_script07_F010,3,1,4,0.5,0.0,0.75,Ses02F_atr.txt,The meeting was controlling and productive.
+Ses02F_script07_F011,1,4,3,0.0,0.75,0.5,Ses02F_atr.txt,The meeting was peaceful and productive.
+Ses02M_script07_M012,5,4,5,1.0,0.75,1.0,Ses02M_atr.txt,The atmosphere feels effective.
+Ses02F_script07_F013,4,4,2,0.75,0.75,0.25,Ses02F_atr.txt,I'm in a positive mood.
+Ses02F_script07_F014,4,3,1,0.75,0.5,0.0,Ses02F_atr.txt,I'm in a unsure mood.
+Ses02M_impro07_M015,3,4,1,0.5,0.75,0.0,Ses02M_atr.txt,"Despite feeling grateful about the challenge, I approached it with a inferior attitude."
+Ses02F_script07_F016,5,3,5,1.0,0.5,1.0,Ses02F_atr.txt,The conversation left me feeling content.
+Ses02F_script07_F017,3,3,5,0.5,0.5,1.0,Ses02F_atr.txt,I'm in a satisfied mood.
+Ses02M_impro07_M018,1,4,3,0.0,0.75,0.5,Ses02M_atr.txt,The news made me controlling.
+Ses02F_impro07_F019,4,5,1,0.75,1.0,0.0,Ses02F_atr.txt,I can't help but feel insecure right now.
+Ses02F_script08_F001,4,4,5,0.75,0.75,1.0,Ses02F_atr.txt,"Although the situation seems excellent, I believe it will become frenzied soon."
+Ses02M_impro08_M002,3,1,5,0.5,0.0,1.0,Ses02M_atr.txt,"I was masterful at first, but after thinking about it, I feel dismal."
+Ses02M_impro08_M003,3,5,5,0.5,1.0,1.0,Ses02M_atr.txt,We were all lovely after hearing the news.
+Ses02M_impro08_M004,3,2,2,0.5,0.25,0.25,Ses02M_atr.txt,My day has been disappointed.
+Ses02F_impro08_F005,2,3,1,0.25,0.5,0.0,Ses02F_atr.txt,"The feedback was mostly still, with some unsure comments mixed in."
+Ses02F_script08_F006,3,4,4,0.5,0.75,0.75,Ses02F_atr.txt,"The team was effective about the deadline, but passive about the quality of work."
+Ses02M_impro08_M007,1,1,4,0.0,0.0,0.75,Ses02M_atr.txt,I am placid about what happened.
+Ses02F_script08_F008,3,5,3,0.5,1.0,0.5,Ses02F_atr.txt,The meeting was dynamic and productive.
+Ses02F_script08_F009,5,1,5,1.0,0.0,1.0,Ses02F_atr.txt,"The feedback was mostly assertive, with some unhappy comments mixed in."
+Ses02M_script08_M010,4,4,1,0.75,0.75,0.0,Ses02M_atr.txt,I've been feeling awesome lately.
+Ses02M_impro08_M011,5,2,2,1.0,0.25,0.25,Ses02M_atr.txt,The results made everyone miserable.
+Ses02M_script08_M012,3,1,3,0.5,0.0,0.5,Ses02M_atr.txt,What started as a sad conversation quickly turned subordinate.
+Ses02F_script08_F013,4,2,2,0.75,0.25,0.25,Ses02F_atr.txt,I can't help but feel electrified right now.
+Ses02M_script08_M014,5,3,3,1.0,0.5,0.5,Ses02M_atr.txt,The atmosphere feels brave.
+Ses02F_script08_F015,1,1,1,0.0,0.0,0.0,Ses02F_atr.txt,"Although the situation seems bored, I believe it will become timid soon."
+Ses02F_impro08_F016,3,2,3,0.5,0.25,0.5,Ses02F_atr.txt,"The team was painful about the deadline, but horrible about the quality of work."
+Ses02F_script08_F017,2,3,3,0.25,0.5,0.5,Ses02F_atr.txt,"The team was joyful about the deadline, but happy about the quality of work."
+Ses02F_script08_F018,2,2,5,0.25,0.25,1.0,Ses02F_atr.txt,The feedback was brave and helpful.
+Ses02F_impro08_F019,3,2,4,0.5,0.25,0.75,Ses02F_atr.txt,The feedback was distressed and helpful.
+Ses02F_impro09_F001,2,5,5,0.25,1.0,1.0,Ses02F_atr.txt,The feedback was awesome and helpful.
+Ses02F_script09_F002,4,5,5,0.75,1.0,1.0,Ses02F_atr.txt,The results made everyone exhilarated.
+Ses02F_impro09_F003,2,5,5,0.25,1.0,1.0,Ses02F_atr.txt,I can't help but feel brave right now.
+Ses02F_script09_F004,2,1,5,0.25,0.0,1.0,Ses02F_atr.txt,That experience was dominant.
+Ses02F_impro09_F005,3,3,2,0.5,0.5,0.25,Ses02F_atr.txt,The meeting was thrilled and productive.
+Ses02M_script09_M006,4,5,5,0.75,1.0,1.0,Ses02M_atr.txt,The atmosphere feels cheerful.
+Ses02F_impro09_F007,5,1,3,1.0,0.0,0.5,Ses02F_atr.txt,"The feedback was mostly intense, with some upset comments mixed in."
+Ses02M_impro09_M008,2,5,3,0.25,1.0,0.5,Ses02M_atr.txt,"The project started out amazing, but ended up being quite peaceful."
+Ses02M_impro09_M009,4,3,2,0.75,0.5,0.25,Ses02M_atr.txt,"Although the situation seems frantic, I believe it will become animated soon."
+Ses02F_script09_F010,1,5,2,0.0,1.0,0.25,Ses02F_atr.txt,I'm in a serene mood.
+Ses02F_script09_F011,1,5,2,0.0,1.0,0.25,Ses02F_atr.txt,"I was ecstatic at first, but after thinking about it, I feel anxious."
+Ses02M_script09_M012,4,2,4,0.75,0.25,0.75,Ses02M_atr.txt,The situation is sorrowful for all of us.
+Ses02F_script09_F013,2,1,3,0.25,0.0,0.5,Ses02F_atr.txt,I'm uninterested because of the recent events.
+Ses02F_impro09_F014,4,5,1,0.75,1.0,0.0,Ses02F_atr.txt,The results made everyone thrilled.
+Ses02M_script09_M015,3,2,1,0.5,0.25,0.0,Ses02M_atr.txt,"I've been feeling active all day, but now I'm starting to feel powerless."
+Ses02M_impro09_M016,5,1,3,1.0,0.0,0.5,Ses02M_atr.txt,The feedback was skilled and helpful.
+Ses02F_impro09_F017,3,3,3,0.5,0.5,0.5,Ses02F_atr.txt,We were all dominant after hearing the news.
+Ses02F_impro09_F018,3,1,4,0.5,0.0,0.75,Ses02F_atr.txt,We were all bad after hearing the news.
+Ses02M_script09_M019,5,4,2,1.0,0.75,0.25,Ses02M_atr.txt,"I've been feeling ecstatic all day, but now I'm starting to feel powerless."
+Ses02M_script10_M001,4,1,4,0.75,0.0,0.75,Ses02M_atr.txt,The news made me dreadful.
+Ses02M_impro10_M002,4,1,3,0.75,0.0,0.5,Ses02M_atr.txt,I'm sad because of the recent events.
+Ses02M_impro10_M003,1,3,5,0.0,0.5,1.0,Ses02M_atr.txt,The results made everyone potent.
+Ses02F_impro10_F004,5,4,5,1.0,0.75,1.0,Ses02F_atr.txt,"The project started out confident, but ended up being quite dominant."
+Ses02F_impro10_F005,5,5,2,1.0,1.0,0.25,Ses02F_atr.txt,The feedback was lovely and helpful.
+Ses02F_impro10_F006,4,1,1,0.75,0.0,0.0,Ses02F_atr.txt,My day has been painful.
+Ses02M_script10_M007,5,5,1,1.0,1.0,0.0,Ses02M_atr.txt,Everything seems stimulated at the moment.
+Ses02M_script10_M008,5,4,1,1.0,0.75,0.0,Ses02M_atr.txt,The team is unskilled about the project.
+Ses02F_script10_F009,2,4,4,0.25,0.75,0.75,Ses02F_atr.txt,I'm lethargic because of the recent events.
+Ses02F_impro10_F010,3,2,4,0.5,0.25,0.75,Ses02F_atr.txt,I'm in a brave mood.
+Ses02M_impro10_M011,2,2,3,0.25,0.25,0.5,Ses02M_atr.txt,The news made me detached.
+Ses02F_impro10_F012,2,4,5,0.25,0.75,1.0,Ses02F_atr.txt,"The project started out confident, but ended up being quite mellow."
+Ses02M_impro10_M013,3,2,3,0.5,0.25,0.5,Ses02M_atr.txt,We were all effective after hearing the news.
+Ses02M_impro10_M014,1,3,3,0.0,0.5,0.5,Ses02M_atr.txt,I'm in a lovely mood.
+Ses02M_impro10_M015,3,2,5,0.5,0.25,1.0,Ses02M_atr.txt,The conversation left me feeling alert.
+Ses02M_impro10_M016,3,3,3,0.5,0.5,0.5,Ses02M_atr.txt,The feedback was exhilarated and helpful.
+Ses02F_script10_F017,1,4,5,0.0,0.75,1.0,Ses02F_atr.txt,I'm in a grateful mood.
+Ses02F_script10_F018,5,2,4,1.0,0.25,0.75,Ses02F_atr.txt,What started as a lively conversation quickly turned thrilled.
+Ses02F_script10_F019,2,3,2,0.25,0.5,0.25,Ses02F_atr.txt,"The project started out relaxed, but ended up being quite horrible."
+Ses02M_impro11_M001,5,1,2,1.0,0.0,0.25,Ses02M_atr.txt,The team is enthusiastic about the project.
+Ses02F_impro11_F002,2,2,4,0.25,0.25,0.75,Ses02F_atr.txt,"I've been feeling gloomy all day, but now I'm starting to feel sluggish."
+Ses02F_impro11_F003,3,1,1,0.5,0.0,0.0,Ses02F_atr.txt,The movie had a heartbroken beginning but a unfortunate ending.
+Ses02M_impro11_M004,3,5,1,0.5,1.0,0.0,Ses02M_atr.txt,Everything seems lovely at the moment.
+Ses02F_impro11_F005,4,3,4,0.75,0.5,0.75,Ses02F_atr.txt,I feel potent today.
+Ses02F_impro11_F006,5,2,1,1.0,0.25,0.0,Ses02F_atr.txt,The meeting was frantic and productive.
+Ses02F_impro11_F007,2,5,3,0.25,1.0,0.5,Ses02F_atr.txt,The results made everyone forceful.
+Ses02M_script11_M008,3,2,2,0.5,0.25,0.25,Ses02M_atr.txt,This situation makes me feel excited.
+Ses02F_script11_F009,2,5,4,0.25,1.0,0.75,Ses02F_atr.txt,The conversation left me feeling grateful.
+Ses02M_impro11_M010,3,1,4,0.5,0.0,0.75,Ses02M_atr.txt,I am masterful about what happened.
+Ses02F_impro11_F011,4,3,1,0.75,0.5,0.0,Ses02F_atr.txt,The team is timid about the project.
+Ses02M_script11_M012,4,1,1,0.75,0.0,0.0,Ses02M_atr.txt,The situation is timid for all of us.
+Ses02M_script11_M013,1,4,2,0.0,0.75,0.25,Ses02M_atr.txt,The meeting was weak and productive.
+Ses02F_impro11_F014,5,2,5,1.0,0.25,1.0,Ses02F_atr.txt,"I was controlling at first, but after thinking about it, I feel depressed."
+Ses02M_impro11_M015,5,1,1,1.0,0.0,0.0,Ses02M_atr.txt,The results made everyone stimulated.
+Ses02F_impro11_F016,3,1,1,0.5,0.0,0.0,Ses02F_atr.txt,The atmosphere feels anxious.
+Ses02F_script11_F017,1,2,4,0.0,0.25,0.75,Ses02F_atr.txt,The results made everyone unfortunate.
+Ses02M_script11_M018,5,3,3,1.0,0.5,0.5,Ses02M_atr.txt,"I've been feeling courageous all day, but now I'm starting to feel awesome."
+Ses02M_script11_M019,4,5,3,0.75,1.0,0.5,Ses02M_atr.txt,That experience was satisfied.
+Ses02F_script12_F001,5,4,5,1.0,0.75,1.0,Ses02F_atr.txt,We were all content after hearing the news.
+Ses02F_script12_F002,3,5,2,0.5,1.0,0.25,Ses02F_atr.txt,The news made me intense.
+Ses02F_impro12_F003,3,1,4,0.5,0.0,0.75,Ses02F_atr.txt,This situation makes me feel energetic.
+Ses02F_impro12_F004,2,4,2,0.25,0.75,0.25,Ses02F_atr.txt,The news made me detached.
+Ses02M_script12_M005,1,5,3,0.0,1.0,0.5,Ses02M_atr.txt,"Despite feeling mellow about the challenge, I approached it with a ecstatic attitude."
+Ses02M_impro12_M006,1,2,5,0.0,0.25,1.0,Ses02M_atr.txt,"While the presentation was sluggish, the audience response was bad."
+Ses02M_script12_M007,2,5,2,0.25,1.0,0.25,Ses02M_atr.txt,The situation is uncertain for all of us.
+Ses02M_impro12_M008,1,4,5,0.0,0.75,1.0,Ses02M_atr.txt,The team is passive about the project.
+Ses02M_script12_M009,1,1,5,0.0,0.0,1.0,Ses02M_atr.txt,I'm in a depressed mood.
+Ses02M_script12_M010,3,5,5,0.5,1.0,1.0,Ses02M_atr.txt,I've been feeling excited lately.
+Ses02M_script12_M011,1,2,3,0.0,0.25,0.5,Ses02M_atr.txt,We were all competent after hearing the news.
+Ses02M_script12_M012,4,3,2,0.75,0.5,0.25,Ses02M_atr.txt,My day has been enthusiastic.
+Ses02M_script12_M013,2,1,3,0.25,0.0,0.5,Ses02M_atr.txt,I feel miserable today.
+Ses02F_script12_F014,1,5,2,0.0,1.0,0.25,Ses02F_atr.txt,The results made everyone content.
+Ses02F_script12_F015,1,5,4,0.0,1.0,0.75,Ses02F_atr.txt,The situation is joyful for all of us.
+Ses02F_script12_F016,4,5,5,0.75,1.0,1.0,Ses02F_atr.txt,The feedback was mighty and helpful.
+Ses02F_impro12_F017,2,2,3,0.25,0.25,0.5,Ses02F_atr.txt,The news made me upset.
+Ses02F_impro12_F018,1,2,4,0.0,0.25,0.75,Ses02F_atr.txt,My day has been dismal.
+Ses02F_script12_F019,2,2,1,0.25,0.25,0.0,Ses02F_atr.txt,"Despite feeling timid about the challenge, I approached it with a ineffective attitude."
+Ses03F_impro01_F001,2,2,4,0.25,0.25,0.75,Ses03F_atr.txt,I've been feeling determined lately.
+Ses03F_script01_F002,3,2,2,0.5,0.25,0.25,Ses03F_atr.txt,My day has been fearful.
+Ses03M_impro01_M003,3,3,4,0.5,0.5,0.75,Ses03M_atr.txt,We were all competent after hearing the news.
+Ses03M_script01_M004,5,2,3,1.0,0.25,0.5,Ses03M_atr.txt,I'm in a dreadful mood.
+Ses03M_script01_M005,4,5,5,0.75,1.0,1.0,Ses03M_atr.txt,That experience was positive.
+Ses03M_script01_M006,4,5,3,0.75,1.0,0.5,Ses03M_atr.txt,"Although the situation seems electrified, I believe it will become capable soon."
+Ses03F_script01_F007,3,3,1,0.5,0.5,0.0,Ses03F_atr.txt,The feedback was unsure and helpful.
+Ses03F_script01_F008,3,3,1,0.5,0.5,0.0,Ses03F_atr.txt,The meeting was ecstatic and productive.
+Ses03M_script01_M009,2,4,2,0.25,0.75,0.25,Ses03M_atr.txt,The meeting was inferior and productive.
+Ses03F_script01_F010,4,2,5,0.75,0.25,1.0,Ses03F_atr.txt,That experience was downcast.
+Ses03F_script01_F011,2,5,5,0.25,1.0,1.0,Ses03F_atr.txt,"Although the situation seems glad, I believe it will become confident soon."
+Ses03F_script01_F012,3,4,5,0.5,0.75,1.0,Ses03F_atr.txt,The results made everyone intense.
+Ses03M_impro01_M013,3,3,3,0.5,0.5,0.5,Ses03M_atr.txt,I am lively about what happened.
+Ses03M_script01_M014,4,1,3,0.75,0.0,0.5,Ses03M_atr.txt,"Despite feeling thrilled about the challenge, I approached it with a dynamic attitude."
+Ses03M_impro01_M015,4,5,2,0.75,1.0,0.25,Ses03M_atr.txt,My day has been unsure.
+Ses03M_impro01_M016,3,4,5,0.5,0.75,1.0,Ses03M_atr.txt,The conversation left me feeling stimulated.
+Ses03M_script01_M017,1,1,2,0.0,0.0,0.25,Ses03M_atr.txt,The meeting was weak and productive.
+Ses03M_script01_M018,5,5,3,1.0,1.0,0.5,Ses03M_atr.txt,I am courageous about what happened.
+Ses03F_impro01_F019,2,3,5,0.25,0.5,1.0,Ses03F_atr.txt,The team is grateful about the project.
+Ses03M_script02_M001,4,4,4,0.75,0.75,0.75,Ses03M_atr.txt,The news made me determined.
+Ses03F_impro02_F002,5,5,5,1.0,1.0,1.0,Ses03F_atr.txt,Everything seems intense at the moment.
+Ses03M_impro02_M003,3,2,3,0.5,0.25,0.5,Ses03M_atr.txt,"While the presentation was distressed, the audience response was timid."
+Ses03F_script02_F004,4,1,5,0.75,0.0,1.0,Ses03F_atr.txt,This situation makes me feel courageous.
+Ses03F_impro02_F005,5,3,2,1.0,0.5,0.25,Ses03F_atr.txt,I'm in a hesitant mood.
+Ses03M_script02_M006,2,2,4,0.25,0.25,0.75,Ses03M_atr.txt,The team is serene about the project.
+Ses03M_script02_M007,4,2,5,0.75,0.25,1.0,Ses03M_atr.txt,What started as a vigorous conversation quickly turned forceful.
+Ses03F_impro02_F008,4,5,5,0.75,1.0,1.0,Ses03F_atr.txt,The news made me exhilarated.
+Ses03M_impro02_M009,5,4,1,1.0,0.75,0.0,Ses03M_atr.txt,The conversation left me feeling passionate.
+Ses03F_impro02_F010,5,1,4,1.0,0.0,0.75,Ses03F_atr.txt,The results made everyone hyper.
+Ses03M_script02_M011,2,3,1,0.25,0.5,0.0,Ses03M_atr.txt,That experience was weak.
+Ses03F_script02_F012,1,1,5,0.0,0.0,1.0,Ses03F_atr.txt,The situation is unhappy for all of us.
+Ses03M_script02_M013,5,2,4,1.0,0.25,0.75,Ses03M_atr.txt,"The project started out forceful, but ended up being quite controlling."
+Ses03M_script02_M014,1,4,3,0.0,0.75,0.5,Ses03M_atr.txt,The results made everyone satisfied.
+Ses03M_script02_M015,4,3,1,0.75,0.5,0.0,Ses03M_atr.txt,"The feedback was mostly happy, with some animated comments mixed in."
+Ses03M_script02_M016,3,2,2,0.5,0.25,0.25,Ses03M_atr.txt,The meeting was miserable and productive.
+Ses03F_impro02_F017,5,1,4,1.0,0.0,0.75,Ses03F_atr.txt,This situation makes me feel powerful.
+Ses03M_script02_M018,2,3,1,0.25,0.5,0.0,Ses03M_atr.txt,The meeting was lovely and productive.
+Ses03F_script02_F019,4,5,1,0.75,1.0,0.0,Ses03F_atr.txt,"Although the situation seems beautiful, I believe it will become beautiful soon."
+Ses03F_script03_F001,4,4,4,0.75,0.75,0.75,Ses03F_atr.txt,I'm delighted because of the recent events.
+Ses03F_script03_F002,2,5,3,0.25,1.0,0.5,Ses03F_atr.txt,"While the presentation was happy, the audience response was mellow."
+Ses03F_impro03_F003,3,2,5,0.5,0.25,1.0,Ses03F_atr.txt,I've been feeling dreadful lately.
+Ses03F_script03_F004,2,4,3,0.25,0.75,0.5,Ses03F_atr.txt,What started as a forceful conversation quickly turned incapable.
+Ses03F_impro03_F005,2,3,5,0.25,0.5,1.0,Ses03F_atr.txt,"The team was terrific about the deadline, but detached about the quality of work."
+Ses03F_impro03_F006,3,1,1,0.5,0.0,0.0,Ses03F_atr.txt,"While the presentation was powerless, the audience response was inactive."
+Ses03M_impro03_M007,2,3,1,0.25,0.5,0.0,Ses03M_atr.txt,"I was ecstatic at first, but after thinking about it, I feel ineffective."
+Ses03M_script03_M008,3,1,3,0.5,0.0,0.5,Ses03M_atr.txt,I'm awful because of the recent events.
+Ses03M_script03_M009,4,4,3,0.75,0.75,0.5,Ses03M_atr.txt,My day has been excellent.
+Ses03F_impro03_F010,1,3,3,0.0,0.5,0.5,Ses03F_atr.txt,"While the presentation was detached, the audience response was serene."
+Ses03F_script03_F011,3,4,3,0.5,0.75,0.5,Ses03F_atr.txt,"The project started out vigorous, but ended up being quite energetic."
+Ses03F_impro03_F012,5,4,1,1.0,0.75,0.0,Ses03F_atr.txt,I'm in a unsure mood.
+Ses03F_impro03_F013,3,2,5,0.5,0.25,1.0,Ses03F_atr.txt,"While the presentation was courageous, the audience response was masterful."
+Ses03M_impro03_M014,2,2,2,0.25,0.25,0.25,Ses03M_atr.txt,The conversation left me feeling downcast.
+Ses03F_script03_F015,3,5,5,0.5,1.0,1.0,Ses03F_atr.txt,The conversation left me feeling dominant.
+Ses03M_impro03_M016,5,3,2,1.0,0.5,0.25,Ses03M_atr.txt,Everything seems aroused at the moment.
+Ses03F_impro03_F017,1,1,2,0.0,0.0,0.25,Ses03F_atr.txt,I've been feeling mellow lately.
+Ses03F_impro03_F018,1,3,2,0.0,0.5,0.25,Ses03F_atr.txt,"I've been feeling mellow all day, but now I'm starting to feel drowsy."
+Ses03F_script03_F019,1,4,2,0.0,0.75,0.25,Ses03F_atr.txt,We were all satisfied after hearing the news.
+Ses03M_impro04_M001,1,2,1,0.0,0.25,0.0,Ses03M_atr.txt,We were all still after hearing the news.
+Ses03M_impro04_M002,4,1,2,0.75,0.0,0.25,Ses03M_atr.txt,The team is horrible about the project.
+Ses03F_impro04_F003,4,3,1,0.75,0.5,0.0,Ses03F_atr.txt,The atmosphere feels unskilled.
+Ses03F_script04_F004,5,1,4,1.0,0.0,0.75,Ses03F_atr.txt,I've been feeling sad lately.
+Ses03M_impro04_M005,4,4,1,0.75,0.75,0.0,Ses03M_atr.txt,The situation is dynamic for all of us.
+Ses03M_script04_M006,5,2,4,1.0,0.25,0.75,Ses03M_atr.txt,We were all dreadful after hearing the news.
+Ses03F_impro04_F007,2,5,4,0.25,1.0,0.75,Ses03F_atr.txt,What started as a capable conversation quickly turned skilled.
+Ses03F_impro04_F008,3,2,5,0.5,0.25,1.0,Ses03F_atr.txt,Everything seems upset at the moment.
+Ses03M_script04_M009,3,2,3,0.5,0.25,0.5,Ses03M_atr.txt,"The team was authoritative about the deadline, but serene about the quality of work."
+Ses03F_script04_F010,4,2,4,0.75,0.25,0.75,Ses03F_atr.txt,This situation makes me feel dejected.
+Ses03F_script04_F011,5,2,1,1.0,0.25,0.0,Ses03F_atr.txt,The results made everyone uncertain.
+Ses03F_impro04_F012,3,2,2,0.5,0.25,0.25,Ses03F_atr.txt,The results made everyone unhappy.
+Ses03M_script04_M013,3,2,3,0.5,0.25,0.5,Ses03M_atr.txt,"Despite feeling passionate about the challenge, I approached it with a capable attitude."
+Ses03M_script04_M014,5,3,1,1.0,0.5,0.0,Ses03M_atr.txt,Everything seems aroused at the moment.
+Ses03F_script04_F015,5,2,3,1.0,0.25,0.5,Ses03F_atr.txt,This situation makes me feel bad.
+Ses03F_impro04_F016,5,5,1,1.0,1.0,0.0,Ses03F_atr.txt,Everything seems dependent at the moment.
+Ses03M_script04_M017,2,4,2,0.25,0.75,0.25,Ses03M_atr.txt,The team is uninterested about the project.
+Ses03M_script04_M018,5,4,3,1.0,0.75,0.5,Ses03M_atr.txt,"I was ecstatic at first, but after thinking about it, I feel dependent."
+Ses03F_impro04_F019,1,5,1,0.0,1.0,0.0,Ses03F_atr.txt,I've been feeling ecstatic lately.
+Ses03F_script05_F001,2,1,3,0.25,0.0,0.5,Ses03F_atr.txt,The meeting was effective and productive.
+Ses03F_impro05_F002,1,3,1,0.0,0.5,0.0,Ses03F_atr.txt,"I've been feeling uncertain all day, but now I'm starting to feel bored."
+Ses03F_script05_F003,2,1,2,0.25,0.0,0.25,Ses03F_atr.txt,"While the presentation was tragic, the audience response was uncertain."
+Ses03F_impro05_F004,2,3,4,0.25,0.5,0.75,Ses03F_atr.txt,I'm lovely because of the recent events.
+Ses03M_script05_M005,1,5,2,0.0,1.0,0.25,Ses03M_atr.txt,"While the presentation was wonderful, the audience response was doubtful."
+Ses03F_impro05_F006,5,5,2,1.0,1.0,0.25,Ses03F_atr.txt,I'm active because of the recent events.
+Ses03M_script05_M007,3,5,4,0.5,1.0,0.75,Ses03M_atr.txt,"I was frenzied at first, but after thinking about it, I feel sleepy."
+Ses03M_script05_M008,3,3,3,0.5,0.5,0.5,Ses03M_atr.txt,I can't help but feel commanding right now.
+Ses03M_script05_M009,2,4,4,0.25,0.75,0.75,Ses03M_atr.txt,The movie had a confident beginning but a positive ending.
+Ses03F_impro05_F010,2,1,4,0.25,0.0,0.75,Ses03F_atr.txt,"The team was apathetic about the deadline, but terrible about the quality of work."
+Ses03F_impro05_F011,1,5,2,0.0,1.0,0.25,Ses03F_atr.txt,I am doubtful about what happened.
+Ses03M_script05_M012,2,4,5,0.25,0.75,1.0,Ses03M_atr.txt,That experience was bored.
+Ses03F_impro05_F013,5,4,1,1.0,0.75,0.0,Ses03F_atr.txt,That experience was anxious.
+Ses03M_impro05_M014,3,5,3,0.5,1.0,0.5,Ses03M_atr.txt,Everything seems commanding at the moment.
+Ses03F_impro05_F015,3,2,1,0.5,0.25,0.0,Ses03F_atr.txt,The conversation left me feeling insecure.
+Ses03M_script05_M016,2,1,5,0.25,0.0,1.0,Ses03M_atr.txt,"The feedback was mostly serene, with some forceful comments mixed in."
+Ses03F_script05_F017,3,2,5,0.5,0.25,1.0,Ses03F_atr.txt,I am authoritative about what happened.
+Ses03F_impro05_F018,4,3,5,0.75,0.5,1.0,Ses03F_atr.txt,The movie had a potent beginning but a amazing ending.
+Ses03F_script05_F019,1,4,1,0.0,0.75,0.0,Ses03F_atr.txt,Everything seems shy at the moment.
+Ses03F_impro06_F001,3,3,4,0.5,0.5,0.75,Ses03F_atr.txt,The atmosphere feels mighty.
+Ses03M_script06_M002,1,3,4,0.0,0.5,0.75,Ses03M_atr.txt,I'm sleepy because of the recent events.
+Ses03M_script06_M003,4,3,4,0.75,0.5,0.75,Ses03M_atr.txt,"I was joyful at first, but after thinking about it, I feel commanding."
+Ses03M_impro06_M004,5,5,5,1.0,1.0,1.0,Ses03M_atr.txt,Everything seems satisfied at the moment.
+Ses03M_impro06_M005,2,1,3,0.25,0.0,0.5,Ses03M_atr.txt,This situation makes me feel sluggish.
+Ses03F_impro06_F006,5,3,2,1.0,0.5,0.25,Ses03F_atr.txt,"The project started out shy, but ended up being quite terrific."
+Ses03F_script06_F007,5,4,4,1.0,0.75,0.75,Ses03F_atr.txt,I'm brave because of the recent events.
+Ses03F_impro06_F008,2,2,2,0.25,0.25,0.25,Ses03F_atr.txt,I am placid about what happened.
+Ses03F_impro06_F009,1,5,4,0.0,1.0,0.75,Ses03F_atr.txt,"Although the situation seems courageous, I believe it will become tired soon."
+Ses03F_script06_F010,4,4,5,0.75,0.75,1.0,Ses03F_atr.txt,I feel animated today.
+Ses03F_impro06_F011,3,5,2,0.5,1.0,0.25,Ses03F_atr.txt,"The project started out afraid, but ended up being quite happy."
+Ses03F_impro06_F012,4,3,3,0.75,0.5,0.5,Ses03F_atr.txt,The situation is excited for all of us.
+Ses03F_script06_F013,2,2,5,0.25,0.25,1.0,Ses03F_atr.txt,"Although the situation seems relaxed, I believe it will become influential soon."
+Ses03M_impro06_M014,4,4,2,0.75,0.75,0.25,Ses03M_atr.txt,The feedback was intense and helpful.
+Ses03F_impro06_F015,3,3,2,0.5,0.5,0.25,Ses03F_atr.txt,"I was agitated at first, but after thinking about it, I feel weak."
+Ses03F_script06_F016,2,5,4,0.25,1.0,0.75,Ses03F_atr.txt,The team is bold about the project.
+Ses03F_impro06_F017,5,5,5,1.0,1.0,1.0,Ses03F_atr.txt,"Although the situation seems frenzied, I believe it will become delighted soon."
+Ses03F_script06_F018,3,5,5,0.5,1.0,1.0,Ses03F_atr.txt,My day has been potent.
+Ses03F_impro06_F019,2,4,4,0.25,0.75,0.75,Ses03F_atr.txt,The atmosphere feels elated.
+Ses03F_script07_F001,2,1,3,0.25,0.0,0.5,Ses03F_atr.txt,"Although the situation seems forceful, I believe it will become horrible soon."
+Ses03M_impro07_M002,3,1,3,0.5,0.0,0.5,Ses03M_atr.txt,I can't help but feel strong right now.
+Ses03F_script07_F003,3,4,1,0.5,0.75,0.0,Ses03F_atr.txt,The situation is inferior for all of us.
+Ses03M_script07_M004,4,5,2,0.75,1.0,0.25,Ses03M_atr.txt,Everything seems agitated at the moment.
+Ses03M_impro07_M005,5,3,2,1.0,0.5,0.25,Ses03M_atr.txt,Everything seems lovely at the moment.
+Ses03M_impro07_M006,4,2,2,0.75,0.25,0.25,Ses03M_atr.txt,"The team was enthusiastic about the deadline, but terrible about the quality of work."
+Ses03M_impro07_M007,5,2,4,1.0,0.25,0.75,Ses03M_atr.txt,Everything seems passionate at the moment.
+Ses03F_impro07_F008,4,4,3,0.75,0.75,0.5,Ses03F_atr.txt,"The project started out cheerful, but ended up being quite powerful."
+Ses03M_script07_M009,2,2,5,0.25,0.25,1.0,Ses03M_atr.txt,The movie had a still beginning but a fearless ending.
+Ses03F_script07_F010,5,4,1,1.0,0.75,0.0,Ses03F_atr.txt,"I've been feeling passionate all day, but now I'm starting to feel subordinate."
+Ses03F_impro07_F011,5,4,1,1.0,0.75,0.0,Ses03F_atr.txt,That experience was incapable.
+Ses03F_script07_F012,3,4,3,0.5,0.75,0.5,Ses03F_atr.txt,The conversation left me feeling masterful.
+Ses03F_impro07_F013,1,1,5,0.0,0.0,1.0,Ses03F_atr.txt,We were all assertive after hearing the news.
+Ses03M_impro07_M014,4,5,2,0.75,1.0,0.25,Ses03M_atr.txt,My day has been incapable.
+Ses03F_script07_F015,3,2,3,0.5,0.25,0.5,Ses03F_atr.txt,The atmosphere feels dominant.
+Ses03M_script07_M016,2,2,3,0.25,0.25,0.5,Ses03M_atr.txt,The team is bad about the project.
+Ses03M_script07_M017,3,5,4,0.5,1.0,0.75,Ses03M_atr.txt,The news made me beautiful.
+Ses03M_script07_M018,3,4,2,0.5,0.75,0.25,Ses03M_atr.txt,The feedback was unskilled and helpful.
+Ses03F_impro07_F019,2,3,4,0.25,0.5,0.75,Ses03F_atr.txt,"The project started out cheerful, but ended up being quite dismal."
+Ses03F_impro08_F001,5,4,4,1.0,0.75,0.75,Ses03F_atr.txt,The atmosphere feels fantastic.
+Ses03F_impro08_F002,2,2,3,0.25,0.25,0.5,Ses03F_atr.txt,The movie had a distressed beginning but a inactive ending.
+Ses03M_script08_M003,1,2,5,0.0,0.25,1.0,Ses03M_atr.txt,"The team was disheartening about the deadline, but dismal about the quality of work."
+Ses03M_impro08_M004,4,3,2,0.75,0.5,0.25,Ses03M_atr.txt,"Despite feeling vulnerable about the challenge, I approached it with a helpless attitude."
+Ses03F_script08_F005,1,1,3,0.0,0.0,0.5,Ses03F_atr.txt,The movie had a horrible beginning but a placid ending.
+Ses03F_impro08_F006,3,2,5,0.5,0.25,1.0,Ses03F_atr.txt,That experience was energetic.
+Ses03F_script08_F007,3,5,5,0.5,1.0,1.0,Ses03F_atr.txt,"The project started out spirited, but ended up being quite amazing."
+Ses03F_script08_F008,5,5,3,1.0,1.0,0.5,Ses03F_atr.txt,"The project started out cheerful, but ended up being quite animated."
+Ses03M_script08_M009,1,1,3,0.0,0.0,0.5,Ses03M_atr.txt,That experience was unpleasant.
+Ses03F_impro08_F010,1,5,3,0.0,1.0,0.5,Ses03F_atr.txt,"I've been feeling strong all day, but now I'm starting to feel ecstatic."
+Ses03F_script08_F011,1,1,4,0.0,0.0,0.75,Ses03F_atr.txt,This situation makes me feel unhappy.
+Ses03F_script08_F012,5,1,5,1.0,0.0,1.0,Ses03F_atr.txt,This outcome is powerful for me.
+Ses03M_script08_M013,3,2,1,0.5,0.25,0.0,Ses03M_atr.txt,The movie had a unsure beginning but a relaxed ending.
+Ses03M_script08_M014,1,3,2,0.0,0.5,0.25,Ses03M_atr.txt,The news made me afraid.
+Ses03M_impro08_M015,3,3,5,0.5,0.5,1.0,Ses03M_atr.txt,"The project started out thrilled, but ended up being quite influential."
+Ses03M_impro08_M016,1,4,3,0.0,0.75,0.5,Ses03M_atr.txt,"While the presentation was beautiful, the audience response was passive."
+Ses03F_impro08_F017,5,5,2,1.0,1.0,0.25,Ses03F_atr.txt,What started as a wild conversation quickly turned amazing.
+Ses03M_script08_M018,5,2,3,1.0,0.25,0.5,Ses03M_atr.txt,"The project started out frenzied, but ended up being quite negative."
+Ses03F_script08_F019,1,3,5,0.0,0.5,1.0,Ses03F_atr.txt,The movie had a glad beginning but a heartbroken ending.
+Ses03M_script09_M001,2,1,2,0.25,0.0,0.25,Ses03M_atr.txt,This situation makes me feel sleepy.
+Ses03M_impro09_M002,4,5,5,0.75,1.0,1.0,Ses03M_atr.txt,What started as a capable conversation quickly turned skilled.
+Ses03F_impro09_F003,1,4,3,0.0,0.75,0.5,Ses03F_atr.txt,My day has been forceful.
+Ses03M_impro09_M004,1,2,5,0.0,0.25,1.0,Ses03M_atr.txt,The feedback was brave and helpful.
+Ses03M_script09_M005,1,1,2,0.0,0.0,0.25,Ses03M_atr.txt,"Although the situation seems dreadful, I believe it will become gloomy soon."
+Ses03F_script09_F006,5,5,1,1.0,1.0,0.0,Ses03F_atr.txt,I feel positive today.
+Ses03M_script09_M007,3,2,2,0.5,0.25,0.25,Ses03M_atr.txt,The news made me helpless.
+Ses03F_script09_F008,5,5,4,1.0,1.0,0.75,Ses03F_atr.txt,My day has been brave.
+Ses03F_script09_F009,1,2,1,0.0,0.25,0.0,Ses03F_atr.txt,"I was doubtful at first, but after thinking about it, I feel mellow."
+Ses03F_impro09_F010,5,1,5,1.0,0.0,1.0,Ses03F_atr.txt,"The team was disheartening about the deadline, but effective about the quality of work."
+Ses03F_impro09_F011,1,4,5,0.0,0.75,1.0,Ses03F_atr.txt,I'm in a brave mood.
+Ses03F_impro09_F012,5,5,5,1.0,1.0,1.0,Ses03F_atr.txt,The conversation left me feeling courageous.
+Ses03M_script09_M013,5,4,4,1.0,0.75,0.75,Ses03M_atr.txt,"I was content at first, but after thinking about it, I feel electrified."
+Ses03F_script09_F014,5,2,1,1.0,0.25,0.0,Ses03F_atr.txt,I feel unhappy today.
+Ses03M_script09_M015,3,3,2,0.5,0.5,0.25,Ses03M_atr.txt,The meeting was amazing and productive.
+Ses03M_impro09_M016,2,4,1,0.25,0.75,0.0,Ses03M_atr.txt,What started as a tranquil conversation quickly turned uninterested.
+Ses03F_script09_F017,3,1,2,0.5,0.0,0.25,Ses03F_atr.txt,The team is sorrowful about the project.
+Ses03F_script09_F018,5,3,1,1.0,0.5,0.0,Ses03F_atr.txt,I've been feeling hyper lately.
+Ses03M_impro09_M019,3,4,4,0.5,0.75,0.75,Ses03M_atr.txt,We were all enthusiastic after hearing the news.
+Ses03M_impro10_M001,2,2,3,0.25,0.25,0.5,Ses03M_atr.txt,I'm distressed because of the recent events.
+Ses03M_script10_M002,3,5,4,0.5,1.0,0.75,Ses03M_atr.txt,We were all passionate after hearing the news.
+Ses03M_impro10_M003,3,4,3,0.5,0.75,0.5,Ses03M_atr.txt,I'm in a agitated mood.
+Ses03F_impro10_F004,2,3,4,0.25,0.5,0.75,Ses03F_atr.txt,This situation makes me feel drowsy.
+Ses03M_script10_M005,4,2,3,0.75,0.25,0.5,Ses03M_atr.txt,I can't help but feel masterful right now.
+Ses03M_script10_M006,1,2,1,0.0,0.25,0.0,Ses03M_atr.txt,We were all incompetent after hearing the news.
+Ses03F_impro10_F007,1,3,2,0.0,0.5,0.25,Ses03F_atr.txt,"While the presentation was placid, the audience response was terrible."
+Ses03M_impro10_M008,3,4,2,0.5,0.75,0.25,Ses03M_atr.txt,The conversation left me feeling joyful.
+Ses03F_script10_F009,5,1,5,1.0,0.0,1.0,Ses03F_atr.txt,The situation is electrified for all of us.
+Ses03M_script10_M010,5,1,1,1.0,0.0,0.0,Ses03M_atr.txt,Everything seems gloomy at the moment.
+Ses03F_impro10_F011,3,3,4,0.5,0.5,0.75,Ses03F_atr.txt,I've been feeling efficient lately.
+Ses03M_impro10_M012,2,4,5,0.25,0.75,1.0,Ses03M_atr.txt,My day has been amazing.
+Ses03M_script10_M013,2,4,2,0.25,0.75,0.25,Ses03M_atr.txt,I've been feeling gentle lately.
+Ses03M_script10_M014,3,4,3,0.5,0.75,0.5,Ses03M_atr.txt,This situation makes me feel potent.
+Ses03M_impro10_M015,4,4,4,0.75,0.75,0.75,Ses03M_atr.txt,The feedback was content and helpful.
+Ses03F_script10_F016,5,3,5,1.0,0.5,1.0,Ses03F_atr.txt,The news made me authoritative.
+Ses03F_impro10_F017,1,1,5,0.0,0.0,1.0,Ses03F_atr.txt,The meeting was determined and productive.
+Ses03M_impro10_M018,3,2,5,0.5,0.25,1.0,Ses03M_atr.txt,The team is stimulated about the project.
+Ses03F_impro10_F019,2,1,5,0.25,0.0,1.0,Ses03F_atr.txt,"The project started out downcast, but ended up being quite horrible."
+Ses03M_impro11_M001,2,2,3,0.25,0.25,0.5,Ses03M_atr.txt,The meeting was skilled and productive.
+Ses03M_script11_M002,4,2,3,0.75,0.25,0.5,Ses03M_atr.txt,The news made me painful.
+Ses03M_script11_M003,1,5,5,0.0,1.0,1.0,Ses03M_atr.txt,The meeting was gentle and productive.
+Ses03M_script11_M004,4,1,2,0.75,0.0,0.25,Ses03M_atr.txt,"Although the situation seems subordinate, I believe it will become spirited soon."
+Ses03F_impro11_F005,1,2,3,0.0,0.25,0.5,Ses03F_atr.txt,I am still about what happened.
+Ses03F_script11_F006,4,5,4,0.75,1.0,0.75,Ses03F_atr.txt,I can't help but feel dynamic right now.
+Ses03M_impro11_M007,2,4,5,0.25,0.75,1.0,Ses03M_atr.txt,I can't help but feel mighty right now.
+Ses03F_impro11_F008,3,4,5,0.5,0.75,1.0,Ses03F_atr.txt,The team is intense about the project.
+Ses03F_impro11_F009,5,4,2,1.0,0.75,0.25,Ses03F_atr.txt,The results made everyone anxious.
+Ses03M_script11_M010,2,1,1,0.25,0.0,0.0,Ses03M_atr.txt,The meeting was drowsy and productive.
+Ses03F_impro11_F011,2,2,5,0.25,0.25,1.0,Ses03F_atr.txt,The feedback was unpleasant and helpful.
+Ses03F_script11_F012,4,4,1,0.75,0.75,0.0,Ses03F_atr.txt,I am dynamic about what happened.
+Ses03M_script11_M013,1,5,1,0.0,1.0,0.0,Ses03M_atr.txt,I can't help but feel calm right now.
+Ses03F_impro11_F014,4,3,2,0.75,0.5,0.25,Ses03F_atr.txt,I'm agitated because of the recent events.
+Ses03F_script11_F015,4,3,1,0.75,0.5,0.0,Ses03F_atr.txt,My day has been shy.
+Ses03F_script11_F016,5,3,2,1.0,0.5,0.25,Ses03F_atr.txt,"The feedback was mostly excellent, with some alert comments mixed in."
+Ses03M_script11_M017,3,2,4,0.5,0.25,0.75,Ses03M_atr.txt,"While the presentation was painful, the audience response was fearless."
+Ses03F_impro11_F018,1,4,3,0.0,0.75,0.5,Ses03F_atr.txt,This situation makes me feel detached.
+Ses03M_script11_M019,1,3,5,0.0,0.5,1.0,Ses03M_atr.txt,The results made everyone uninterested.
+Ses03F_impro12_F001,1,5,4,0.0,1.0,0.75,Ses03F_atr.txt,I've been feeling fearless lately.
+Ses03F_impro12_F002,5,3,5,1.0,0.5,1.0,Ses03F_atr.txt,That experience was awesome.
+Ses03F_script12_F003,5,4,1,1.0,0.75,0.0,Ses03F_atr.txt,I feel afraid today.
+Ses03F_impro12_F004,2,3,2,0.25,0.5,0.25,Ses03F_atr.txt,The feedback was fearful and helpful.
+Ses03F_impro12_F005,5,4,2,1.0,0.75,0.25,Ses03F_atr.txt,This outcome is wild for me.
+Ses03M_script12_M006,1,2,5,0.0,0.25,1.0,Ses03M_atr.txt,The situation is decisive for all of us.
+Ses03F_script12_F007,3,5,5,0.5,1.0,1.0,Ses03F_atr.txt,I can't help but feel controlling right now.
+Ses03M_impro12_M008,1,5,1,0.0,1.0,0.0,Ses03M_atr.txt,"The feedback was mostly lovely, with some insecure comments mixed in."
+Ses03M_script12_M009,4,4,5,0.75,0.75,1.0,Ses03M_atr.txt,We were all intense after hearing the news.
+Ses03F_impro12_F010,2,3,4,0.25,0.5,0.75,Ses03F_atr.txt,"While the presentation was assertive, the audience response was influential."
+Ses03M_impro12_M011,1,2,3,0.0,0.25,0.5,Ses03M_atr.txt,That experience was drowsy.
+Ses03M_script12_M012,2,5,3,0.25,1.0,0.5,Ses03M_atr.txt,The conversation left me feeling satisfied.
+Ses03F_script12_F013,3,4,2,0.5,0.75,0.25,Ses03F_atr.txt,That experience was vulnerable.
+Ses03M_impro12_M014,2,2,1,0.25,0.25,0.0,Ses03M_atr.txt,I am doubtful about what happened.
+Ses03M_script12_M015,3,1,2,0.5,0.0,0.25,Ses03M_atr.txt,I'm animated because of the recent events.
+Ses03M_script12_M016,1,2,1,0.0,0.25,0.0,Ses03M_atr.txt,"The project started out helpless, but ended up being quite inferior."
+Ses03M_impro12_M017,1,2,4,0.0,0.25,0.75,Ses03M_atr.txt,I feel tranquil today.
+Ses03M_impro12_M018,3,1,5,0.5,0.0,1.0,Ses03M_atr.txt,I am sad about what happened.
+Ses03M_impro12_M019,1,4,1,0.0,0.75,0.0,Ses03M_atr.txt,"The project started out excellent, but ended up being quite unsure."
+Ses04F_impro01_F001,5,3,5,1.0,0.5,1.0,Ses04F_atr.txt,I'm amazing because of the recent events.
+Ses04F_script01_F002,2,2,1,0.25,0.25,0.0,Ses04F_atr.txt,My day has been inactive.
+Ses04M_impro01_M003,4,4,3,0.75,0.75,0.5,Ses04M_atr.txt,"The team was cheerful about the deadline, but excited about the quality of work."
+Ses04M_impro01_M004,3,2,2,0.5,0.25,0.25,Ses04M_atr.txt,"Despite feeling afraid about the challenge, I approached it with a ineffective attitude."
+Ses04M_impro01_M005,1,3,1,0.0,0.5,0.0,Ses04M_atr.txt,"I was vulnerable at first, but after thinking about it, I feel upset."
+Ses04F_impro01_F006,4,4,1,0.75,0.75,0.0,Ses04F_atr.txt,My day has been subordinate.
+Ses04F_script01_F007,3,3,3,0.5,0.5,0.5,Ses04F_atr.txt,The results made everyone beautiful.
+Ses04M_script01_M008,2,4,4,0.25,0.75,0.75,Ses04M_atr.txt,The conversation left me feeling passive.
+Ses04M_impro01_M009,1,3,3,0.0,0.5,0.5,Ses04M_atr.txt,The news made me satisfied.
+Ses04F_impro01_F010,5,1,5,1.0,0.0,1.0,Ses04F_atr.txt,"Despite feeling upset about the challenge, I approached it with a aroused attitude."
+Ses04F_script01_F011,3,5,5,0.5,1.0,1.0,Ses04F_atr.txt,The conversation left me feeling awesome.
+Ses04M_script01_M012,3,2,5,0.5,0.25,1.0,Ses04M_atr.txt,"I've been feeling commanding all day, but now I'm starting to feel decisive."
+Ses04F_impro01_F013,5,3,2,1.0,0.5,0.25,Ses04F_atr.txt,"The project started out hesitant, but ended up being quite thrilled."
+Ses04F_script01_F014,1,1,1,0.0,0.0,0.0,Ses04F_atr.txt,This outcome is gloomy for me.
+Ses04M_impro01_M015,4,4,2,0.75,0.75,0.25,Ses04M_atr.txt,I've been feeling thrilled lately.
+Ses04F_impro01_F016,3,2,2,0.5,0.25,0.25,Ses04F_atr.txt,This outcome is downcast for me.
+Ses04F_impro01_F017,2,4,3,0.25,0.75,0.5,Ses04F_atr.txt,The team is sleepy about the project.
+Ses04M_script01_M018,5,1,2,1.0,0.0,0.25,Ses04M_atr.txt,"I was sorrowful at first, but after thinking about it, I feel lively."
+Ses04F_script01_F019,3,4,1,0.5,0.75,0.0,Ses04F_atr.txt,"The team was thrilled about the deadline, but amazing about the quality of work."
+Ses04M_script02_M001,2,5,5,0.25,1.0,1.0,Ses04M_atr.txt,The situation is calm for all of us.
+Ses04M_script02_M002,4,3,5,0.75,0.5,1.0,Ses04M_atr.txt,I can't help but feel agitated right now.
+Ses04M_impro02_M003,5,4,4,1.0,0.75,0.75,Ses04M_atr.txt,I've been feeling exhilarated lately.
+Ses04F_impro02_F004,1,5,2,0.0,1.0,0.25,Ses04F_atr.txt,The news made me serene.
+Ses04F_script02_F005,3,4,4,0.5,0.75,0.75,Ses04F_atr.txt,What started as a powerful conversation quickly turned fantastic.
+Ses04F_script02_F006,2,2,2,0.25,0.25,0.25,Ses04F_atr.txt,"Although the situation seems uncertain, I believe it will become afraid soon."
+Ses04M_impro02_M007,4,3,2,0.75,0.5,0.25,Ses04M_atr.txt,"The feedback was mostly submissive, with some exhilarated comments mixed in."
+Ses04F_impro02_F008,1,5,1,0.0,1.0,0.0,Ses04F_atr.txt,"I was inferior at first, but after thinking about it, I feel delighted."
+Ses04M_impro02_M009,3,3,4,0.5,0.5,0.75,Ses04M_atr.txt,I am excellent about what happened.
+Ses04F_impro02_F010,5,3,5,1.0,0.5,1.0,Ses04F_atr.txt,"Despite feeling potent about the challenge, I approached it with a assertive attitude."
+Ses04F_impro02_F011,5,2,1,1.0,0.25,0.0,Ses04F_atr.txt,"Although the situation seems exhilarated, I believe it will become unskilled soon."
+Ses04M_impro02_M012,2,2,1,0.25,0.25,0.0,Ses04M_atr.txt,"I was bad at first, but after thinking about it, I feel horrible."
+Ses04F_impro02_F013,2,2,5,0.25,0.25,1.0,Ses04F_atr.txt,"While the presentation was influential, the audience response was sluggish."
+Ses04M_script02_M014,5,3,1,1.0,0.5,0.0,Ses04M_atr.txt,The atmosphere feels electrified.
+Ses04F_script02_F015,2,2,3,0.25,0.25,0.5,Ses04F_atr.txt,The feedback was detached and helpful.
+Ses04F_impro02_F016,2,1,1,0.25,0.0,0.0,Ses04F_atr.txt,I am submissive about what happened.
+Ses04F_script02_F017,3,1,2,0.5,0.0,0.25,Ses04F_atr.txt,"Although the situation seems enthusiastic, I believe it will become heartbroken soon."
+Ses04M_script02_M018,5,1,5,1.0,0.0,1.0,Ses04M_atr.txt,"The team was miserable about the deadline, but electrified about the quality of work."
+Ses04F_script02_F019,4,3,4,0.75,0.5,0.75,Ses04F_atr.txt,"Despite feeling confident about the challenge, I approached it with a brave attitude."
+Ses04F_script03_F001,2,2,4,0.25,0.25,0.75,Ses04F_atr.txt,The feedback was unpleasant and helpful.
+Ses04F_impro03_F002,2,5,4,0.25,1.0,0.75,Ses04F_atr.txt,The results made everyone mellow.
+Ses04M_impro03_M003,5,4,1,1.0,0.75,0.0,Ses04M_atr.txt,I am wonderful about what happened.
+Ses04M_script03_M004,1,2,2,0.0,0.25,0.25,Ses04M_atr.txt,"Despite feeling peaceful about the challenge, I approached it with a sluggish attitude."
+Ses04M_impro03_M005,4,5,4,0.75,1.0,0.75,Ses04M_atr.txt,What started as a assertive conversation quickly turned grateful.
+Ses04M_script03_M006,4,1,5,0.75,0.0,1.0,Ses04M_atr.txt,The news made me bold.
+Ses04M_impro03_M007,1,1,2,0.0,0.0,0.25,Ses04M_atr.txt,The feedback was incompetent and helpful.
+Ses04M_impro03_M008,5,2,3,1.0,0.25,0.5,Ses04M_atr.txt,Everything seems vigorous at the moment.
+Ses04M_impro03_M009,3,1,2,0.5,0.0,0.25,Ses04M_atr.txt,I am shy about what happened.
+Ses04F_impro03_F010,4,3,3,0.75,0.5,0.5,Ses04F_atr.txt,I've been feeling fearless lately.
+Ses04M_impro03_M011,5,1,4,1.0,0.0,0.75,Ses04M_atr.txt,The news made me confident.
+Ses04M_script03_M012,1,1,1,0.0,0.0,0.0,Ses04M_atr.txt,I'm sleepy because of the recent events.
+Ses04M_script03_M013,3,5,1,0.5,1.0,0.0,Ses04M_atr.txt,The situation is dependent for all of us.
+Ses04M_impro03_M014,5,5,1,1.0,1.0,0.0,Ses04M_atr.txt,The situation is excited for all of us.
+Ses04F_impro03_F015,5,3,2,1.0,0.5,0.25,Ses04F_atr.txt,"The team was aroused about the deadline, but terrible about the quality of work."
+Ses04F_impro03_F016,2,5,1,0.25,1.0,0.0,Ses04F_atr.txt,The meeting was dependent and productive.
+Ses04M_script03_M017,2,1,5,0.25,0.0,1.0,Ses04M_atr.txt,The situation is depressed for all of us.
+Ses04F_impro03_F018,4,1,1,0.75,0.0,0.0,Ses04F_atr.txt,I feel vigorous today.
+Ses04F_impro03_F019,1,5,4,0.0,1.0,0.75,Ses04F_atr.txt,The results made everyone joyful.
+Ses04F_impro04_F001,1,2,1,0.0,0.25,0.0,Ses04F_atr.txt,I've been feeling dreadful lately.
+Ses04M_impro04_M002,5,5,4,1.0,1.0,0.75,Ses04M_atr.txt,I'm in a excited mood.
+Ses04M_impro04_M003,3,4,2,0.5,0.75,0.25,Ses04M_atr.txt,What started as a submissive conversation quickly turned positive.
+Ses04M_impro04_M004,2,4,5,0.25,0.75,1.0,Ses04M_atr.txt,This outcome is apathetic for me.
+Ses04M_impro04_M005,2,2,1,0.25,0.25,0.0,Ses04M_atr.txt,"I was insecure at first, but after thinking about it, I feel relaxed."
+Ses04F_script04_F006,1,1,1,0.0,0.0,0.0,Ses04F_atr.txt,The situation is lethargic for all of us.
+Ses04M_script04_M007,1,2,3,0.0,0.25,0.5,Ses04M_atr.txt,"I was gentle at first, but after thinking about it, I feel vulnerable."
+Ses04M_impro04_M008,5,5,1,1.0,1.0,0.0,Ses04M_atr.txt,We were all eager after hearing the news.
+Ses04M_impro04_M009,2,1,4,0.25,0.0,0.75,Ses04M_atr.txt,"I've been feeling brave all day, but now I'm starting to feel bad."
+Ses04F_impro04_F010,5,4,3,1.0,0.75,0.5,Ses04F_atr.txt,I feel exhilarated today.
+Ses04F_impro04_F011,2,3,4,0.25,0.5,0.75,Ses04F_atr.txt,The results made everyone delighted.
+Ses04M_script04_M012,2,4,2,0.25,0.75,0.25,Ses04M_atr.txt,"I've been feeling beautiful all day, but now I'm starting to feel tranquil."
+Ses04F_impro04_F013,5,3,3,1.0,0.5,0.5,Ses04F_atr.txt,Everything seems frenzied at the moment.
+Ses04F_script04_F014,5,4,1,1.0,0.75,0.0,Ses04F_atr.txt,The atmosphere feels unskilled.
+Ses04F_impro04_F015,3,5,1,0.5,1.0,0.0,Ses04F_atr.txt,I'm ineffective because of the recent events.
+Ses04F_impro04_F016,1,2,4,0.0,0.25,0.75,Ses04F_atr.txt,The situation is efficient for all of us.
+Ses04F_impro04_F017,3,5,5,0.5,1.0,1.0,Ses04F_atr.txt,What started as a fantastic conversation quickly turned powerful.
+Ses04F_impro04_F018,1,5,3,0.0,1.0,0.5,Ses04F_atr.txt,"The feedback was mostly cheerful, with some mellow comments mixed in."
+Ses04M_script04_M019,1,3,3,0.0,0.5,0.5,Ses04M_atr.txt,I'm in a quiet mood.
+Ses04M_script05_M001,1,3,4,0.0,0.5,0.75,Ses04M_atr.txt,The feedback was thrilled and helpful.
+Ses04F_impro05_F002,3,3,4,0.5,0.5,0.75,Ses04F_atr.txt,Everything seems courageous at the moment.
+Ses04F_impro05_F003,4,2,1,0.75,0.25,0.0,Ses04F_atr.txt,I've been feeling stimulated lately.
+Ses04M_script05_M004,1,2,4,0.0,0.25,0.75,Ses04M_atr.txt,The movie had a capable beginning but a disappointed ending.
+Ses04M_impro05_M005,2,3,4,0.25,0.5,0.75,Ses04M_atr.txt,The news made me strong.
+Ses04M_script05_M006,1,4,3,0.0,0.75,0.5,Ses04M_atr.txt,I can't help but feel lovely right now.
+Ses04F_impro05_F007,3,5,2,0.5,1.0,0.25,Ses04F_atr.txt,"The team was electrified about the deadline, but content about the quality of work."
+Ses04M_script05_M008,3,5,2,0.5,1.0,0.25,Ses04M_atr.txt,I am hesitant about what happened.
+Ses04M_script05_M009,5,5,4,1.0,1.0,0.75,Ses04M_atr.txt,My day has been energetic.
+Ses04F_script05_F010,1,1,5,0.0,0.0,1.0,Ses04F_atr.txt,The meeting was distressed and productive.
+Ses04M_script05_M011,5,1,1,1.0,0.0,0.0,Ses04M_atr.txt,The movie had a ineffective beginning but a unpleasant ending.
+Ses04M_impro05_M012,1,5,3,0.0,1.0,0.5,Ses04M_atr.txt,The meeting was indifferent and productive.
+Ses04F_script05_F013,4,5,4,0.75,1.0,0.75,Ses04F_atr.txt,"The team was active about the deadline, but happy about the quality of work."
+Ses04F_script05_F014,4,3,2,0.75,0.5,0.25,Ses04F_atr.txt,"The team was ecstatic about the deadline, but sorrowful about the quality of work."
+Ses04F_script05_F015,1,5,2,0.0,1.0,0.25,Ses04F_atr.txt,That experience was positive.
+Ses04F_script05_F016,2,4,2,0.25,0.75,0.25,Ses04F_atr.txt,The feedback was apathetic and helpful.
+Ses04M_script05_M017,4,2,3,0.75,0.25,0.5,Ses04M_atr.txt,Everything seems masterful at the moment.
+Ses04M_impro05_M018,5,2,3,1.0,0.25,0.5,Ses04M_atr.txt,"The feedback was mostly wild, with some awful comments mixed in."
+Ses04F_impro05_F019,4,2,3,0.75,0.25,0.5,Ses04F_atr.txt,The results made everyone controlling.
+Ses04M_impro06_M001,1,3,4,0.0,0.5,0.75,Ses04M_atr.txt,I'm potent because of the recent events.
+Ses04F_script06_F002,4,2,2,0.75,0.25,0.25,Ses04F_atr.txt,The meeting was heartbroken and productive.
+Ses04M_impro06_M003,2,2,4,0.25,0.25,0.75,Ses04M_atr.txt,I'm peaceful because of the recent events.
+Ses04F_script06_F004,4,1,3,0.75,0.0,0.5,Ses04F_atr.txt,My day has been disappointed.
+Ses04M_impro06_M005,2,5,1,0.25,1.0,0.0,Ses04M_atr.txt,The feedback was pleased and helpful.
+Ses04F_script06_F006,5,4,1,1.0,0.75,0.0,Ses04F_atr.txt,The news made me thrilled.
+Ses04F_impro06_F007,1,4,1,0.0,0.75,0.0,Ses04F_atr.txt,This outcome is still for me.
+Ses04F_script06_F008,1,3,4,0.0,0.5,0.75,Ses04F_atr.txt,I've been feeling placid lately.
+Ses04F_impro06_F009,5,2,4,1.0,0.25,0.75,Ses04F_atr.txt,The feedback was tragic and helpful.
+Ses04F_impro06_F010,3,2,5,0.5,0.25,1.0,Ses04F_atr.txt,I feel active today.
+Ses04F_impro06_F011,5,3,4,1.0,0.5,0.75,Ses04F_atr.txt,"The team was animated about the deadline, but authoritative about the quality of work."
+Ses04M_impro06_M012,2,3,3,0.25,0.5,0.5,Ses04M_atr.txt,"While the presentation was still, the audience response was competent."
+Ses04F_impro06_F013,3,3,4,0.5,0.5,0.75,Ses04F_atr.txt,That experience was wild.
+Ses04M_script06_M014,1,3,2,0.0,0.5,0.25,Ses04M_atr.txt,I am fearful about what happened.
+Ses04M_script06_M015,3,4,1,0.5,0.75,0.0,Ses04M_atr.txt,Everything seems awesome at the moment.
+Ses04F_impro06_F016,2,4,3,0.25,0.75,0.5,Ses04F_atr.txt,I am strong about what happened.
+Ses04M_impro06_M017,3,1,3,0.5,0.0,0.5,Ses04M_atr.txt,This situation makes me feel influential.
+Ses04F_impro06_F018,3,4,3,0.5,0.75,0.5,Ses04F_atr.txt,"The feedback was mostly dynamic, with some delighted comments mixed in."
+Ses04F_script06_F019,5,1,4,1.0,0.0,0.75,Ses04F_atr.txt,My day has been dynamic.
+Ses04M_script07_M001,2,4,2,0.25,0.75,0.25,Ses04M_atr.txt,The conversation left me feeling fearful.
+Ses04M_script07_M002,3,4,4,0.5,0.75,0.75,Ses04M_atr.txt,"I've been feeling commanding all day, but now I'm starting to feel mellow."
+Ses04F_impro07_F003,2,1,3,0.25,0.0,0.5,Ses04F_atr.txt,"The feedback was mostly unhappy, with some calm comments mixed in."
+Ses04F_script07_F004,4,3,5,0.75,0.5,1.0,Ses04F_atr.txt,The situation is enthusiastic for all of us.
+Ses04F_script07_F005,2,1,4,0.25,0.0,0.75,Ses04F_atr.txt,The situation is tired for all of us.
+Ses04F_script07_F006,3,5,3,0.5,1.0,0.5,Ses04F_atr.txt,"While the presentation was lovely, the audience response was brave."
+Ses04F_impro07_F007,5,3,4,1.0,0.5,0.75,Ses04F_atr.txt,The feedback was wild and helpful.
+Ses04M_script07_M008,5,5,3,1.0,1.0,0.5,Ses04M_atr.txt,That experience was excellent.
+Ses04F_impro07_F009,3,5,3,0.5,1.0,0.5,Ses04F_atr.txt,We were all excited after hearing the news.
+Ses04F_impro07_F010,3,5,3,0.5,1.0,0.5,Ses04F_atr.txt,Everything seems cheerful at the moment.
+Ses04F_impro07_F011,3,3,5,0.5,0.5,1.0,Ses04F_atr.txt,"The project started out stimulated, but ended up being quite dreadful."
+Ses04M_script07_M012,5,5,1,1.0,1.0,0.0,Ses04M_atr.txt,This outcome is vulnerable for me.
+Ses04M_impro07_M013,4,5,3,0.75,1.0,0.5,Ses04M_atr.txt,The movie had a terrific beginning but a excellent ending.
+Ses04M_impro07_M014,2,1,2,0.25,0.0,0.25,Ses04M_atr.txt,"The project started out doubtful, but ended up being quite unpleasant."
+Ses04M_script07_M015,3,1,3,0.5,0.0,0.5,Ses04M_atr.txt,I am unhappy about what happened.
+Ses04F_impro07_F016,5,2,4,1.0,0.25,0.75,Ses04F_atr.txt,"The project started out authoritative, but ended up being quite awful."
+Ses04M_script07_M017,1,4,5,0.0,0.75,1.0,Ses04M_atr.txt,We were all bold after hearing the news.
+Ses04M_impro07_M018,1,2,2,0.0,0.25,0.25,Ses04M_atr.txt,I can't help but feel afraid right now.
+Ses04M_impro07_M019,1,2,1,0.0,0.25,0.0,Ses04M_atr.txt,The atmosphere feels heartbroken.
+Ses04M_impro08_M001,1,1,2,0.0,0.0,0.25,Ses04M_atr.txt,"While the presentation was shy, the audience response was bored."
+Ses04F_impro08_F002,1,3,4,0.0,0.5,0.75,Ses04F_atr.txt,My day has been masterful.
+Ses04M_script08_M003,2,5,1,0.25,1.0,0.0,Ses04M_atr.txt,I feel glad today.
+Ses04M_script08_M004,2,3,5,0.25,0.5,1.0,Ses04M_atr.txt,We were all beautiful after hearing the news.
+Ses04M_impro08_M005,5,3,3,1.0,0.5,0.5,Ses04M_atr.txt,"I've been feeling vigorous all day, but now I'm starting to feel upset."
+Ses04F_impro08_F006,3,4,3,0.5,0.75,0.5,Ses04F_atr.txt,"I've been feeling mighty all day, but now I'm starting to feel great."
+Ses04M_script08_M007,3,2,5,0.5,0.25,1.0,Ses04M_atr.txt,We were all disheartening after hearing the news.
+Ses04M_script08_M008,5,5,2,1.0,1.0,0.25,Ses04M_atr.txt,The conversation left me feeling helpless.
+Ses04F_script08_F009,5,5,3,1.0,1.0,0.5,Ses04F_atr.txt,My day has been joyful.
+Ses04M_impro08_M010,2,1,5,0.25,0.0,1.0,Ses04M_atr.txt,"I was tired at first, but after thinking about it, I feel strong."
+Ses04M_impro08_M011,4,4,4,0.75,0.75,0.75,Ses04M_atr.txt,I've been feeling fantastic lately.
+Ses04F_impro08_F012,2,4,5,0.25,0.75,1.0,Ses04F_atr.txt,That experience was authoritative.
+Ses04M_impro08_M013,4,5,2,0.75,1.0,0.25,Ses04M_atr.txt,"The team was fearful about the deadline, but excellent about the quality of work."
+Ses04F_impro08_F014,2,2,4,0.25,0.25,0.75,Ses04F_atr.txt,I've been feeling strong lately.
+Ses04F_script08_F015,2,1,3,0.25,0.0,0.5,Ses04F_atr.txt,The results made everyone downcast.
+Ses04F_impro08_F016,4,2,3,0.75,0.25,0.5,Ses04F_atr.txt,"I've been feeling stimulated all day, but now I'm starting to feel efficient."
+Ses04M_script08_M017,1,1,2,0.0,0.0,0.25,Ses04M_atr.txt,This situation makes me feel gloomy.
+Ses04F_script08_F018,3,1,3,0.5,0.0,0.5,Ses04F_atr.txt,What started as a frenzied conversation quickly turned passive.
+Ses04M_impro08_M019,3,3,1,0.5,0.5,0.0,Ses04M_atr.txt,The results made everyone unsure.
+Ses04M_impro09_M001,3,5,5,0.5,1.0,1.0,Ses04M_atr.txt,I am strong about what happened.
+Ses04F_script09_F002,1,2,1,0.0,0.25,0.0,Ses04F_atr.txt,What started as a powerless conversation quickly turned inefficient.
+Ses04M_impro09_M003,4,2,4,0.75,0.25,0.75,Ses04M_atr.txt,This outcome is capable for me.
+Ses04M_impro09_M004,5,3,3,1.0,0.5,0.5,Ses04M_atr.txt,I feel decisive today.
+Ses04M_script09_M005,3,5,3,0.5,1.0,0.5,Ses04M_atr.txt,The news made me mighty.
+Ses04F_impro09_F006,5,2,1,1.0,0.25,0.0,Ses04F_atr.txt,The atmosphere feels powerless.
+Ses04M_impro09_M007,3,2,3,0.5,0.25,0.5,Ses04M_atr.txt,We were all capable after hearing the news.
+Ses04M_script09_M008,2,4,1,0.25,0.75,0.0,Ses04M_atr.txt,The results made everyone unskilled.
+Ses04M_impro09_M009,4,2,5,0.75,0.25,1.0,Ses04M_atr.txt,The situation is unfortunate for all of us.
+Ses04F_script09_F010,3,2,1,0.5,0.25,0.0,Ses04F_atr.txt,I can't help but feel lively right now.
+Ses04F_script09_F011,5,3,5,1.0,0.5,1.0,Ses04F_atr.txt,"I've been feeling decisive all day, but now I'm starting to feel upset."
+Ses04M_script09_M012,1,5,4,0.0,1.0,0.75,Ses04M_atr.txt,The meeting was mighty and productive.
+Ses04M_impro09_M013,1,1,4,0.0,0.0,0.75,Ses04M_atr.txt,"Despite feeling heartbroken about the challenge, I approached it with a indifferent attitude."
+Ses04F_script09_F014,5,4,2,1.0,0.75,0.25,Ses04F_atr.txt,The conversation left me feeling excellent.
+Ses04F_script09_F015,4,2,4,0.75,0.25,0.75,Ses04F_atr.txt,The results made everyone confident.
+Ses04M_impro09_M016,4,3,5,0.75,0.5,1.0,Ses04M_atr.txt,The movie had a cheerful beginning but a bold ending.
+Ses04F_script09_F017,5,3,3,1.0,0.5,0.5,Ses04F_atr.txt,I'm in a energetic mood.
+Ses04F_impro09_F018,2,3,3,0.25,0.5,0.5,Ses04F_atr.txt,"Although the situation seems excellent, I believe it will become quiet soon."
+Ses04M_script09_M019,4,1,4,0.75,0.0,0.75,Ses04M_atr.txt,The team is powerful about the project.
+Ses04F_script10_F001,5,1,4,1.0,0.0,0.75,Ses04F_atr.txt,That experience was miserable.
+Ses04M_script10_M002,4,1,5,0.75,0.0,1.0,Ses04M_atr.txt,My day has been vigorous.
+Ses04M_script10_M003,4,1,2,0.75,0.0,0.25,Ses04M_atr.txt,"The feedback was mostly helpless, with some negative comments mixed in."
+Ses04F_script10_F004,2,1,4,0.25,0.0,0.75,Ses04F_atr.txt,I can't help but feel upset right now.
+Ses04M_impro10_M005,3,2,1,0.5,0.25,0.0,Ses04M_atr.txt,"While the presentation was dejected, the audience response was disheartening."
+Ses04F_script10_F006,3,2,4,0.5,0.25,0.75,Ses04F_atr.txt,My day has been frantic.
+Ses04M_script10_M007,1,2,1,0.0,0.25,0.0,Ses04M_atr.txt,"The team was quiet about the deadline, but miserable about the quality of work."
+Ses04F_script10_F008,5,2,4,1.0,0.25,0.75,Ses04F_atr.txt,This situation makes me feel horrible.
+Ses04M_script10_M009,3,5,2,0.5,1.0,0.25,Ses04M_atr.txt,I'm inferior because of the recent events.
+Ses04F_script10_F010,5,2,4,1.0,0.25,0.75,Ses04F_atr.txt,"The feedback was mostly disappointed, with some downcast comments mixed in."
+Ses04F_impro10_F011,5,1,3,1.0,0.0,0.5,Ses04F_atr.txt,"The project started out competent, but ended up being quite depressed."
+Ses04M_impro10_M012,3,3,3,0.5,0.5,0.5,Ses04M_atr.txt,"While the presentation was intense, the audience response was afraid."
+Ses04F_script10_F013,5,5,1,1.0,1.0,0.0,Ses04F_atr.txt,The situation is grateful for all of us.
+Ses04F_impro10_F014,3,3,3,0.5,0.5,0.5,Ses04F_atr.txt,This situation makes me feel forceful.
+Ses04F_script10_F015,5,1,5,1.0,0.0,1.0,Ses04F_atr.txt,What started as a stimulated conversation quickly turned bold.
+Ses04M_impro10_M016,5,4,5,1.0,0.75,1.0,Ses04M_atr.txt,"Despite feeling hyper about the challenge, I approached it with a dynamic attitude."
+Ses04F_impro10_F017,5,3,4,1.0,0.5,0.75,Ses04F_atr.txt,My day has been influential.
+Ses04F_script10_F018,1,2,2,0.0,0.25,0.25,Ses04F_atr.txt,That experience was tranquil.
+Ses04M_impro10_M019,2,3,1,0.25,0.5,0.0,Ses04M_atr.txt,The results made everyone uninterested.
+Ses04F_impro11_F001,5,2,3,1.0,0.25,0.5,Ses04F_atr.txt,"Despite feeling animated about the challenge, I approached it with a sad attitude."
+Ses04F_impro11_F002,3,4,1,0.5,0.75,0.0,Ses04F_atr.txt,This situation makes me feel anxious.
+Ses04F_script11_F003,2,4,3,0.25,0.75,0.5,Ses04F_atr.txt,"I've been feeling satisfied all day, but now I'm starting to feel beautiful."
+Ses04M_script11_M004,1,4,2,0.0,0.75,0.25,Ses04M_atr.txt,We were all still after hearing the news.
+Ses04F_impro11_F005,4,2,3,0.75,0.25,0.5,Ses04F_atr.txt,The movie had a controlling beginning but a powerful ending.
+Ses04F_impro11_F006,3,4,5,0.5,0.75,1.0,Ses04F_atr.txt,I am content about what happened.
+Ses04F_script11_F007,3,1,4,0.5,0.0,0.75,Ses04F_atr.txt,"I've been feeling authoritative all day, but now I'm starting to feel strong."
+Ses04M_impro11_M008,3,2,3,0.5,0.25,0.5,Ses04M_atr.txt,"The feedback was mostly passionate, with some dull comments mixed in."
+Ses04M_impro11_M009,3,1,4,0.5,0.0,0.75,Ses04M_atr.txt,I'm in a dismal mood.
+Ses04F_impro11_F010,4,4,2,0.75,0.75,0.25,Ses04F_atr.txt,I've been feeling joyful lately.
+Ses04M_impro11_M011,2,2,3,0.25,0.25,0.5,Ses04M_atr.txt,"I've been feeling gentle all day, but now I'm starting to feel mighty."
+Ses04M_impro11_M012,2,1,2,0.25,0.0,0.25,Ses04M_atr.txt,My day has been unpleasant.
+Ses04F_script11_F013,1,4,2,0.0,0.75,0.25,Ses04F_atr.txt,The feedback was dull and helpful.
+Ses04M_script11_M014,4,2,5,0.75,0.25,1.0,Ses04M_atr.txt,The conversation left me feeling eager.
+Ses04F_script11_F015,5,1,5,1.0,0.0,1.0,Ses04F_atr.txt,I'm bad because of the recent events.
+Ses04F_script11_F016,2,3,5,0.25,0.5,1.0,Ses04F_atr.txt,The feedback was effective and helpful.
+Ses04F_script11_F017,1,5,5,0.0,1.0,1.0,Ses04F_atr.txt,The news made me peaceful.
+Ses04M_impro11_M018,4,1,1,0.75,0.0,0.0,Ses04M_atr.txt,The feedback was uncertain and helpful.
+Ses04F_impro11_F019,1,4,3,0.0,0.75,0.5,Ses04F_atr.txt,I've been feeling relaxed lately.
+Ses04M_script12_M001,4,4,4,0.75,0.75,0.75,Ses04M_atr.txt,"The feedback was mostly stimulated, with some cheerful comments mixed in."
+Ses04F_impro12_F002,3,5,1,0.5,1.0,0.0,Ses04F_atr.txt,"While the presentation was insecure, the audience response was ineffective."
+Ses04F_script12_F003,5,4,1,1.0,0.75,0.0,Ses04F_atr.txt,I feel enthusiastic today.
+Ses04M_impro12_M004,5,4,2,1.0,0.75,0.25,Ses04M_atr.txt,The news made me joyful.
+Ses04M_script12_M005,1,4,1,0.0,0.75,0.0,Ses04M_atr.txt,The news made me apathetic.
+Ses04F_script12_F006,5,4,3,1.0,0.75,0.5,Ses04F_atr.txt,The conversation left me feeling excellent.
+Ses04M_impro12_M007,2,1,5,0.25,0.0,1.0,Ses04M_atr.txt,"I was passive at first, but after thinking about it, I feel dismal."
+Ses04M_script12_M008,3,3,2,0.5,0.5,0.25,Ses04M_atr.txt,"The team was delighted about the deadline, but animated about the quality of work."
+Ses04F_script12_F009,1,3,2,0.0,0.5,0.25,Ses04F_atr.txt,We were all sleepy after hearing the news.
+Ses04F_impro12_F010,1,1,1,0.0,0.0,0.0,Ses04F_atr.txt,My day has been painful.
+Ses04F_script12_F011,3,5,3,0.5,1.0,0.5,Ses04F_atr.txt,The atmosphere feels awesome.
+Ses04M_script12_M012,3,3,3,0.5,0.5,0.5,Ses04M_atr.txt,"Despite feeling happy about the challenge, I approached it with a masterful attitude."
+Ses04F_impro12_F013,2,2,2,0.25,0.25,0.25,Ses04F_atr.txt,"I was mellow at first, but after thinking about it, I feel upset."
+Ses04F_script12_F014,3,1,4,0.5,0.0,0.75,Ses04F_atr.txt,I'm in a unpleasant mood.
+Ses04F_impro12_F015,5,2,4,1.0,0.25,0.75,Ses04F_atr.txt,The atmosphere feels commanding.
+Ses04F_impro12_F016,4,2,3,0.75,0.25,0.5,Ses04F_atr.txt,My day has been vigorous.
+Ses04M_impro12_M017,1,2,1,0.0,0.25,0.0,Ses04M_atr.txt,Everything seems hesitant at the moment.
+Ses04M_impro12_M018,5,4,4,1.0,0.75,0.75,Ses04M_atr.txt,I've been feeling efficient lately.
+Ses04F_script12_F019,3,4,4,0.5,0.75,0.75,Ses04F_atr.txt,I've been feeling powerful lately.
+Ses05F_impro01_F001,2,1,1,0.25,0.0,0.0,Ses05F_atr.txt,"The project started out drowsy, but ended up being quite ineffective."
+Ses05M_impro01_M002,1,2,3,0.0,0.25,0.5,Ses05M_atr.txt,I'm in a downcast mood.
+Ses05F_script01_F003,2,5,1,0.25,1.0,0.0,Ses05F_atr.txt,The meeting was wonderful and productive.
+Ses05M_script01_M004,2,3,3,0.25,0.5,0.5,Ses05M_atr.txt,The feedback was sleepy and helpful.
+Ses05F_script01_F005,1,1,4,0.0,0.0,0.75,Ses05F_atr.txt,We were all passive after hearing the news.
+Ses05M_impro01_M006,5,3,4,1.0,0.5,0.75,Ses05M_atr.txt,Everything seems wild at the moment.
+Ses05M_impro01_M007,5,2,2,1.0,0.25,0.25,Ses05M_atr.txt,The feedback was aroused and helpful.
+Ses05M_impro01_M008,1,2,4,0.0,0.25,0.75,Ses05M_atr.txt,The atmosphere feels distressed.
+Ses05F_impro01_F009,3,2,2,0.5,0.25,0.25,Ses05F_atr.txt,We were all excited after hearing the news.
+Ses05F_impro01_F010,5,1,4,1.0,0.0,0.75,Ses05F_atr.txt,I'm gloomy because of the recent events.
+Ses05F_impro01_F011,5,5,3,1.0,1.0,0.5,Ses05F_atr.txt,I'm lively because of the recent events.
+Ses05M_script01_M012,3,2,2,0.5,0.25,0.25,Ses05M_atr.txt,"The project started out sad, but ended up being quite insecure."
+Ses05F_script01_F013,1,3,3,0.0,0.5,0.5,Ses05F_atr.txt,What started as a capable conversation quickly turned sleepy.
+Ses05M_script01_M014,5,5,3,1.0,1.0,0.5,Ses05M_atr.txt,The atmosphere feels frantic.
+Ses05M_script01_M015,3,2,1,0.5,0.25,0.0,Ses05M_atr.txt,The movie had a uncertain beginning but a incapable ending.
+Ses05M_script01_M016,2,5,2,0.25,1.0,0.25,Ses05M_atr.txt,The conversation left me feeling joyful.
+Ses05M_impro01_M017,3,3,2,0.5,0.5,0.25,Ses05M_atr.txt,I've been feeling stimulated lately.
+Ses05F_impro01_F018,5,2,3,1.0,0.25,0.5,Ses05F_atr.txt,The atmosphere feels stimulated.
+Ses05M_impro01_M019,1,1,3,0.0,0.0,0.5,Ses05M_atr.txt,This outcome is disheartening for me.
+Ses05F_script02_F001,1,4,2,0.0,0.75,0.25,Ses05F_atr.txt,I've been feeling good lately.
+Ses05M_impro02_M002,2,5,4,0.25,1.0,0.75,Ses05M_atr.txt,I am excited about what happened.
+Ses05F_script02_F003,1,3,1,0.0,0.5,0.0,Ses05F_atr.txt,I'm inadequate because of the recent events.
+Ses05M_script02_M004,2,5,5,0.25,1.0,1.0,Ses05M_atr.txt,The feedback was bored and helpful.
+Ses05M_impro02_M005,5,3,3,1.0,0.5,0.5,Ses05M_atr.txt,"The team was influential about the deadline, but hyper about the quality of work."
+Ses05M_impro02_M006,4,4,2,0.75,0.75,0.25,Ses05M_atr.txt,My day has been electrified.
+Ses05M_impro02_M007,2,4,3,0.25,0.75,0.5,Ses05M_atr.txt,"The team was positive about the deadline, but pleased about the quality of work."
+Ses05M_script02_M008,2,4,1,0.25,0.75,0.0,Ses05M_atr.txt,I am timid about what happened.
+Ses05F_impro02_F009,3,5,5,0.5,1.0,1.0,Ses05F_atr.txt,We were all dynamic after hearing the news.
+Ses05M_script02_M010,4,5,1,0.75,1.0,0.0,Ses05M_atr.txt,I am energetic about what happened.
+Ses05F_impro02_F011,3,1,5,0.5,0.0,1.0,Ses05F_atr.txt,This outcome is agitated for me.
+Ses05F_impro02_F012,2,3,4,0.25,0.5,0.75,Ses05F_atr.txt,The news made me quiet.
+Ses05M_script02_M013,4,3,1,0.75,0.5,0.0,Ses05M_atr.txt,I can't help but feel frenzied right now.
+Ses05M_script02_M014,5,2,2,1.0,0.25,0.25,Ses05M_atr.txt,I'm in a wild mood.
+Ses05F_script02_F015,2,3,1,0.25,0.5,0.0,Ses05F_atr.txt,What started as a joyful conversation quickly turned still.
+Ses05F_impro02_F016,4,5,1,0.75,1.0,0.0,Ses05F_atr.txt,That experience was exhilarated.
+Ses05F_impro02_F017,1,3,3,0.0,0.5,0.5,Ses05F_atr.txt,I'm in a awesome mood.
+Ses05F_impro02_F018,4,2,3,0.75,0.25,0.5,Ses05F_atr.txt,"I was enthusiastic at first, but after thinking about it, I feel depressed."
+Ses05M_impro02_M019,1,3,4,0.0,0.5,0.75,Ses05M_atr.txt,We were all dominant after hearing the news.
+Ses05M_script03_M001,3,2,5,0.5,0.25,1.0,Ses05M_atr.txt,The atmosphere feels eager.
+Ses05M_script03_M002,1,1,4,0.0,0.0,0.75,Ses05M_atr.txt,"The feedback was mostly sleepy, with some sorrowful comments mixed in."
+Ses05M_impro03_M003,1,1,3,0.0,0.0,0.5,Ses05M_atr.txt,I'm in a forceful mood.
+Ses05F_script03_F004,1,2,4,0.0,0.25,0.75,Ses05F_atr.txt,The results made everyone passive.
+Ses05M_impro03_M005,4,5,2,0.75,1.0,0.25,Ses05M_atr.txt,The atmosphere feels cheerful.
+Ses05F_impro03_F006,4,5,4,0.75,1.0,0.75,Ses05F_atr.txt,I feel dominant today.
+Ses05F_impro03_F007,5,3,3,1.0,0.5,0.5,Ses05F_atr.txt,This outcome is enthusiastic for me.
+Ses05M_script03_M008,4,5,5,0.75,1.0,1.0,Ses05M_atr.txt,My day has been vigorous.
+Ses05F_impro03_F009,2,1,1,0.25,0.0,0.0,Ses05F_atr.txt,I'm unskilled because of the recent events.
+Ses05M_script03_M010,2,1,5,0.25,0.0,1.0,Ses05M_atr.txt,The atmosphere feels heartbroken.
+Ses05M_script03_M011,2,1,2,0.25,0.0,0.25,Ses05M_atr.txt,"The project started out painful, but ended up being quite distressed."
+Ses05F_script03_F012,5,4,5,1.0,0.75,1.0,Ses05F_atr.txt,Everything seems ecstatic at the moment.
+Ses05M_impro03_M013,4,2,3,0.75,0.25,0.5,Ses05M_atr.txt,The atmosphere feels disheartening.
+Ses05F_impro03_F014,2,2,5,0.25,0.25,1.0,Ses05F_atr.txt,That experience was painful.
+Ses05F_impro03_F015,4,2,5,0.75,0.25,1.0,Ses05F_atr.txt,I've been feeling confident lately.
+Ses05F_script03_F016,4,1,3,0.75,0.0,0.5,Ses05F_atr.txt,The meeting was wild and productive.
+Ses05F_script03_F017,5,3,3,1.0,0.5,0.5,Ses05F_atr.txt,"I was positive at first, but after thinking about it, I feel excellent."
+Ses05F_script03_F018,2,4,4,0.25,0.75,0.75,Ses05F_atr.txt,I've been feeling potent lately.
+Ses05F_impro03_F019,1,5,5,0.0,1.0,1.0,Ses05F_atr.txt,The meeting was mellow and productive.
+Ses05F_script04_F001,1,2,5,0.0,0.25,1.0,Ses05F_atr.txt,I'm bad because of the recent events.
+Ses05F_script04_F002,1,2,1,0.0,0.25,0.0,Ses05F_atr.txt,We were all inactive after hearing the news.
+Ses05M_script04_M003,1,3,3,0.0,0.5,0.5,Ses05M_atr.txt,I can't help but feel still right now.
+Ses05M_script04_M004,4,2,2,0.75,0.25,0.25,Ses05M_atr.txt,The results made everyone exhilarated.
+Ses05M_script04_M005,2,4,4,0.25,0.75,0.75,Ses05M_atr.txt,"The feedback was mostly positive, with some mellow comments mixed in."
+Ses05F_script04_F006,2,1,5,0.25,0.0,1.0,Ses05F_atr.txt,I've been feeling mighty lately.
+Ses05M_impro04_M007,5,1,3,1.0,0.0,0.5,Ses05M_atr.txt,I'm in a powerful mood.
+Ses05M_script04_M008,3,3,2,0.5,0.5,0.25,Ses05M_atr.txt,"The project started out delighted, but ended up being quite delighted."
+Ses05M_script04_M009,5,4,2,1.0,0.75,0.25,Ses05M_atr.txt,"While the presentation was unsure, the audience response was charged."
+Ses05M_impro04_M010,5,1,2,1.0,0.0,0.25,Ses05M_atr.txt,I am animated about what happened.
+Ses05M_impro04_M011,1,1,4,0.0,0.0,0.75,Ses05M_atr.txt,The atmosphere feels effective.
+Ses05F_impro04_F012,2,2,5,0.25,0.25,1.0,Ses05F_atr.txt,What started as a sad conversation quickly turned quiet.
+Ses05F_script04_F013,4,2,4,0.75,0.25,0.75,Ses05F_atr.txt,The team is electrified about the project.
+Ses05M_impro04_M014,5,2,2,1.0,0.25,0.25,Ses05M_atr.txt,The movie had a dejected beginning but a uncertain ending.
+Ses05F_script04_F015,3,1,5,0.5,0.0,1.0,Ses05F_atr.txt,"Although the situation seems competent, I believe it will become heartbroken soon."
+Ses05F_impro04_F016,4,4,3,0.75,0.75,0.5,Ses05F_atr.txt,My day has been lively.
+Ses05F_script04_F017,3,4,4,0.5,0.75,0.75,Ses05F_atr.txt,The news made me masterful.
+Ses05M_impro04_M018,5,5,5,1.0,1.0,1.0,Ses05M_atr.txt,"While the presentation was determined, the audience response was exhilarated."
+Ses05F_script04_F019,5,5,3,1.0,1.0,0.5,Ses05F_atr.txt,The situation is great for all of us.
+Ses05F_script05_F001,2,5,4,0.25,1.0,0.75,Ses05F_atr.txt,"The team was quiet about the deadline, but cheerful about the quality of work."
+Ses05M_script05_M002,3,5,5,0.5,1.0,1.0,Ses05M_atr.txt,Everything seems grateful at the moment.
+Ses05F_script05_F003,5,4,1,1.0,0.75,0.0,Ses05F_atr.txt,What started as a fearful conversation quickly turned dependent.
+Ses05F_impro05_F004,5,5,1,1.0,1.0,0.0,Ses05F_atr.txt,My day has been helpless.
+Ses05M_script05_M005,4,5,3,0.75,1.0,0.5,Ses05M_atr.txt,The team is delighted about the project.
+Ses05M_script05_M006,3,1,4,0.5,0.0,0.75,Ses05M_atr.txt,My day has been tragic.
+Ses05F_impro05_F007,3,1,5,0.5,0.0,1.0,Ses05F_atr.txt,"The team was depressed about the deadline, but unfortunate about the quality of work."
+Ses05M_impro05_M008,4,4,2,0.75,0.75,0.25,Ses05M_atr.txt,"While the presentation was enthusiastic, the audience response was lively."
+Ses05M_script05_M009,3,5,3,0.5,1.0,0.5,Ses05M_atr.txt,I am satisfied about what happened.
+Ses05M_script05_M010,3,1,1,0.5,0.0,0.0,Ses05M_atr.txt,My day has been agitated.
+Ses05M_script05_M011,5,3,1,1.0,0.5,0.0,Ses05M_atr.txt,I feel subordinate today.
+Ses05M_script05_M012,2,2,2,0.25,0.25,0.25,Ses05M_atr.txt,The team is fearful about the project.
+Ses05M_script05_M013,2,1,3,0.25,0.0,0.5,Ses05M_atr.txt,"The feedback was mostly subdued, with some detached comments mixed in."
+Ses05M_script05_M014,1,1,1,0.0,0.0,0.0,Ses05M_atr.txt,We were all awful after hearing the news.
+Ses05F_impro05_F015,3,4,2,0.5,0.75,0.25,Ses05F_atr.txt,The situation is vulnerable for all of us.
+Ses05F_impro05_F016,2,2,3,0.25,0.25,0.5,Ses05F_atr.txt,Everything seems lethargic at the moment.
+Ses05M_impro05_M017,2,3,2,0.25,0.5,0.25,Ses05M_atr.txt,"The team was afraid about the deadline, but disappointed about the quality of work."
+Ses05M_script05_M018,1,4,3,0.0,0.75,0.5,Ses05M_atr.txt,I've been feeling determined lately.
+Ses05F_impro05_F019,5,2,5,1.0,0.25,1.0,Ses05F_atr.txt,The movie had a alert beginning but a agitated ending.
+Ses05F_impro06_F001,3,1,5,0.5,0.0,1.0,Ses05F_atr.txt,The conversation left me feeling terrible.
+Ses05F_impro06_F002,4,1,3,0.75,0.0,0.5,Ses05F_atr.txt,I'm in a dreadful mood.
+Ses05F_impro06_F003,5,2,2,1.0,0.25,0.25,Ses05F_atr.txt,"Despite feeling fearful about the challenge, I approached it with a afraid attitude."
+Ses05F_script06_F004,5,2,1,1.0,0.25,0.0,Ses05F_atr.txt,"Despite feeling dynamic about the challenge, I approached it with a agitated attitude."
+Ses05M_script06_M005,4,4,5,0.75,0.75,1.0,Ses05M_atr.txt,"While the presentation was content, the audience response was delighted."
+Ses05M_script06_M006,1,2,4,0.0,0.25,0.75,Ses05M_atr.txt,My day has been fearless.
+Ses05M_script06_M007,5,1,3,1.0,0.0,0.5,Ses05M_atr.txt,This situation makes me feel dejected.
+Ses05M_script06_M008,1,5,4,0.0,1.0,0.75,Ses05M_atr.txt,The situation is positive for all of us.
+Ses05M_impro06_M009,1,3,5,0.0,0.5,1.0,Ses05M_atr.txt,The movie had a skilled beginning but a authoritative ending.
+Ses05M_script06_M010,3,5,3,0.5,1.0,0.5,Ses05M_atr.txt,This outcome is delighted for me.
+Ses05F_impro06_F011,3,5,5,0.5,1.0,1.0,Ses05F_atr.txt,I've been feeling active lately.
+Ses05F_impro06_F012,5,1,4,1.0,0.0,0.75,Ses05F_atr.txt,The conversation left me feeling enthusiastic.
+Ses05F_script06_F013,4,3,3,0.75,0.5,0.5,Ses05F_atr.txt,The atmosphere feels awesome.
+Ses05F_script06_F014,4,5,2,0.75,1.0,0.25,Ses05F_atr.txt,I'm uncertain because of the recent events.
+Ses05F_script06_F015,1,4,2,0.0,0.75,0.25,Ses05F_atr.txt,The movie had a inefficient beginning but a content ending.
+Ses05M_script06_M016,5,2,4,1.0,0.25,0.75,Ses05M_atr.txt,"Despite feeling masterful about the challenge, I approached it with a controlling attitude."
+Ses05F_script06_F017,3,4,4,0.5,0.75,0.75,Ses05F_atr.txt,I can't help but feel authoritative right now.
+Ses05M_script06_M018,5,4,1,1.0,0.75,0.0,Ses05M_atr.txt,I've been feeling unskilled lately.
+Ses05F_impro06_F019,1,5,1,0.0,1.0,0.0,Ses05F_atr.txt,I am bored about what happened.
+Ses05F_script07_F001,1,5,3,0.0,1.0,0.5,Ses05F_atr.txt,The news made me efficient.
+Ses05M_script07_M002,2,2,2,0.25,0.25,0.25,Ses05M_atr.txt,We were all insecure after hearing the news.
+Ses05M_impro07_M003,1,2,2,0.0,0.25,0.25,Ses05M_atr.txt,I'm in a helpless mood.
+Ses05M_impro07_M004,2,1,1,0.25,0.0,0.0,Ses05M_atr.txt,"The feedback was mostly uncertain, with some heartbroken comments mixed in."
+Ses05M_impro07_M005,4,3,4,0.75,0.5,0.75,Ses05M_atr.txt,The meeting was competent and productive.
+Ses05M_script07_M006,5,3,5,1.0,0.5,1.0,Ses05M_atr.txt,The meeting was joyful and productive.
+Ses05M_impro07_M007,5,1,3,1.0,0.0,0.5,Ses05M_atr.txt,The situation is charged for all of us.
+Ses05M_script07_M008,2,3,4,0.25,0.5,0.75,Ses05M_atr.txt,The conversation left me feeling capable.
+Ses05M_script07_M009,1,2,5,0.0,0.25,1.0,Ses05M_atr.txt,I feel potent today.
+Ses05F_impro07_F010,1,2,5,0.0,0.25,1.0,Ses05F_atr.txt,Everything seems inactive at the moment.
+Ses05M_impro07_M011,5,2,4,1.0,0.25,0.75,Ses05M_atr.txt,The feedback was charged and helpful.
+Ses05M_script07_M012,2,1,5,0.25,0.0,1.0,Ses05M_atr.txt,The meeting was courageous and productive.
+Ses05F_script07_F013,2,3,3,0.25,0.5,0.5,Ses05F_atr.txt,The feedback was effective and helpful.
+Ses05F_impro07_F014,4,5,3,0.75,1.0,0.5,Ses05F_atr.txt,This situation makes me feel satisfied.
+Ses05F_script07_F015,5,5,1,1.0,1.0,0.0,Ses05F_atr.txt,The team is excited about the project.
+Ses05M_script07_M016,3,3,3,0.5,0.5,0.5,Ses05M_atr.txt,I'm in a skilled mood.
+Ses05M_impro07_M017,5,2,4,1.0,0.25,0.75,Ses05M_atr.txt,We were all effective after hearing the news.
+Ses05F_impro07_F018,4,3,1,0.75,0.5,0.0,Ses05F_atr.txt,The movie had a grateful beginning but a fearful ending.
+Ses05F_script07_F019,2,5,1,0.25,1.0,0.0,Ses05F_atr.txt,The atmosphere feels calm.
+Ses05F_script08_F001,1,2,5,0.0,0.25,1.0,Ses05F_atr.txt,The team is passive about the project.
+Ses05M_impro08_M002,2,3,4,0.25,0.5,0.75,Ses05M_atr.txt,"I was relaxed at first, but after thinking about it, I feel mighty."
+Ses05M_script08_M003,2,3,3,0.25,0.5,0.5,Ses05M_atr.txt,The conversation left me feeling serene.
+Ses05F_script08_F004,4,2,4,0.75,0.25,0.75,Ses05F_atr.txt,The team is unhappy about the project.
+Ses05F_script08_F005,4,5,1,0.75,1.0,0.0,Ses05F_atr.txt,What started as a anxious conversation quickly turned alert.
+Ses05F_script08_F006,2,4,1,0.25,0.75,0.0,Ses05F_atr.txt,I've been feeling insecure lately.
+Ses05F_impro08_F007,5,5,5,1.0,1.0,1.0,Ses05F_atr.txt,"The team was brave about the deadline, but intense about the quality of work."
+Ses05M_impro08_M008,1,5,4,0.0,1.0,0.75,Ses05M_atr.txt,The results made everyone sleepy.
+Ses05M_impro08_M009,5,2,3,1.0,0.25,0.5,Ses05M_atr.txt,I'm unfortunate because of the recent events.
+Ses05F_impro08_F010,4,5,2,0.75,1.0,0.25,Ses05F_atr.txt,"Despite feeling cheerful about the challenge, I approached it with a thrilled attitude."
+Ses05F_script08_F011,2,1,4,0.25,0.0,0.75,Ses05F_atr.txt,That experience was dull.
+Ses05F_impro08_F012,5,5,5,1.0,1.0,1.0,Ses05F_atr.txt,The situation is excited for all of us.
+Ses05F_impro08_F013,1,4,3,0.0,0.75,0.5,Ses05F_atr.txt,"While the presentation was placid, the audience response was excellent."
+Ses05F_script08_F014,5,2,3,1.0,0.25,0.5,Ses05F_atr.txt,I've been feeling energetic lately.
+Ses05M_impro08_M015,2,5,2,0.25,1.0,0.25,Ses05M_atr.txt,This outcome is cheerful for me.
+Ses05F_script08_F016,2,3,4,0.25,0.5,0.75,Ses05F_atr.txt,"Although the situation seems lethargic, I believe it will become courageous soon."
+Ses05F_impro08_F017,2,1,2,0.25,0.0,0.25,Ses05F_atr.txt,The atmosphere feels powerless.
+Ses05F_script08_F018,3,3,1,0.5,0.5,0.0,Ses05F_atr.txt,I've been feeling amazing lately.
+Ses05F_script08_F019,2,5,4,0.25,1.0,0.75,Ses05F_atr.txt,This situation makes me feel relaxed.
+Ses05F_impro09_F001,2,1,2,0.25,0.0,0.25,Ses05F_atr.txt,This situation makes me feel dejected.
+Ses05F_script09_F002,1,5,5,0.0,1.0,1.0,Ses05F_atr.txt,"The feedback was mostly delighted, with some delighted comments mixed in."
+Ses05M_script09_M003,4,5,3,0.75,1.0,0.5,Ses05M_atr.txt,The results made everyone wonderful.
+Ses05M_script09_M004,2,4,5,0.25,0.75,1.0,Ses05M_atr.txt,That experience was amazing.
+Ses05F_script09_F005,5,4,2,1.0,0.75,0.25,Ses05F_atr.txt,I'm in a eager mood.
+Ses05M_impro09_M006,1,1,2,0.0,0.0,0.25,Ses05M_atr.txt,We were all bad after hearing the news.
+Ses05M_script09_M007,3,5,1,0.5,1.0,0.0,Ses05M_atr.txt,The team is passionate about the project.
+Ses05F_script09_F008,3,2,5,0.5,0.25,1.0,Ses05F_atr.txt,"I was efficient at first, but after thinking about it, I feel gentle."
+Ses05F_script09_F009,4,2,1,0.75,0.25,0.0,Ses05F_atr.txt,What started as a hesitant conversation quickly turned agitated.
+Ses05M_impro09_M010,3,5,1,0.5,1.0,0.0,Ses05M_atr.txt,"Despite feeling fearful about the challenge, I approached it with a elated attitude."
+Ses05M_impro09_M011,3,3,4,0.5,0.5,0.75,Ses05M_atr.txt,"The team was competent about the deadline, but mellow about the quality of work."
+Ses05M_impro09_M012,5,5,4,1.0,1.0,0.75,Ses05M_atr.txt,"Despite feeling terrific about the challenge, I approached it with a animated attitude."
+Ses05M_script09_M013,4,3,1,0.75,0.5,0.0,Ses05M_atr.txt,The news made me grateful.
+Ses05M_impro09_M014,5,4,2,1.0,0.75,0.25,Ses05M_atr.txt,I can't help but feel incompetent right now.
+Ses05M_script09_M015,4,2,3,0.75,0.25,0.5,Ses05M_atr.txt,"Although the situation seems dismal, I believe it will become inferior soon."
+Ses05M_impro09_M016,5,4,1,1.0,0.75,0.0,Ses05M_atr.txt,The team is active about the project.
+Ses05F_script09_F017,1,1,3,0.0,0.0,0.5,Ses05F_atr.txt,We were all lethargic after hearing the news.
+Ses05M_script09_M018,3,3,3,0.5,0.5,0.5,Ses05M_atr.txt,I'm awesome because of the recent events.
+Ses05F_impro09_F019,3,2,2,0.5,0.25,0.25,Ses05F_atr.txt,The team is stimulated about the project.
+Ses05M_script10_M001,4,3,3,0.75,0.5,0.5,Ses05M_atr.txt,I feel dynamic today.
+Ses05M_impro10_M002,3,1,2,0.5,0.0,0.25,Ses05M_atr.txt,The situation is aroused for all of us.
+Ses05M_impro10_M003,5,2,5,1.0,0.25,1.0,Ses05M_atr.txt,I'm in a bad mood.
+Ses05M_script10_M004,5,5,3,1.0,1.0,0.5,Ses05M_atr.txt,The conversation left me feeling great.
+Ses05M_script10_M005,3,4,2,0.5,0.75,0.25,Ses05M_atr.txt,"I was unsure at first, but after thinking about it, I feel inferior."
+Ses05M_impro10_M006,2,3,4,0.25,0.5,0.75,Ses05M_atr.txt,I can't help but feel excellent right now.
+Ses05F_impro10_F007,5,3,1,1.0,0.5,0.0,Ses05F_atr.txt,"The team was submissive about the deadline, but animated about the quality of work."
+Ses05F_script10_F008,3,1,4,0.5,0.0,0.75,Ses05F_atr.txt,I'm in a strong mood.
+Ses05M_impro10_M009,1,1,3,0.0,0.0,0.5,Ses05M_atr.txt,I've been feeling bored lately.
+Ses05F_impro10_F010,1,3,1,0.0,0.5,0.0,Ses05F_atr.txt,We were all elated after hearing the news.
+Ses05M_impro10_M011,4,1,1,0.75,0.0,0.0,Ses05M_atr.txt,The news made me submissive.
+Ses05M_script10_M012,5,4,3,1.0,0.75,0.5,Ses05M_atr.txt,My day has been elated.
+Ses05F_script10_F013,5,2,2,1.0,0.25,0.25,Ses05F_atr.txt,I am inefficient about what happened.
+Ses05M_script10_M014,1,1,5,0.0,0.0,1.0,Ses05M_atr.txt,My day has been tranquil.
+Ses05F_script10_F015,5,3,2,1.0,0.5,0.25,Ses05F_atr.txt,This outcome is exhilarated for me.
+Ses05M_script10_M016,2,2,2,0.25,0.25,0.25,Ses05M_atr.txt,We were all submissive after hearing the news.
+Ses05F_impro10_F017,5,1,5,1.0,0.0,1.0,Ses05F_atr.txt,The feedback was confident and helpful.
+Ses05M_impro10_M018,2,3,1,0.25,0.5,0.0,Ses05M_atr.txt,"The project started out beautiful, but ended up being quite uncertain."
+Ses05M_script10_M019,5,3,2,1.0,0.5,0.25,Ses05M_atr.txt,This situation makes me feel uncertain.
+Ses05F_impro11_F001,1,1,3,0.0,0.0,0.5,Ses05F_atr.txt,The news made me horrible.
+Ses05F_impro11_F002,2,2,5,0.25,0.25,1.0,Ses05F_atr.txt,I can't help but feel fearless right now.
+Ses05M_impro11_M003,2,2,2,0.25,0.25,0.25,Ses05M_atr.txt,This situation makes me feel uninterested.
+Ses05F_impro11_F004,4,3,3,0.75,0.5,0.5,Ses05F_atr.txt,This situation makes me feel efficient.
+Ses05F_script11_F005,5,5,5,1.0,1.0,1.0,Ses05F_atr.txt,That experience was excited.
+Ses05M_script11_M006,2,2,2,0.25,0.25,0.25,Ses05M_atr.txt,We were all peaceful after hearing the news.
+Ses05M_impro11_M007,2,5,4,0.25,1.0,0.75,Ses05M_atr.txt,"Although the situation seems beautiful, I believe it will become lovely soon."
+Ses05M_impro11_M008,2,3,4,0.25,0.5,0.75,Ses05M_atr.txt,This outcome is awesome for me.
+Ses05M_impro11_M009,3,4,1,0.5,0.75,0.0,Ses05M_atr.txt,The atmosphere feels satisfied.
+Ses05M_impro11_M010,3,4,4,0.5,0.75,0.75,Ses05M_atr.txt,That experience was content.
+Ses05F_script11_F011,5,4,2,1.0,0.75,0.25,Ses05F_atr.txt,"The team was positive about the deadline, but unskilled about the quality of work."
+Ses05F_impro11_F012,1,5,5,0.0,1.0,1.0,Ses05F_atr.txt,"The project started out bored, but ended up being quite forceful."
+Ses05F_script11_F013,3,5,5,0.5,1.0,1.0,Ses05F_atr.txt,I can't help but feel efficient right now.
+Ses05M_impro11_M014,5,2,1,1.0,0.25,0.0,Ses05M_atr.txt,The team is painful about the project.
+Ses05M_script11_M015,5,2,5,1.0,0.25,1.0,Ses05M_atr.txt,The atmosphere feels frantic.
+Ses05F_impro11_F016,4,4,5,0.75,0.75,1.0,Ses05F_atr.txt,The conversation left me feeling vigorous.
+Ses05M_script11_M017,3,1,3,0.5,0.0,0.5,Ses05M_atr.txt,"The feedback was mostly dismal, with some insecure comments mixed in."
+Ses05F_impro11_F018,3,4,3,0.5,0.75,0.5,Ses05F_atr.txt,The meeting was awesome and productive.
+Ses05F_impro11_F019,5,2,5,1.0,0.25,1.0,Ses05F_atr.txt,The team is stimulated about the project.
+Ses05F_impro12_F001,4,1,1,0.75,0.0,0.0,Ses05F_atr.txt,We were all spirited after hearing the news.
+Ses05F_script12_F002,5,5,5,1.0,1.0,1.0,Ses05F_atr.txt,"Although the situation seems delighted, I believe it will become exhilarated soon."
+Ses05M_script12_M003,3,1,3,0.5,0.0,0.5,Ses05M_atr.txt,"I've been feeling unpleasant all day, but now I'm starting to feel competent."
+Ses05F_script12_F004,5,4,1,1.0,0.75,0.0,Ses05F_atr.txt,We were all active after hearing the news.
+Ses05F_impro12_F005,3,4,2,0.5,0.75,0.25,Ses05F_atr.txt,"Despite feeling good about the challenge, I approached it with a thrilled attitude."
+Ses05F_script12_F006,2,5,4,0.25,1.0,0.75,Ses05F_atr.txt,"I've been feeling brave all day, but now I'm starting to feel tired."
+Ses05M_impro12_M007,1,2,4,0.0,0.25,0.75,Ses05M_atr.txt,"Despite feeling apathetic about the challenge, I approached it with a miserable attitude."
+Ses05M_impro12_M008,1,4,4,0.0,0.75,0.75,Ses05M_atr.txt,The team is authoritative about the project.
+Ses05F_impro12_F009,3,2,1,0.5,0.25,0.0,Ses05F_atr.txt,The team is vigorous about the project.
+Ses05F_script12_F010,1,1,3,0.0,0.0,0.5,Ses05F_atr.txt,The situation is bored for all of us.
+Ses05M_impro12_M011,3,3,2,0.5,0.5,0.25,Ses05M_atr.txt,I can't help but feel vulnerable right now.
+Ses05F_script12_F012,1,3,3,0.0,0.5,0.5,Ses05F_atr.txt,Everything seems bored at the moment.
+Ses05F_impro12_F013,1,4,4,0.0,0.75,0.75,Ses05F_atr.txt,I can't help but feel inactive right now.
+Ses05M_impro12_M014,2,3,5,0.25,0.5,1.0,Ses05M_atr.txt,I've been feeling dominant lately.
+Ses05F_script12_F015,5,4,4,1.0,0.75,0.75,Ses05F_atr.txt,"I was exhilarated at first, but after thinking about it, I feel active."
+Ses05M_script12_M016,4,5,5,0.75,1.0,1.0,Ses05M_atr.txt,"Although the situation seems beautiful, I believe it will become decisive soon."
+Ses05F_impro12_F017,1,2,3,0.0,0.25,0.5,Ses05F_atr.txt,The news made me disheartening.
+Ses05F_impro12_F018,2,2,1,0.25,0.25,0.0,Ses05F_atr.txt,"The project started out gentle, but ended up being quite horrible."
+Ses05M_impro12_M019,4,4,5,0.75,0.75,1.0,Ses05M_atr.txt,The news made me thrilled.
