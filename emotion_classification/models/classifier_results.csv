@@ -1,13 +1,13 @@
-emotion_model,classifier_type,accuracy,best_params
-quadrant,random_forest,1.0,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}"
-quadrant,svm,1.0,"{'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}"
-quadrant,mlp,1.0,"{'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant'}"
-custom,random_forest,1.0,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}"
-custom,svm,1.0,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}"
-custom,mlp,0.9982517482517482,"{'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant'}"
-plutchik,random_forest,1.0,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}"
-plutchik,svm,1.0,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}"
-plutchik,mlp,1.0,"{'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant'}"
-ekman,random_forest,1.0,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}"
-ekman,svm,1.0,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}"
-ekman,mlp,1.0,"{'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant'}"
+emotion_model,classifier_type,best_params
+ekman,random_forest,{'classifier_type': 'random_forest'}
+ekman,svm,{'classifier_type': 'svm'}
+ekman,mlp,{'classifier_type': 'mlp'}
+plutchik,random_forest,{'classifier_type': 'random_forest'}
+plutchik,svm,{'classifier_type': 'svm'}
+plutchik,mlp,{'classifier_type': 'mlp'}
+quadrant,random_forest,{'classifier_type': 'random_forest'}
+quadrant,svm,{'classifier_type': 'svm'}
+quadrant,mlp,{'classifier_type': 'mlp'}
+custom,random_forest,{'classifier_type': 'random_forest'}
+custom,svm,{'classifier_type': 'svm'}
+custom,mlp,{'classifier_type': 'mlp'}
