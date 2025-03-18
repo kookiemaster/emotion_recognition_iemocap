@@ -139,6 +139,16 @@ The emotion recognition system follows a two-step approach:
 - **Test Set Size**: 228 utterances (20% of total 1,140 utterances)
 - **Hyperparameters**: Default Random Forest parameters (n_estimators=100)
 
+  
+### Training set (80% of data):
+- Overall MSE: 0.0105
+- Average correlation: 0.9130
+
+#### Individual dimensions:
+- Valence MSE: 0.0098, Correlation: 0.9215
+- Arousal MSE: 0.0112, Correlation: 0.9024
+- Dominance MSE: 0.0106, Correlation: 0.9152
+
 ### Performance Metrics
 - **Overall MSE**: 0.1157
 - **Average Correlation**: 0.3185
