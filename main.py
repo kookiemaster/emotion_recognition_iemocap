@@ -1,124 +1,92 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """
-Main script for the emotion recognition project.
-This script provides a unified interface to run the entire emotion recognition pipeline.
+Main script for emotion recognition on IEMOCAP dataset.
+This script runs the complete pipeline:
+1. Generate text data from VAD annotations
+2. Convert text to VAD values using BERT
+3. Classify VAD values to emotion categories
+4. Evaluate the models
 """
 
 import os
 import sys
-import argparse
 import pandas as pd
 import numpy as np
-from utils import create_directory, get_project_root
-
-def parse_arguments():
-    """
-    Parse command line arguments.
-    
-    Returns:
-        Parsed arguments
-    """
-    parser = argparse.ArgumentParser(description='Emotion Recognition using VAD Approach')
-    parser.add_argument('--preprocess', action='store_true', help='Run data preprocessing')
-    parser.add_argument('--text-to-vad', action='store_true', help='Run text to VAD conversion')
-    parser.add_argument('--vad-research', action='store_true', help='Run VAD to emotion mapping research')
-    parser.add_argument('--vad-classifier', action='store_true', help='Run VAD to emotion classifier')
-    parser.add_argument('--evaluate', action='store_true', help='Run model evaluation')
-    parser.add_argument('--visualize', action='store_true', help='Create visualizations')
-    parser.add_argument('--all', action='store_true', help='Run the entire pipeline')
-    
-    return parser.parse_args()
-
-def run_preprocessing():
-    """
-    Run data preprocessing.
-    """
-    print("\n=== Running Data Preprocessing ===")
-    from data.preprocess import main as preprocess_main
-    preprocess_main()
-
-def run_text_to_vad():
-    """
-    Run text to VAD conversion.
-    """
-    print("\n=== Running Text to VAD Conversion ===")
-    from vad_conversion.text_to_vad import main as text_to_vad_main
-    text_to_vad_main()
-
-def run_vad_research():
-    """
-    Run VAD to emotion mapping research.
-    """
-    print("\n=== Running VAD to Emotion Mapping Research ===")
-    from emotion_classification.vad_to_emotion_research import main as vad_research_main
-    vad_research_main()
-
-def run_vad_classifier():
-    """
-    Run VAD to emotion classifier.
-    """
-    print("\n=== Running VAD to Emotion Classifier ===")
-    from emotion_classification.vad_to_emotion_classifier import main as vad_classifier_main
-    vad_classifier_main()
-
-def run_evaluation():
-    """
-    Run model evaluation.
-    """
-    print("\n=== Running Model Evaluation ===")
-    from evaluation.model_evaluation import main as evaluation_main
-    evaluation_main()
-
-def run_visualization():
-    """
-    Create visualizations.
-    """
-    print("\n=== Creating Visualizations ===")
-    from visualization.create_visualizations import main as visualization_main
-    visualization_main()
+import argparse
 
 def main():
     """
-    Main function to run the emotion recognition pipeline.
+    Main function to run the complete emotion recognition pipeline.
     """
     # Parse arguments
-    args = parse_arguments()
+    parser = argparse.ArgumentParser(description='Emotion recognition on IEMOCAP dataset')
+    parser.add_argument('--skip-text-generation', action='store_true', help='Skip text data generation')
+    parser.add_argument('--skip-text-to-vad', action='store_true', help='Skip text to VAD conversion')
+    parser.add_argument('--skip-vad-to-emotion', action='store_true', help='Skip VAD to emotion classification')
+    parser.add_argument('--skip-evaluation', action='store_true', help='Skip model evaluation')
+    args = parser.parse_args()
     
-    # Add project root to path
-    project_root = get_project_root()
-    sys.path.append(project_root)
+    # Set paths
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(base_dir, 'data')
+    processed_dir = os.path.join(data_dir, 'processed')
     
-    # Run the entire pipeline if --all is specified
-    if args.all:
-        args.preprocess = True
-        args.text_to_vad = True
-        args.vad_research = True
-        args.vad_classifier = True
-        args.evaluate = True
-        args.visualize = True
+    # Step 1: Generate text data from VAD annotations
+    if not args.skip_text_generation:
+        print("\n" + "="*50)
+        print("Step 1: Generating text data from VAD annotations")
+        print("="*50)
+        
+        # Import text data generation module
+        sys.path.append(os.path.join(data_dir, 'processed'))
+        from text_data import main as text_data_main
+        
+        # Run text data generation
+        text_data_main()
     
-    # Run selected components
-    if args.preprocess:
-        run_preprocessing()
+    # Step 2: Convert text to VAD values using BERT
+    if not args.skip_text_to_vad:
+        print("\n" + "="*50)
+        print("Step 2: Converting text to VAD values using BERT")
+        print("="*50)
+        
+        # Import text to VAD conversion module
+        sys.path.append(os.path.join(base_dir, 'vad_conversion'))
+        from text_to_vad_bert import main as text_to_vad_main
+        
+        # Run text to VAD conversion
+        text_to_vad_main()
     
-    if args.text_to_vad:
-        run_text_to_vad()
+    # Step 3: Classify VAD values to emotion categories
+    if not args.skip_vad_to_emotion:
+        print("\n" + "="*50)
+        print("Step 3: Classifying VAD values to emotion categories")
+        print("="*50)
+        
+        # Import VAD to emotion classification module
+        sys.path.append(os.path.join(base_dir, 'emotion_classification'))
+        from vad_to_emotion_improved import main as vad_to_emotion_main
+        
+        # Run VAD to emotion classification
+        vad_to_emotion_main()
     
-    if args.vad_research:
-        run_vad_research()
+    # Step 4: Evaluate the models
+    if not args.skip_evaluation:
+        print("\n" + "="*50)
+        print("Step 4: Evaluating the models")
+        print("="*50)
+        
+        # Import model evaluation module
+        sys.path.append(os.path.join(base_dir, 'evaluation'))
+        from model_evaluation_improved import main as evaluation_main
+        
+        # Run model evaluation
+        evaluation_main()
     
-    if args.vad_classifier:
-        run_vad_classifier()
-    
-    if args.evaluate:
-        run_evaluation()
-    
-    if args.visualize:
-        run_visualization()
-    
-    print("\n=== Emotion Recognition Pipeline Completed ===")
+    print("\n" + "="*50)
+    print("Emotion recognition pipeline completed")
+    print("="*50)
 
 if __name__ == "__main__":
     main()
